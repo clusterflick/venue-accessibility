@@ -1,0 +1,72 @@
+name: Release
+
+# Publishes the reviewed records as one file, venue-accessibility.json, which
+# the website reads at build time. A merge into main is the approval, so a
+# change to the records on main is what gets released. Only records/ is
+# published; candidates/ never is.
+#
+# The website isn't told: it rebuilds several times a day and takes the latest
+# release each time.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "records/**"
+      - "lib/**"
+      - "scripts/build-release.js"
+      - "package.json"
+      - "package-lock.json"
+  workflow_dispatch:
+
+permissions: {}
+
+# Two merges close together each start a run; the later one holds the later
+# records, so it should be the one that ends up latest.
+concurrency:
+  group: release
+  cancel-in-progress: false
+
+jobs:
+  release:
+    name: Build and publish
+    runs-on: ubuntu-latest
+    # ncipollo/release-action creates a release and tag with GITHUB_TOKEN.
+    permissions:
+      contents: write
+    env:
+      TZ: Europe/London
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v6
+        with:
+          node-version-file: .node-version
+      - run: npm ci
+      # Validated against the venues scripts lists now, as CI does: the
+      # release refuses records the rules would refuse.
+      - run: npm install --no-save github:clusterflick/scripts
+      - run: npm run build-release
+      - name: Generate Tag
+        run: echo "TAG=$(date +'%Y%m%d.%H%M%S')" >> "$GITHUB_ENV"
+      - uses: ncipollo/release-action@v1
+        id: release
+        with:
+          allowUpdates: false
+          artifactErrorsFailBuild: true
+          artifacts: "release/venue-accessibility.json"
+          # Create as a draft, attach the file, then publish, so
+          # releases/latest never points at a release without it.
+          immutableCreate: true
+          makeLatest: true
+          tag: ${{ env.TAG }}
+          commit: ${{ github.sha }}
+          body: |
+            Reviewed accessibility records for London cinemas and arts venues, from records/ at ${{ github.sha }}.
+
+            Created by job ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+      - name: Output summary
+        env:
+          RELEASE_URL: ${{ steps.release.outputs.html_url }}
+        run: echo "🔖 New release - $RELEASE_URL" >> "$GITHUB_STEP_SUMMARY"

@@ -16,7 +16,8 @@
     "format": "prettier \"./**/*.(m)?js(on)?\" --write && prettier \"./**/*.md\" --write --prose-wrap=always",
     "validate": "TZ=Europe/London node scripts/validate.js",
     "fetch-pages": "TZ=Europe/London node scripts/fetch-pages.js",
-    "import-seed": "TZ=Europe/London node scripts/import-seed.js"
+    "import-seed": "TZ=Europe/London node scripts/import-seed.js",
+    "build-release": "TZ=Europe/London node scripts/build-release.js"
   },
   "jest": {
     "testPathIgnorePatterns": [
