@@ -27,6 +27,7 @@ performance by the listings in
 | `scripts/`             | The commands below                                                                 |
 
 ```bash
+npm run build-release # release/venue-accessibility.json, as the site gets it
 npm run validate      # records and candidates, and quotes if pages were fetched
 npm run fetch-pages   # every page in sources.json, into fetched-pages/
 npm test              # includes validating the committed data
@@ -51,6 +52,21 @@ venue's record. A candidate's sources may go unquoted; a record's may not.
 
 A record that is all `unknown` is a true record: it says we don't know, which
 the page says too.
+
+## The release
+
+Every merge into `main` that changes the records publishes a release with one
+asset, `venue-accessibility.json`: `formatVersion`, `generatedAt`, the `commit`
+the records came from, and `venues`, every record keyed by venue id. Records
+that are all unknown are included, since they say a venue is in scope and
+unchecked. Candidates never are. The release is validated as it's built, so it
+can't carry data CI would refuse.
+
+The website takes the latest release when it builds, and refuses a
+`formatVersion` it wasn't built for. Raise `FORMAT_VERSION` in
+`lib/build-release.js` when a change would break a reader built against the old
+shape: a field removed, renamed or changed in meaning. A new optional field
+doesn't need it.
 
 ## Scope
 
@@ -290,9 +306,7 @@ on an Access Card listing alone.
    rather than to a parser, since its pages aren't a template.
 4. **Sources**: Everyman's Freshdesk article ids, ODEON's AccessAble slugs,
    Curzon, Cineworld, and the venues with nothing registered.
-5. **The release**: the records, with their confirmation dates, as one file the
-   website reads at build time, with a format version.
-6. **The website**: the venue page section, then the first filter.
+5. **The website**: the venue page section, then the first filter.
 
 For venues that publish nothing, keep an `access_contact` and ask for the
 per-screen details in the schema.
