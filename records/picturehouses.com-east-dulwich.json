@@ -128,9 +128,17 @@
       "transfer_seating": {
         "conflict": null,
         "last_found": null,
-        "note": null,
-        "sources": [],
-        "status": "unknown"
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable armrests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/east-dulwich/accessibility"
+          }
+        ],
+        "status": "no"
       },
       "wheelchair_spaces": {
         "conflict": null,
@@ -199,9 +207,17 @@
       "transfer_seating": {
         "conflict": null,
         "last_found": null,
-        "note": null,
-        "sources": [],
-        "status": "unknown"
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable armrests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/east-dulwich/accessibility"
+          }
+        ],
+        "status": "no"
       },
       "wheelchair_spaces": {
         "conflict": null,
@@ -270,9 +286,17 @@
       "transfer_seating": {
         "conflict": null,
         "last_found": null,
-        "note": null,
-        "sources": [],
-        "status": "unknown"
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable armrests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/east-dulwich/accessibility"
+          }
+        ],
+        "status": "no"
       },
       "wheelchair_spaces": {
         "conflict": null,
@@ -298,5 +322,20 @@
         "status": "yes"
       }
     }
-  ]
+  ],
+  "step_free_access": {
+    "conflict": null,
+    "last_found": null,
+    "note": "Ground floor",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Our café-bar, kiosk,accessible toilet and Screen 1 are on the ground floor and are accessible to customers with limited mobility, including wheelchair users.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.picturehouses.com/cinema/east-dulwich/accessibility"
+      }
+    ],
+    "status": "yes"
+  }
 }

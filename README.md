@@ -94,15 +94,39 @@ Every fact is a field object:
 `space_position` adds `value` (`front | middle | rear | mixed | unknown`).
 `chain_wide` is optional and marks a policy stated for the whole chain.
 
-Venue fields: `entrance_step_free`, `alt_accessible_entrance`, `lift`
-(`not_applicable` if single level), `accessible_toilet`, `changing_places`,
-`assistance_dogs`, `quiet_space` and `hearing_assist_counters`, beside `id`,
-`access_page_url`, `access_contact` and `notes`. A candidate may also carry
-`researched_on` and `origin`.
+Venue fields:
 
-Screen fields: `name`, optional `aliases`, `step_free`, `wheelchair_spaces`,
-`space_position`, `transfer_seating`, `hearing_assist` (note the type: induction
-loop, infrared, Dolby Fidelio, none) and `notes`.
+| Field                     | Meaning                                                                                                                                      |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| `step_free_access`        | A wheelchair user can get into the building without steps, by whatever route. "The ground floor is accessible to wheelchair users" says this |
+| `entrance_step_free`      | The **main** entrance can be used without steps. Only from a page that speaks of the entrance, the street or the whole building              |
+| `alt_accessible_entrance` | A separate step-free route (note how, e.g. "ring bell", "staff escort")                                                                      |
+| `lift`                    | A lift serves the public areas (`not_applicable` if single level)                                                                            |
+| `accessible_toilet`       | An accessible toilet exists; note its location and any steps                                                                                 |
+| `changing_places`         | A Changing Places toilet is on site                                                                                                          |
+| `assistance_dogs`         | Assistance dogs are welcome                                                                                                                  |
+| `quiet_space`             | A quiet or sensory space; note if it's only at relaxed events                                                                                |
+| `hearing_assist_counters` | Loops at the box office or counters                                                                                                          |
+
+`step_free_access` is the question a reader asks, and the one the filters use.
+The entrance fields say how: a page that only says the ground floor is
+accessible tells you someone can get in, not which door, so it gives
+`step_free_access` and leaves the entrance unknown.
+
+Beside them: `id`, `access_page_url`, `access_contact` and `notes`. A candidate
+may also carry `researched_on` and `origin`.
+
+Screen fields:
+
+| Field               | Meaning                                                                                                                                                                                                                                                    |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `name`, `aliases`   | The screen's name on the access page, and any other names its listings use where `getScreen` doesn't reduce both to the same                                                                                                                               |
+| `step_free`         | A wheelchair user can reach the screen and its wheelchair space without steps                                                                                                                                                                              |
+| `wheelchair_spaces` | The screen has wheelchair spaces, with `count`                                                                                                                                                                                                             |
+| `space_position`    | Where the spaces are, as `value`                                                                                                                                                                                                                           |
+| `transfer_seating`  | Seats a wheelchair user can move across into from their chair: usually on the aisle or beside a wheelchair space, with an armrest that lifts or comes off. "No" means none, not that nobody can sit in a seat: "All seats have immovable armrests" is a no |
+| `hearing_assist`    | Listening help in the screen; note the type (induction loop, infrared, Dolby Fidelio, headphones, none)                                                                                                                                                    |
+| `notes`             | Anything else about the screen                                                                                                                                                                                                                             |
 
 Records are keyed by venue id, not the website's slug: the slug is derived from
 the venue's name and changes when it does. The slug, name and kind are all

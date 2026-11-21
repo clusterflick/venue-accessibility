@@ -128,9 +128,17 @@
       "transfer_seating": {
         "conflict": null,
         "last_found": null,
-        "note": null,
-        "sources": [],
-        "status": "unknown"
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable armrests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/crouch-end-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
       },
       "wheelchair_spaces": {
         "conflict": null,
@@ -199,9 +207,17 @@
       "transfer_seating": {
         "conflict": null,
         "last_found": null,
-        "note": null,
-        "sources": [],
-        "status": "unknown"
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable armrests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/crouch-end-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
       },
       "wheelchair_spaces": {
         "conflict": null,
@@ -263,9 +279,17 @@
       "transfer_seating": {
         "conflict": null,
         "last_found": null,
-        "note": null,
-        "sources": [],
-        "status": "unknown"
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable armrests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/crouch-end-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
       },
       "wheelchair_spaces": {
         "conflict": null,
@@ -327,9 +351,17 @@
       "transfer_seating": {
         "conflict": null,
         "last_found": null,
-        "note": null,
-        "sources": [],
-        "status": "unknown"
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable armrests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/crouch-end-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
       },
       "wheelchair_spaces": {
         "conflict": null,
@@ -398,9 +430,17 @@
       "transfer_seating": {
         "conflict": null,
         "last_found": null,
-        "note": null,
-        "sources": [],
-        "status": "unknown"
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable armrests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/crouch-end-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
       },
       "wheelchair_spaces": {
         "conflict": null,
@@ -419,5 +459,27 @@
         "status": "no"
       }
     }
-  ]
+  ],
+  "step_free_access": {
+    "conflict": null,
+    "last_found": null,
+    "note": "Ground floor, where the screens are",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Cinema screens, our kiosk and cafe are on the ground floor.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.picturehouses.com/cinema/crouch-end-picturehouse/accessibility"
+      },
+      {
+        "checked_on": "2026-11-21",
+        "quote": "All our screens are fully accessible to customers with limited mobility including wheelchair users.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.picturehouses.com/cinema/crouch-end-picturehouse/accessibility"
+      }
+    ],
+    "status": "yes"
+  }
 }

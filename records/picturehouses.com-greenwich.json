@@ -128,9 +128,17 @@
       "transfer_seating": {
         "conflict": null,
         "last_found": null,
-        "note": null,
-        "sources": [],
-        "status": "unknown"
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable armrests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/greenwich-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
       },
       "wheelchair_spaces": {
         "conflict": null,
@@ -192,9 +200,17 @@
       "transfer_seating": {
         "conflict": null,
         "last_found": null,
-        "note": null,
-        "sources": [],
-        "status": "unknown"
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable armrests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/greenwich-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
       },
       "wheelchair_spaces": {
         "conflict": null,
@@ -256,9 +272,17 @@
       "transfer_seating": {
         "conflict": null,
         "last_found": null,
-        "note": null,
-        "sources": [],
-        "status": "unknown"
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable armrests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/greenwich-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
       },
       "wheelchair_spaces": {
         "conflict": "The screens table gives Screen 3 no wheelchair spaces, but the page says every screen has them and gives Screen 3's as Row G, seats 1 and 13.",
@@ -320,9 +344,17 @@
       "transfer_seating": {
         "conflict": null,
         "last_found": null,
-        "note": null,
-        "sources": [],
-        "status": "unknown"
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable armrests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/greenwich-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
       },
       "wheelchair_spaces": {
         "conflict": null,
@@ -391,9 +423,17 @@
       "transfer_seating": {
         "conflict": null,
         "last_found": null,
-        "note": null,
-        "sources": [],
-        "status": "unknown"
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable armrests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/greenwich-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
       },
       "wheelchair_spaces": {
         "conflict": "The screens table gives 2 wheelchair spaces; the seat list names one seat (Row A, seat 1). Either way the screen has no step-free access.",
@@ -419,5 +459,20 @@
         "status": "yes"
       }
     }
-  ]
+  ],
+  "step_free_access": {
+    "conflict": null,
+    "last_found": null,
+    "note": "Ground floor",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Screen one on the ground floor is fully accessible to customers with limited mobility including wheelchair users",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.picturehouses.com/cinema/greenwich-picturehouse/accessibility"
+      }
+    ],
+    "status": "yes"
+  }
 }

@@ -596,5 +596,20 @@
         "status": "yes"
       }
     }
-  ]
+  ],
+  "step_free_access": {
+    "conflict": null,
+    "last_found": null,
+    "note": "Ground floor",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "The Box Office, café-bar, kiosk, and accessible toilet are all on the ground floor and accessible to customers with limited mobility including wheelchair users.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.picturehouses.com/cinema/finsbury-park/accessibility"
+      }
+    ],
+    "status": "yes"
+  }
 }

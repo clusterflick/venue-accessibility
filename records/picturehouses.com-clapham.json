@@ -120,9 +120,17 @@
       "transfer_seating": {
         "conflict": null,
         "last_found": null,
-        "note": null,
-        "sources": [],
-        "status": "unknown"
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable armrests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/clapham-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
       },
       "wheelchair_spaces": {
         "conflict": null,
@@ -177,9 +185,17 @@
       "transfer_seating": {
         "conflict": null,
         "last_found": null,
-        "note": null,
-        "sources": [],
-        "status": "unknown"
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable armrests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/clapham-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
       },
       "wheelchair_spaces": {
         "conflict": "The screens table gives Screen 2 no wheelchair spaces, but the seat list gives wheelchair seats for \"Screen 2\" (Row D, seat 1 and Row J, seat 1) and none for Screen 4, so it may mean Screen 4.",
@@ -241,9 +257,17 @@
       "transfer_seating": {
         "conflict": null,
         "last_found": null,
-        "note": null,
-        "sources": [],
-        "status": "unknown"
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable armrests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/clapham-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
       },
       "wheelchair_spaces": {
         "conflict": null,
@@ -305,9 +329,17 @@
       "transfer_seating": {
         "conflict": null,
         "last_found": null,
-        "note": null,
-        "sources": [],
-        "status": "unknown"
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable armrests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/clapham-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
       },
       "wheelchair_spaces": {
         "conflict": null,
@@ -326,5 +358,20 @@
         "status": "yes"
       }
     }
-  ]
+  ],
+  "step_free_access": {
+    "conflict": null,
+    "last_found": null,
+    "note": "Ground floor",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "The ground floor is accessible to customers with limited mobility including wheelchair users.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.picturehouses.com/cinema/clapham-picturehouse/accessibility"
+      }
+    ],
+    "status": "yes"
+  }
 }

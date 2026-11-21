@@ -143,9 +143,17 @@
       "transfer_seating": {
         "conflict": null,
         "last_found": null,
-        "note": null,
-        "sources": [],
-        "status": "unknown"
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable arm rests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
       },
       "wheelchair_spaces": {
         "conflict": null,
@@ -207,9 +215,17 @@
       "transfer_seating": {
         "conflict": null,
         "last_found": null,
-        "note": null,
-        "sources": [],
-        "status": "unknown"
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable arm rests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
       },
       "wheelchair_spaces": {
         "conflict": null,
@@ -278,9 +294,17 @@
       "transfer_seating": {
         "conflict": null,
         "last_found": null,
-        "note": null,
-        "sources": [],
-        "status": "unknown"
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable arm rests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
       },
       "wheelchair_spaces": {
         "conflict": null,
@@ -342,9 +366,17 @@
       "transfer_seating": {
         "conflict": null,
         "last_found": null,
-        "note": null,
-        "sources": [],
-        "status": "unknown"
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable arm rests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
       },
       "wheelchair_spaces": {
         "conflict": null,
@@ -413,9 +445,17 @@
       "transfer_seating": {
         "conflict": null,
         "last_found": null,
-        "note": null,
-        "sources": [],
-        "status": "unknown"
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable arm rests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
       },
       "wheelchair_spaces": {
         "conflict": null,
@@ -477,9 +517,17 @@
       "transfer_seating": {
         "conflict": null,
         "last_found": null,
-        "note": null,
-        "sources": [],
-        "status": "unknown"
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable arm rests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
       },
       "wheelchair_spaces": {
         "conflict": null,
@@ -541,9 +589,17 @@
       "transfer_seating": {
         "conflict": null,
         "last_found": null,
-        "note": null,
-        "sources": [],
-        "status": "unknown"
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable arm rests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
       },
       "wheelchair_spaces": {
         "conflict": null,
@@ -605,9 +661,17 @@
       "transfer_seating": {
         "conflict": null,
         "last_found": null,
-        "note": null,
-        "sources": [],
-        "status": "unknown"
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable arm rests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
       },
       "wheelchair_spaces": {
         "conflict": null,
@@ -633,5 +697,20 @@
         "status": "yes"
       }
     }
-  ]
+  ],
+  "step_free_access": {
+    "conflict": null,
+    "last_found": null,
+    "note": "Ground floor; screens by lift",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Our café-bar and accessible toilet are on the ground floor and accessible to customers with limited mobility, including wheelchair users.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+      }
+    ],
+    "status": "yes"
+  }
 }

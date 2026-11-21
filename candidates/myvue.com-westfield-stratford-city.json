@@ -85,5 +85,12 @@
     "status": "unknown"
   },
   "researched_on": "2026-11-20",
-  "screens": []
+  "screens": [],
+  "step_free_access": {
+    "conflict": null,
+    "last_found": null,
+    "note": null,
+    "sources": [],
+    "status": "unknown"
+  }
 }

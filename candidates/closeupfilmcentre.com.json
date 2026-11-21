@@ -103,5 +103,12 @@
         "status": "unknown"
       }
     }
-  ]
+  ],
+  "step_free_access": {
+    "conflict": null,
+    "last_found": null,
+    "note": null,
+    "sources": [],
+    "status": "unknown"
+  }
 }

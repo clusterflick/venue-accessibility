@@ -457,5 +457,20 @@
         "status": "yes"
       }
     }
-  ]
+  ],
+  "step_free_access": {
+    "conflict": null,
+    "last_found": null,
+    "note": "Through the main entrance",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "The main entrance gives access to the Box Office, kiosk, bar and four of our screens.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.picturehouses.com/cinema/the-ritzy/accessibility"
+      }
+    ],
+    "status": "yes"
+  }
 }
