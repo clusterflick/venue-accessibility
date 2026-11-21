@@ -1,12 +1,20 @@
 {
-  "access_contact": null,
-  "access_page_url": null,
+  "access_contact": "Picturehouse accessibility line 03330 527 300 (Text Relay 18001 03330 527 300)",
+  "access_page_url": "https://www.picturehouses.com/cinema/the-gate/accessibility",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "None; the cinema suggests McDonald's opposite",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "We regret that within the confines of this historic cinema there is no space to provide an adapted toilet for the use of customers using wheelchairs.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.picturehouses.com/cinema/the-gate/accessibility"
+      }
+    ],
+    "status": "no"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,9 +26,17 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Tell them when booking, for an aisle seat",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Guide dogs and assistance dogs are welcome",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.picturehouses.com/cinema/the-gate/accessibility"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -32,9 +48,17 @@
   "entrance_step_free": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Street level",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "The auditorium is accessible from street level.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.picturehouses.com/cinema/the-gate/accessibility"
+      }
+    ],
+    "status": "yes"
   },
   "hearing_assist_counters": {
     "conflict": null,
@@ -51,7 +75,7 @@
     "sources": [],
     "status": "unknown"
   },
-  "notes": null,
+  "notes": "The access page describes one auditorium; the listings call it screen 1.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,5 +83,72 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": []
+  "screens": [
+    {
+      "aliases": ["1"],
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Headsets that change the volume",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "We also can provide headsets that increase or decrease the volume of the film.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/the-gate/accessibility"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Auditorium",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Street level",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "The auditorium is accessible from street level.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/the-gate/accessibility"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Wheelchair spaces and Carers tickets are bookable online.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/the-gate/accessibility"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ]
 }

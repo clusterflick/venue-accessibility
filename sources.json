@@ -262,11 +262,6 @@
     {
       "selector": ".cinimaAccessibility_div",
       "tier": 1,
-      "url": "https://www.picturehouses.com/cinema/29/accessibility"
-    },
-    {
-      "selector": ".cinimaAccessibility_div",
-      "tier": 1,
       "url": "https://www.picturehouses.com/cinema/finsbury-park/accessibility"
     }
   ],
