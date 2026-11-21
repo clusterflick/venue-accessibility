@@ -31,6 +31,7 @@ npm run build-release # release/venue-accessibility.json, as the site gets it
 npm run validate      # records and candidates, and quotes if pages were fetched
 npm run fetch-pages   # every page in sources.json, into fetched-pages/
 npm test              # includes validating the committed data
+npm run write-questions -- picturehouses.com  # what to ask a chain or venue
 ```
 
 Venue attributes, fetching and the venue list come from `scripts`, installed as
@@ -68,6 +69,19 @@ The website takes the latest release when it builds, and refuses a
 `lib/build-release.js` when a change would break a reader built against the old
 shape: a field removed, renamed or changed in meaning. A new optional field
 doesn't need it.
+
+## Asking venues
+
+`npm run write-questions -- <venue id or id prefix>` drafts an email to a venue
+or chain in `questions/<prefix>.md`: where its pages contradict themselves (each
+`conflict`, the same one across several screens asked once), then what they
+don't say, grouped by question so a chain answers each once for every site. It
+reads only `records/`, so it asks about exactly what the venue pages show as
+"Unclear" and "Not published". It is a draft for a person to read and send; who
+to send it to isn't in the records.
+
+An answer is a source like any other: a reply quoted into a record needs a tier,
+so add the venue's reply as a source in the policy before citing it.
 
 ## Scope
 

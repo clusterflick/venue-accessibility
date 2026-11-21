@@ -6,3 +6,6 @@ fetched-pages/
 
 # Written by build-release
 release/
+
+# Written by write-questions
+questions/

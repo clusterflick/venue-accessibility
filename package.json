@@ -17,7 +17,8 @@
     "validate": "TZ=Europe/London node scripts/validate.js",
     "fetch-pages": "TZ=Europe/London node scripts/fetch-pages.js",
     "import-seed": "TZ=Europe/London node scripts/import-seed.js",
-    "build-release": "TZ=Europe/London node scripts/build-release.js"
+    "build-release": "TZ=Europe/London node scripts/build-release.js",
+    "write-questions": "TZ=Europe/London node scripts/write-questions.js"
   },
   "jest": {
     "testPathIgnorePatterns": [
