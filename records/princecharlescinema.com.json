@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://princecharlescinema.com/accessibility/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Down 20 steps",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Our accessible toilet is located in the lower floor and from street level can be accessed by 20 steps down.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://princecharlescinema.com/accessibility/"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,9 +26,17 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Tell them in advance by email",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Guide dogs and Assistance dogs trained to support disabled people and people with medical conditions are always welcome at the cinema.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://princecharlescinema.com/accessibility/"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -32,9 +48,17 @@
   "entrance_step_free": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "A ramp into the foyer",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "We have a ramp leading into our foyer, where you can purchase tickets and concessions.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://princecharlescinema.com/accessibility/"
+      }
+    ],
+    "status": "yes"
   },
   "hearing_assist_counters": {
     "conflict": null,
@@ -47,9 +71,17 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "The council refused a stair lift",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "We do not have wheelchair access throughout the entire building due to rejections from the council to add in a ramp or stair lift in our stairwell, as it's too narrow.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://princecharlescinema.com/accessibility/"
+      }
+    ],
+    "status": "no"
   },
   "notes": null,
   "quiet_space": {
@@ -59,12 +91,163 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Auracast and Dolby Fidelio",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "We have now installed Auracast Bluetooth Technology in both our auditoriums at the Prince Charles Cinemas.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://princecharlescinema.com/accessibility/"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "We also have Dolby Fidelio installed in our Downstairs Screen",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://princecharlescinema.com/accessibility/"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Downstairs Screen",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "20 steps down from the foyer; step-free from the bar",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "From there, there are 20 steps down to the bar.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://princecharlescinema.com/accessibility/"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "From our bar area there is another ramp leading into the downstairs screen and the screen itself is step-free.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://princecharlescinema.com/accessibility/"
+          }
+        ],
+        "status": "no"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Auracast",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "We have now installed Auracast Bluetooth Technology in both our auditoriums at the Prince Charles Cinemas.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://princecharlescinema.com/accessibility/"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Upstairs Screen",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "20 steps up",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "If your film is in the upstairs screen, from our foyer there are 20 steps up and once you get into the screen further steps to each row.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://princecharlescinema.com/accessibility/"
+          }
+        ],
+        "status": "no"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      }
+    }
+  ],
   "step_free_access": {
-    "conflict": null,
+    "conflict": "The access page describes a ramp into the foyer; the FAQ says there is no disabled access at the moment.",
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "A ramp into the foyer; both screens are up or down 20 steps",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "We have a ramp leading into our foyer, where you can purchase tickets and concessions.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://princecharlescinema.com/accessibility/"
+      },
+      {
+        "checked_on": "2026-11-21",
+        "quote": "From there, there are 20 steps down to the bar.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://princecharlescinema.com/accessibility/"
+      },
+      {
+        "checked_on": "2026-11-21",
+        "quote": "We do not have disabled access at the moment as the council declined our request to put a stairlift in the building",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://princecharlescinema.com/faq/"
+      }
+    ],
+    "status": "partial"
   }
 }

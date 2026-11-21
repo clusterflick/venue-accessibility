@@ -1,6 +1,6 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.everymancinema.com/venues-list/x06zw-everyman-hampstead/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +59,126 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Street level; the gallery is up stairs",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "There is disabled access directly into Screen One at street level for Standard and Club Suite ticket holders.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/x06zw-everyman-hampstead/"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Gallery seats are only accessible via stairs.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/x06zw-everyman-hampstead/"
+          }
+        ],
+        "status": "partial"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 2 doesn't have disabled access.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/x06zw-everyman-hampstead/"
+          }
+        ],
+        "status": "no"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Directly into Screen 1 at street level",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "There is disabled access directly into Screen One at street level for Standard and Club Suite ticket holders.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.everymancinema.com/venues-list/x06zw-everyman-hampstead/"
+      }
+    ],
+    "status": "yes"
   }
 }

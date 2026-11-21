@@ -1,12 +1,20 @@
 {
-  "access_contact": null,
-  "access_page_url": null,
+  "access_contact": "Booking line 020 3011 5523",
+  "access_page_url": "https://thelexicinema.co.uk/TheLexiCinema.dll/Page?p=4&m=m&sp=3",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Inside the main entrance, and in the Screen 2 lounge",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Accessible gender-neutral toilets These are found immediately inside the main entrance, and in the Screen 2 lounge.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://thelexicinema.co.uk/TheLexiCinema.dll/Page?p=4&m=m&sp=3"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,9 +26,17 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Let them know before booking",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Assistance Dogs are allowed throughout the building.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://thelexicinema.co.uk/TheLexiCinema.dll/Page?p=4&m=m&sp=3"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -32,9 +48,17 @@
   "entrance_step_free": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Level access from the street",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "The Box Office and Screen 1 have level access from the street.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://thelexicinema.co.uk/TheLexiCinema.dll/Page?p=4&m=m&sp=3"
+      }
+    ],
+    "status": "yes"
   },
   "hearing_assist_counters": {
     "conflict": null,
@@ -59,12 +83,167 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Dolby Fidelio headsets",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Our hearing loop has been upgraded to the Dolby Fidelio system, and we have headsets for customers to use in the auditoriums.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://thelexicinema.co.uk/TheLexiCinema.dll/Page?p=4&m=m&sp=3"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Level access from the street",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "The Box Office and Screen 1 have level access from the street.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://thelexicinema.co.uk/TheLexiCinema.dll/Page?p=4&m=m&sp=3"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": "You can transfer into a seat",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "You are welcome to transfer into a seat, or we can remove the seat to make space for your wheelchair.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://thelexicinema.co.uk/TheLexiCinema.dll/Page?p=4&m=m&sp=3"
+          }
+        ],
+        "status": "yes"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": "Seats B1 and B2",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "In Screen 1 these are seats B1 and B2 and in Screen 2 these are A0 and A1.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://thelexicinema.co.uk/TheLexiCinema.dll/Page?p=4&m=m&sp=3"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Dolby Fidelio headsets",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Our hearing loop has been upgraded to the Dolby Fidelio system, and we have headsets for customers to use in the auditoriums.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://thelexicinema.co.uk/TheLexiCinema.dll/Page?p=4&m=m&sp=3"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Across a gravel car park, with a portable ramp",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "To access Screen 2 there is a gravel car park to cross at the back of the building which may not be optimal for all types of wheelchairs.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://thelexicinema.co.uk/TheLexiCinema.dll/Page?p=4&m=m&sp=3"
+          }
+        ],
+        "status": "partial"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": "You can transfer into a seat",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "You are welcome to transfer into a seat, or we can remove the seat to make space for your wheelchair.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://thelexicinema.co.uk/TheLexiCinema.dll/Page?p=4&m=m&sp=3"
+          }
+        ],
+        "status": "yes"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": "Seats A0 and A1",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "In Screen 1 these are seats B1 and B2 and in Screen 2 these are A0 and A1.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://thelexicinema.co.uk/TheLexiCinema.dll/Page?p=4&m=m&sp=3"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Level access from the street",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "The Box Office and Screen 1 have level access from the street.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://thelexicinema.co.uk/TheLexiCinema.dll/Page?p=4&m=m&sp=3"
+      }
+    ],
+    "status": "yes"
   }
 }

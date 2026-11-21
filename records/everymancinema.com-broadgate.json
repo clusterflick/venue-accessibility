@@ -1,6 +1,6 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282528-broadgate-accessibility-guide",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
@@ -47,9 +47,17 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Down from street level",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Everyman Broadgate has full step-free access for our guests with a lift down from street level.",
+        "source_last_updated": "2025-04-16",
+        "tier": 1,
+        "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282528-broadgate-accessibility-guide"
+      }
+    ],
+    "status": "yes"
   },
   "notes": null,
   "quiet_space": {
@@ -59,12 +67,192 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Everyman Broadgate has full step-free access for our guests with a lift down from street level.",
+            "source_last_updated": "2025-04-16",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282528-broadgate-accessibility-guide"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "There are three removable seats and two wheelchair spaces in Screen 1.",
+            "source_last_updated": "2025-04-16",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282528-broadgate-accessibility-guide"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Everyman Broadgate has full step-free access for our guests with a lift down from street level.",
+            "source_last_updated": "2025-04-16",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282528-broadgate-accessibility-guide"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "There are two removable seats and a wheelchair space in Screen 2.",
+            "source_last_updated": "2025-04-16",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282528-broadgate-accessibility-guide"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Everyman Broadgate has full step-free access for our guests with a lift down from street level.",
+            "source_last_updated": "2025-04-16",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282528-broadgate-accessibility-guide"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "There are no removable seats and a wheelchair space in Screen 3.",
+            "source_last_updated": "2025-04-16",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282528-broadgate-accessibility-guide"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Lift down from street level",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Everyman Broadgate has full step-free access for our guests with a lift down from street level.",
+        "source_last_updated": "2025-04-16",
+        "tier": 1,
+        "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282528-broadgate-accessibility-guide"
+      }
+    ],
+    "status": "yes"
   }
 }

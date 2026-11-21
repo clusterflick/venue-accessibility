@@ -1,12 +1,20 @@
 {
-  "access_contact": null,
-  "access_page_url": null,
+  "access_contact": "access@thecastlecinema.com",
+  "access_page_url": "https://thecastlecinema.com/access/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Upstairs, before the bar",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "There is an accessible toilet, which opens inwards, on the right-hand side before entering the bar.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://thecastlecinema.com/access/"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -47,9 +55,17 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "An external lift was refused planning in March 2024; the cinema is appealing",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Since we opened we've always been conscious of our lack of step-free access, and since 2020 we've been actively working to add an external lift to resolve this.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://thecastlecinema.com/access/"
+      }
+    ],
+    "status": "no"
   },
   "notes": null,
   "quiet_space": {
@@ -59,12 +75,134 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Up 21 steps; level from the bar",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "The cinema is located on the first floor via a staircase 1.28m wide, with 15 steps then a small landing and a further 6 steps to the first floor, where is located the bar, box office and the accessible toilet.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://thecastlecinema.com/access/"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 1: There is level access from the bar to the cinema.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://thecastlecinema.com/access/"
+          }
+        ],
+        "status": "no"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Arm rests don't move",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "One model, free standing, armrest unmovable.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://thecastlecinema.com/access/"
+          }
+        ],
+        "status": "no"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Up 21 steps, then 8 more",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 2: is accessible via a staircase of 7 steps onto a landing, and a further single step into the corridor.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://thecastlecinema.com/access/"
+          }
+        ],
+        "status": "no"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "21 steps to the first floor",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "The cinema is located on the first floor via a staircase 1.28m wide, with 15 steps then a small landing and a further 6 steps to the first floor, where is located the bar, box office and the accessible toilet.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://thecastlecinema.com/access/"
+      }
+    ],
+    "status": "no"
   }
 }

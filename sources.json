@@ -2,11 +2,7 @@
   "actonecinema.co.uk": [
     {
       "tier": 1,
-      "url": "https://www.actonecinema.co.uk/your-visit/"
-    },
-    {
-      "tier": 1,
-      "url": "https://www.actonecinema.co.uk/faqs/"
+      "url": "https://actonecinema.co.uk/ActOneCinema.dll/Page?p=4899&m=m&sp=6389"
     }
   ],
   "arthousecrouchend.co.uk": [
@@ -66,11 +62,7 @@
   "davidleancinema.org.uk": [
     {
       "tier": 1,
-      "url": "https://www.davidleancinema.org.uk/news-updates-2/"
-    },
-    {
-      "tier": 1,
-      "url": "https://www.davidleancinema.org.uk/film-clubs/"
+      "url": "https://www.davidleancinema.org.uk/access-guide/"
     }
   ],
   "everymancinema.com-barnet": [
@@ -328,10 +320,6 @@
     {
       "tier": 2,
       "url": "https://www.hackneylocaloffer.co.uk/kb5/hackney/localoffer/service.page?id=4tzNt0cTcZY"
-    },
-    {
-      "tier": 1,
-      "url": "https://www.riocinema.org.uk/faqs/"
     }
   ],
   "thecastlecinema.com": [
@@ -342,12 +330,16 @@
   ],
   "thegardencinema.co.uk": [
     {
-      "tier": 1,
-      "url": "https://www.thegardencinema.co.uk/"
-    },
-    {
       "tier": 3,
       "url": "https://www.euansguide.com/venues/the-garden-cinema-london-15721/reviews/wonderful-and-very-accessible-15134"
+    },
+    {
+      "tier": 1,
+      "url": "https://www.thegardencinema.co.uk/accessibility/"
+    },
+    {
+      "tier": 1,
+      "url": "https://www.thegardencinema.co.uk/about-us/faq/"
     }
   ],
   "thelexicinema.co.uk": [

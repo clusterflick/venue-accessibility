@@ -1,6 +1,6 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282523-barnet-accessibility-guide",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
@@ -32,9 +32,17 @@
   "entrance_step_free": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Steps or a ramp",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "The cinema's entrance is on the street and is accessed via steps or ramp to the four sets of push/pull doors.",
+        "source_last_updated": "2025-04-15",
+        "tier": 1,
+        "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282523-barnet-accessibility-guide"
+      }
+    ],
+    "status": "yes"
   },
   "hearing_assist_counters": {
     "conflict": null,
@@ -59,12 +67,290 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Stairs only",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screens 1 and 5 are not accessible to wheelchair users or those with limited mobility, as they are only accessible via stairs with handrails.",
+            "source_last_updated": "2025-04-15",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282523-barnet-accessibility-guide"
+          }
+        ],
+        "status": "no"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Ground floor",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screens 2, 3 and 4 are fully accessible, situated on the ground floor.",
+            "source_last_updated": "2025-04-15",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282523-barnet-accessibility-guide"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": "Two double bays with companion seats",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Each have two double wheelchair bays available with adjacent companion seating.",
+            "source_last_updated": "2025-04-15",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282523-barnet-accessibility-guide"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Ground floor",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screens 2, 3 and 4 are fully accessible, situated on the ground floor.",
+            "source_last_updated": "2025-04-15",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282523-barnet-accessibility-guide"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": "Two double bays with companion seats",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Each have two double wheelchair bays available with adjacent companion seating.",
+            "source_last_updated": "2025-04-15",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282523-barnet-accessibility-guide"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 4",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Ground floor",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screens 2, 3 and 4 are fully accessible, situated on the ground floor.",
+            "source_last_updated": "2025-04-15",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282523-barnet-accessibility-guide"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": "Two double bays with companion seats",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Each have two double wheelchair bays available with adjacent companion seating.",
+            "source_last_updated": "2025-04-15",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282523-barnet-accessibility-guide"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 5",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Stairs only",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screens 1 and 5 are not accessible to wheelchair users or those with limited mobility, as they are only accessible via stairs with handrails.",
+            "source_last_updated": "2025-04-15",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282523-barnet-accessibility-guide"
+          }
+        ],
+        "status": "no"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Steps or a ramp to the entrance",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "The cinema's entrance is on the street and is accessed via steps or ramp to the four sets of push/pull doors.",
+        "source_last_updated": "2025-04-15",
+        "tier": 1,
+        "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282523-barnet-accessibility-guide"
+      }
+    ],
+    "status": "yes"
   }
 }

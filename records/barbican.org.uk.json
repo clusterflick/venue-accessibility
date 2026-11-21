@@ -1,6 +1,6 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.barbican.org.uk/your-visit/accessibility/accessible-events",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
@@ -18,9 +18,17 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Tell them when booking",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Assistance dogs may be taken into the cinema - please tell us when booking",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.barbican.org.uk/your-visit/accessibility/accessible-events"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -39,19 +47,35 @@
   "hearing_assist_counters": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "At the ticket desk",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "The ticket desk counter is fitted with an induction loop.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.barbican.org.uk/your-visit/accessibility/accessible-events"
+      }
+    ],
+    "status": "yes"
   },
   "id": "barbican.org.uk",
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Main lifts to the Pit floor, for Cinema 1",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "The Pit floor (level minus 2) can be reached via the main lifts",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.barbican.org.uk/your-visit/accessibility/accessible-events"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "Cinemas 2 and 3 are at Beech Street, a short walk from the centre's Silk Street entrance.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,7 +83,251 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Induction loop",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "There is an induction loop in the auditorium which you can use by adjusting your hearing aid to the T setting.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.barbican.org.uk/your-visit/accessibility/accessible-events"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Cinema 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "There are two boxes at the rear of the auditorium each have space for one wheelchair user and a companion",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.barbican.org.uk/your-visit/accessibility/accessible-events"
+          }
+        ],
+        "status": "yes",
+        "value": "rear"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Level access to the two wheelchair boxes only",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "There is level access from The Pit floor foyer only to the two boxes.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.barbican.org.uk/your-visit/accessibility/accessible-events"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Arm rests don't move",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Seats in the cinema auditorium have a width of approximately 47cm, and a depth of approximately 42cm, with non-moving arm rests.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.barbican.org.uk/your-visit/accessibility/accessible-events"
+          }
+        ],
+        "status": "no"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": "Two boxes at the rear",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "There are two boxes at the rear of the auditorium each have space for one wheelchair user and a companion",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.barbican.org.uk/your-visit/accessibility/accessible-events"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Induction loop",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "There is an induction loop provided in each auditorium which you can use by adjusting your hearing aid to the T setting",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.barbican.org.uk/your-visit/accessibility/accessible-events"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Cinema 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Two in the third row, one in the front row",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Each auditorium has three permanent wheelchair spaces (two in the third row and one in the front row) and 153 fixed seats with capacity for a further three spaces in the front row.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.barbican.org.uk/your-visit/accessibility/accessible-events"
+          }
+        ],
+        "status": "yes",
+        "value": "mixed"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Up a ramp, at Beech Street",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Access to each auditorium is up a ramp.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.barbican.org.uk/your-visit/accessibility/accessible-events"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Arm rests don't move",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Seats in the cinema auditorium have a width of approximately 48cm, and a depth of approximately 46cm, with non-moving arm rests.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.barbican.org.uk/your-visit/accessibility/accessible-events"
+          }
+        ],
+        "status": "no"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 3,
+        "last_found": null,
+        "note": "Two in the third row, one in the front row",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Each auditorium has three permanent wheelchair spaces (two in the third row and one in the front row) and 153 fixed seats with capacity for a further three spaces in the front row.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.barbican.org.uk/your-visit/accessibility/accessible-events"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Induction loop",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "There is an induction loop provided in each auditorium which you can use by adjusting your hearing aid to the T setting",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.barbican.org.uk/your-visit/accessibility/accessible-events"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Cinema 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Two in the third row, one in the front row",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Each auditorium has three permanent wheelchair spaces (two in the third row and one in the front row) and 153 fixed seats with capacity for a further three spaces in the front row.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.barbican.org.uk/your-visit/accessibility/accessible-events"
+          }
+        ],
+        "status": "yes",
+        "value": "mixed"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Up a ramp, at Beech Street",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Access to each auditorium is up a ramp.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.barbican.org.uk/your-visit/accessibility/accessible-events"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Arm rests don't move",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Seats in the cinema auditorium have a width of approximately 48cm, and a depth of approximately 46cm, with non-moving arm rests.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.barbican.org.uk/your-visit/accessibility/accessible-events"
+          }
+        ],
+        "status": "no"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 3,
+        "last_found": null,
+        "note": "Two in the third row, one in the front row",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Each auditorium has three permanent wheelchair spaces (two in the third row and one in the front row) and 153 fixed seats with capacity for a further three spaces in the front row.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.barbican.org.uk/your-visit/accessibility/accessible-events"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
