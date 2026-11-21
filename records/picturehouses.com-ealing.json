@@ -1,12 +1,20 @@
 {
-  "access_contact": null,
-  "access_page_url": null,
+  "access_contact": "Picturehouse accessibility line 03330 527 300 (Text Relay 18001 03330 527 300)",
+  "access_page_url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Ground and first floors, and the mezzanine",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Accessible toilets are located on the ground floor, first floor, and mezzanine level.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,16 +26,32 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Tell them when booking, for an aisle seat",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Guide dogs and assistance dogs are welcome",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Second floor, by lift",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Our Changing Places toilet can be found on the second floor which is accessible via customer lift",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+      }
+    ],
+    "status": "yes"
   },
   "entrance_step_free": {
     "conflict": null,
@@ -39,17 +63,33 @@
   "hearing_assist_counters": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "At all counters",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "We have hearing loops at all counters",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+      }
+    ],
+    "status": "yes"
   },
   "id": "picturehouses.com-ealing",
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Two lifts to the first floor",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Cinema screens, our kiosk and bar are on the first floor, accessible via two customer lifts.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+      }
+    ],
+    "status": "yes"
   },
   "notes": null,
   "quiet_space": {
@@ -59,5 +99,618 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": []
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift; also from the rear, by platform lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Our screens are located on the first floor and are accessible to customers with limited mobility via two lifts from the ground floor.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screens 1, 3, & 5 also have access from the rear for wheelchair customers - this mezzanine level is accessed by a platform lift from the first-floor level.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable arm rests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": "Seats B2 to B5, G2 to G3",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All screens have dedicated wheelchair space",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 1: Seats B2 to B5, G2 to G3",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Our screens are located on the first floor and are accessible to customers with limited mobility via two lifts from the ground floor.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable arm rests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": "Seats B2 to B6",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All screens have dedicated wheelchair space",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 2: Seats B2 to B6",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift; also from the rear, by platform lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Our screens are located on the first floor and are accessible to customers with limited mobility via two lifts from the ground floor.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screens 1, 3, & 5 also have access from the rear for wheelchair customers - this mezzanine level is accessed by a platform lift from the first-floor level.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable arm rests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": "Seats B2 to B4, K12 to K13",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All screens have dedicated wheelchair space",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 3: Seats B2 to B4, K12 to K13",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 4",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Our screens are located on the first floor and are accessible to customers with limited mobility via two lifts from the ground floor.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable arm rests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": "Seats C5 to C7",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All screens have dedicated wheelchair space",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 4: Seats C5 to C7",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 5",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift; also from the rear, by platform lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Our screens are located on the first floor and are accessible to customers with limited mobility via two lifts from the ground floor.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screens 1, 3, & 5 also have access from the rear for wheelchair customers - this mezzanine level is accessed by a platform lift from the first-floor level.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable arm rests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": "Seats G2 to G5",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All screens have dedicated wheelchair space",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 5: Seats G2 to G5",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 6",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Our screens are located on the first floor and are accessible to customers with limited mobility via two lifts from the ground floor.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable arm rests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": "Seats B8 to B12",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All screens have dedicated wheelchair space",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 6: Seats B8 to B12",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 7",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Our screens are located on the first floor and are accessible to customers with limited mobility via two lifts from the ground floor.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable arm rests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": "Seats B2 to B6",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All screens have dedicated wheelchair space",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 7: Seats B2 to B6",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 8",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Our screens are located on the first floor and are accessible to customers with limited mobility via two lifts from the ground floor.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable arm rests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": "Seats B8 to B11",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All screens have dedicated wheelchair space",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 8: Seats B8 to B11",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
+  "step_free_access": {
+    "conflict": null,
+    "last_found": null,
+    "note": "Ground floor; screens by lift",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Our café-bar and accessible toilet are on the ground floor and accessible to customers with limited mobility, including wheelchair users.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility"
+      }
+    ],
+    "status": "yes"
+  }
 }

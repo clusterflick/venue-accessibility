@@ -1,12 +1,27 @@
 {
-  "access_contact": null,
-  "access_page_url": null,
+  "access_contact": "Picturehouse accessibility line 03330 527 300 (Text Relay 18001 03330 527 300)",
+  "access_page_url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Ground floor behind the bar, and on upper floors",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "All of our accessible toilets are unlocked at all times",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+      },
+      {
+        "checked_on": "2026-11-21",
+        "quote": "one on the ground floor, behind the bar",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,9 +33,17 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Tell them when booking, for an aisle seat",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Guide dogs and assistance dogs are welcome",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -39,17 +62,33 @@
   "hearing_assist_counters": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "At all counters",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "We have hearing loops at all counters",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+      }
+    ],
+    "status": "yes"
   },
   "id": "picturehouses.com-hackney",
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Screen 5's lift was out of order when checked",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Screens 1,2 and 6 are located on the second floor of our building and are accessible via stairs or lift.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+      }
+    ],
+    "status": "yes"
   },
   "notes": null,
   "quiet_space": {
@@ -59,5 +98,474 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": []
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Wheelchair users: lift to level 5, then a platform lift an usher operates",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screens 1,2 and 6 are located on the second floor and are accessible to customers with limited mobility via a lift situated behind ticket check.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "or top of screen 1 via lift to level 5 and then a platform lift which will be operated with the help of an usher",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable armrests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 14,
+        "last_found": null,
+        "note": "Row A, and Row K seat W1",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 1 No. of seats: 295 No. of wheelchair spaces: 14",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Wheelchair users: lift to level 5",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screens 1,2 and 6 are located on the second floor and are accessible to customers with limited mobility via a lift situated behind ticket check.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Customers who require wheelchair access may head to the top of screen 2 via taking the lift to level 5",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable armrests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 9,
+        "last_found": null,
+        "note": "Rows J and A",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 2 No. of seats: 112 No. of wheelchair spaces: 9",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 2: Row J, Seats W1, 2, 3, 4, Row A, Seats 1, 2, 3, 4, 5",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 3 is located on the third floor, and is accessible via our main lift.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable armrests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
+      },
+      "wheelchair_spaces": {
+        "conflict": "The screens table gives 55 wheelchair spaces in a 115-seat screen; the seat list names five seats (Row A, seats W1, 3, 4, 5 and 7).",
+        "count": null,
+        "last_found": null,
+        "note": "Row A",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 3 No. of seats: 115 No. of wheelchair spaces:55",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 3: Row A, Seats W1, 3, 4, 5, 7",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 4",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Ground floor",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 4 is located on the ground floor and is fully accessible.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable armrests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": "Row A, seat W1",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 4 No. of seats: 55 No. of wheelchair spaces: 1",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 4: Row A, Seat W1",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 5",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": "One part of the page says Screen 5's lift is out of order; the screens section says it is reached by lift.",
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Our screen 5 is accessible via 3 flights of stairs, or a lift (currently out of order but we hope will be fixed soon).",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 5 is located on the bar end of the building on the third floor and is accessible via lift.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+          }
+        ],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable armrests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 4,
+        "last_found": null,
+        "note": "Row A, seats 4 to 7",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 5 No. of seats: 57 No. of wheelchair spaces: 4",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 5: Row A, Seats 4, 5, 6, 7",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 6",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screens 1,2 and 6 are located on the second floor and are accessible to customers with limited mobility via a lift situated behind ticket check.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable armrests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": "Row A, seat W1",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 6 No. of seats: 38 No. of wheelchair spaces: 1",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 6: Row A, Seat W1",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
+  "step_free_access": {
+    "conflict": null,
+    "last_found": null,
+    "note": "Ground floor",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Our cafe-bar, kiosk and toilets are located on the ground floor and are fully accessible to customers with limited mobility.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+      },
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Screen 4 is located on the ground floor and is fully accessible.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility"
+      }
+    ],
+    "status": "yes"
+  }
 }

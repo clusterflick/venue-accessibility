@@ -10,6 +10,7 @@
     "access_page_url",
     "access_contact",
     "notes",
+    "step_free_access",
     "entrance_step_free",
     "alt_accessible_entrance",
     "lift",
@@ -36,6 +37,9 @@
     "notes": {
       "type": ["string", "null"],
       "minLength": 1
+    },
+    "step_free_access": {
+      "$ref": "#/definitions/field"
     },
     "entrance_step_free": {
       "$ref": "#/definitions/field"

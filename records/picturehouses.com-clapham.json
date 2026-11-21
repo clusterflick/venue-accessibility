@@ -1,12 +1,20 @@
 {
-  "access_contact": null,
-  "access_page_url": null,
+  "access_contact": "Picturehouse accessibility line 03330 527 300 (Text Relay 18001 03330 527 300)",
+  "access_page_url": "https://www.picturehouses.com/cinema/clapham-picturehouse/accessibility",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Ground floor",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "There is a wheelchair-accessible adapted toilet on the ground floor.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.picturehouses.com/cinema/clapham-picturehouse/accessibility"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,9 +26,17 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Tell them when booking, for an aisle seat",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Guide dogs and assistance dogs are welcome",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.picturehouses.com/cinema/clapham-picturehouse/accessibility"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -47,9 +63,17 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "No lift: Screens 1 and 2 are up stairs",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "We regret that at present there is no lift",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.picturehouses.com/cinema/clapham-picturehouse/accessibility"
+      }
+    ],
+    "status": "no"
   },
   "notes": null,
   "quiet_space": {
@@ -59,5 +83,295 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": []
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "20 steps",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 1 can only be accessed by ascending a staircase of 20 steps.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/clapham-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable armrests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/clapham-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 0,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 1 No. of seats: 188 No. of wheelchair spaces: 0",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/clapham-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "A further 23 steps beyond Screen 1",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Access to Screen 2 involves a further staircase of 23 steps.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/clapham-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable armrests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/clapham-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
+      },
+      "wheelchair_spaces": {
+        "conflict": "The screens table gives Screen 2 no wheelchair spaces, but the seat list gives wheelchair seats for \"Screen 2\" (Row D, seat 1 and Row J, seat 1) and none for Screen 4, so it may mean Screen 4.",
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 2 No. of seats:139 No. of wheelchair spaces: 0",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/clapham-picturehouse/accessibility"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 2: Row D, Seat 1 and Row J, seat 1",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/clapham-picturehouse/accessibility"
+          }
+        ],
+        "status": "unknown"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Ground floor",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Only screens 3 and 4 are on the ground floor and fully accessible to customers with limited mobility including wheelchair users.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/clapham-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable armrests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/clapham-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": "Row C, seat 1 and Row G, seat 1",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 3 No. of seats:127 No. of wheelchair spaces: 2",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/clapham-picturehouse/accessibility"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 3: Row C, Seat 1 and Row G, Seat 1",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/clapham-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 4",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Ground floor",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Only screens 3 and 4 are on the ground floor and fully accessible to customers with limited mobility including wheelchair users.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/clapham-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": "All seats have fixed armrests",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All seats have immovable armrests, and chairs are fixed together.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/clapham-picturehouse/accessibility"
+          }
+        ],
+        "status": "no"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 4 No. of seats:106 No. of wheelchair spaces: 2",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.picturehouses.com/cinema/clapham-picturehouse/accessibility"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
+  "step_free_access": {
+    "conflict": null,
+    "last_found": null,
+    "note": "Ground floor",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "The ground floor is accessible to customers with limited mobility including wheelchair users.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.picturehouses.com/cinema/clapham-picturehouse/accessibility"
+      }
+    ],
+    "status": "yes"
+  }
 }
