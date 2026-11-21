@@ -1,0 +1,36 @@
+{
+  "name": "venue-accessibility",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Reviewed accessibility information for London cinemas and arts venues: their buildings and screens",
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^8.20.0",
+    "ajv-formats": "^3.0.1",
+    "cheerio": "^1.2.0",
+    "scripts": "github:clusterflick/scripts"
+  },
+  "scripts": {
+    "test": "TZ=Europe/London jest",
+    "lint": "eslint .",
+    "format": "prettier \"./**/*.(m)?js(on)?\" --write && prettier \"./**/*.md\" --write --prose-wrap=always",
+    "validate": "TZ=Europe/London node scripts/validate.js",
+    "fetch-pages": "TZ=Europe/London node scripts/fetch-pages.js",
+    "import-seed": "TZ=Europe/London node scripts/import-seed.js"
+  },
+  "jest": {
+    "testPathIgnorePatterns": [
+      "/node_modules/"
+    ]
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.5",
+    "eslint": "^9.39.5",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-jest": "^28.14.0",
+    "eslint-plugin-prettier": "^5.5.7",
+    "globals": "^15.15.0",
+    "jest": "^29.7.0",
+    "prettier": "^3.10.1"
+  }
+}

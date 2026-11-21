@@ -1,0 +1,38 @@
+name: Continuous Integration
+
+# A pull request against records/, candidates/ or sources.json is a review of
+# accessibility facts, and this is its gate: the committed data is validated by
+# the tests, so a record that breaks a rule can't be merged.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  lint_and_test:
+    name: Run linter and tests
+    runs-on: ubuntu-latest
+    env:
+      CI: true
+      NODE_ENV: test
+
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v6
+        with:
+          node-version-file: .node-version
+      - run: npm ci
+      # The lockfile pins scripts to a commit, but which venues need a record
+      # is whatever scripts lists now. Validating against the pinned copy would
+      # let a venue come into scope without anyone noticing, so take the latest.
+      - run: npm install --no-save github:clusterflick/scripts
+      - run: npm run lint
+      - run: npm test
