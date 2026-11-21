@@ -57,10 +57,11 @@ the page says too.
 
 Every merge into `main` that changes the records publishes a release with one
 asset, `venue-accessibility.json`: `formatVersion`, `generatedAt`, the `commit`
-the records came from, and `venues`, every record keyed by venue id. Records
-that are all unknown are included, since they say a venue is in scope and
-unchecked. Candidates never are. The release is validated as it's built, so it
-can't carry data CI would refuse.
+the records came from, and `venues`, keyed by venue id. Only records that say
+something are in it: a fact, an access page or a contact. A venue in scope but
+missing from the release is one nobody has checked yet; the site knows which
+venues are in scope from their `programming`. Candidates are never in it. The
+release is validated as it's built, so it can't carry data CI would refuse.
 
 The website takes the latest release when it builds, and refuses a
 `formatVersion` it wasn't built for. Raise `FORMAT_VERSION` in

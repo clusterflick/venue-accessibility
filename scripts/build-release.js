@@ -1,4 +1,4 @@
-// Write the file the website reads: every record, validated.
+// Write the file the website reads: every record with something to say, validated.
 //
 //   npm run build-release
 //
@@ -13,7 +13,6 @@ const { writeJSON } = require("scripts/common/utils");
 const { getAllCinemaNames, getCinemaAttributes } = require("scripts/cinemas");
 const { readRecords, readCandidates } = require("../lib/data");
 const { buildRelease } = require("../lib/build-release");
-const { getFields } = require("../lib/validate");
 
 const OUT_PATH = path.join(
   process.cwd(),
@@ -34,11 +33,8 @@ const OUT_PATH = path.join(
   });
   fs.mkdirSync(path.dirname(OUT_PATH), { recursive: true });
   await writeJSON(OUT_PATH, release);
-  const reviewed = Object.values(release.venues).filter((record) =>
-    getFields(record).some(({ field }) => field.status !== "unknown"),
-  ).length;
   console.log(
-    `${Object.keys(release.venues).length} venues (${reviewed} with reviewed facts) ` +
+    `${Object.keys(release.venues).length} venues with something to say ` +
       `written to ${path.relative(process.cwd(), OUT_PATH)}`,
   );
 })().catch((error) => {
