@@ -1,12 +1,20 @@
 {
-  "access_contact": null,
-  "access_page_url": null,
+  "access_contact": "management@phoenixcinema.co.uk, 020 8444 6789",
+  "access_page_url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Page?p=1600&m=m&sp=5432",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "In the foyer",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "We welcome wheelchair users and have full access across the building: an external ramp at our entrance, a lift to our auditorium, a platform lift to our café and an accessible toilet in the foyer.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Page?p=1600&m=m&sp=5432"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,9 +26,17 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Guide dogs; let them know in advance",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Guidedogs are welcome across our building and we are happy to provide them with water, but please let us know in advance if you're coming to see a film.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Page?p=1600&m=m&sp=5432"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -32,9 +48,17 @@
   "entrance_step_free": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "External ramp",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "We welcome wheelchair users and have full access across the building: an external ramp at our entrance, a lift to our auditorium, a platform lift to our café and an accessible toilet in the foyer.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Page?p=1600&m=m&sp=5432"
+      }
+    ],
+    "status": "yes"
   },
   "hearing_assist_counters": {
     "conflict": null,
@@ -47,9 +71,17 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "To the auditorium, and a platform lift to the café",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "We welcome wheelchair users and have full access across the building: an external ramp at our entrance, a lift to our auditorium, a platform lift to our café and an accessible toilet in the foyer.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Page?p=1600&m=m&sp=5432"
+      }
+    ],
+    "status": "yes"
   },
   "notes": null,
   "quiet_space": {
@@ -59,12 +91,93 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Induction loop",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Our auditorium is also equipped with an integrated induction loop.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Page?p=1600&m=m&sp=5432"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Auditorium",
+      "notes": "The access page describes one auditorium; the listings have screens 1 and 2, and the page doesn't say which this is.",
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "We welcome wheelchair users and have full access across the building: an external ramp at our entrance, a lift to our auditorium, a platform lift to our café and an accessible toilet in the foyer.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Page?p=1600&m=m&sp=5432"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": "The Phoenix's own page says two; Euan's Guide says four, two in the front row and two in the back",
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There are two dedicated wheelchair spaces in the auditorium",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Page?p=1600&m=m&sp=5432"
+          },
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There are four dedicated wheelchair spaces in the auditorium (two front row, two back row)",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.euansguide.com/venues/phoenix-cinema-london-2195"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Ramp at the entrance",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "We welcome wheelchair users and have full access across the building: an external ramp at our entrance, a lift to our auditorium, a platform lift to our café and an accessible toilet in the foyer.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Page?p=1600&m=m&sp=5432"
+      }
+    ],
+    "status": "yes"
   }
 }
