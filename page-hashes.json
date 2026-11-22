@@ -59,6 +59,54 @@
     "fetched_on": "2026-11-22",
     "hash": "ec4069edae505c1ec69960969cd64d1d6318a9d66b4de1f4db564530e75b011b"
   },
+  "https://www.cineworld.co.uk/cinemas/g01a4-cineworld-cinema-london-hounslow/": {
+    "fetched_on": "2026-11-22",
+    "hash": "58aae8a7fa3676bea64ed28eccecdca33e6eac554cace3a4f14fd70d81d217ca"
+  },
+  "https://www.cineworld.co.uk/cinemas/x06v1-cineworld-cinema-london-leicester-square/": {
+    "fetched_on": "2026-11-22",
+    "hash": "586532c505275d536e4091a6056d9e230ef9552017ef7ed7c92fb46463508df5"
+  },
+  "https://www.cineworld.co.uk/cinemas/x06x0-cineworld-cinema-london-bexleyheath/": {
+    "fetched_on": "2026-11-22",
+    "hash": "c5502d065bd293445fdf9c5ed6c3f037eb017b9b17c241356d2e111532a66114"
+  },
+  "https://www.cineworld.co.uk/cinemas/x06xb-cineworld-cinema-london-feltham/": {
+    "fetched_on": "2026-11-22",
+    "hash": "eaef606b49d6332861a4149384e1dcff2819453cd387b9f33164948df212296b"
+  },
+  "https://www.cineworld.co.uk/cinemas/x06xd-cineworld-cinema-london-ilford/": {
+    "fetched_on": "2026-11-22",
+    "hash": "df1e58a361895472628ba067c7028c14c7e6045db279cd5b4532dea58dbf6d4f"
+  },
+  "https://www.cineworld.co.uk/cinemas/x06xs-cineworld-cinema-london-wood-green/": {
+    "fetched_on": "2026-11-22",
+    "hash": "fdbfdb4002ab8595a0baa8f68c3fb6ff7b8335b5d2fd5dee8d6b65ad81c20341"
+  },
+  "https://www.cineworld.co.uk/cinemas/x076w-cineworld-cinema-london-wandsworth/": {
+    "fetched_on": "2026-11-22",
+    "hash": "77eb247ccd86dbe13cbd733e0b9f9db5abee047808b2ccea71feea1aca50204c"
+  },
+  "https://www.cineworld.co.uk/cinemas/x078z-cineworld-cinema-london-enfield/": {
+    "fetched_on": "2026-11-22",
+    "hash": "e73c8437365afc952bebc1ac511570409e6fd9ba94c1a2c157754e848f588df3"
+  },
+  "https://www.cineworld.co.uk/cinemas/x0795-cineworld-cinema-london-west-india-quay/": {
+    "fetched_on": "2026-11-22",
+    "hash": "a3eb0ce50b40efd3034aa2f1944d7d7bbd37e6156562332c49c01d029a378312"
+  },
+  "https://www.cineworld.co.uk/cinemas/x087g-cineworld-cinema-london-the-o2-greenwich/": {
+    "fetched_on": "2026-11-22",
+    "hash": "6ef8807f4b8fa46cc1838501b91a5e3c91e3202a83f3c95947be89a89c85f03f"
+  },
+  "https://www.cineworld.co.uk/cinemas/x0sra-cineworld-cinema-london-wembley/": {
+    "fetched_on": "2026-11-22",
+    "hash": "7cbe8345538ee113197b0338a9ccc7aefcacaee254c267460da243fd996cdd48"
+  },
+  "https://www.cineworld.co.uk/cinemas/x0y86-cineworld-cinema-london-south-ruislip/": {
+    "fetched_on": "2026-11-22",
+    "hash": "7c2a7881de15aa0ca843eb03a80a94d2d8627fff991dc8b9a2ede8b2ca07e5b1"
+  },
   "https://www.davidleancinema.org.uk/access-guide/": {
     "fetched_on": "2026-11-22",
     "hash": "8d6f6c24b44f155664edf2346f9e424295dd340fb41e4f3a53b85c5a9182ce19"
@@ -150,6 +198,22 @@
   "https://www.ica.art/visual-story-guide": {
     "fetched_on": "2026-11-22",
     "hash": "cb7d04c014556c13f58eeae7a11e2f1f0b6f0aa9f043473a64614eefdd62bc06"
+  },
+  "https://www.myvue.com/cinema/fulham-broadway/whats-on": {
+    "fetched_on": "2026-11-22",
+    "hash": "e210cd251c2c32b99d0cbaf537fed4d0a1feb38b298dec1b52ac4e8e5092b416"
+  },
+  "https://www.myvue.com/cinema/islington/whats-on": {
+    "fetched_on": "2026-11-22",
+    "hash": "8ed486cc9b63eeb5ac0358fe02c924be7711fbf63c5c73f35f911ad3447d9c30"
+  },
+  "https://www.myvue.com/cinema/leicester-square/whats-on": {
+    "fetched_on": "2026-11-22",
+    "hash": "5c71f63f068419683817b199ed8aed7f38a0163bbd7ee77dd4aaa4621c38dc7f"
+  },
+  "https://www.myvue.com/cinema/wood-green/whats-on": {
+    "fetched_on": "2026-11-22",
+    "hash": "5bfa0f19ed70b3660afd8ece3579d2a39187d56f457aa05b27a8d3ea82ff4e0d"
   },
   "https://www.olympicstudios.com/pages/accessibility": {
     "fetched_on": "2026-11-22",

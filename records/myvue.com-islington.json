@@ -1,6 +1,6 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.myvue.com/cinema/islington/whats-on",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
@@ -18,9 +18,18 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Vue: assistance dogs welcome in all venues",
+    "sources": [
+      {
+        "chain_wide": true,
+        "checked_on": "2026-11-22",
+        "quote": "We welcome assistance dogs into all our venues.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/islington/whats-on"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -51,7 +60,7 @@
     "sources": [],
     "status": "unknown"
   },
-  "notes": null,
+  "notes": "The page's \"Venue and screen access\" and \"Location access\" sections are carried in the page's script data, not its text, so nothing else here could be quoted from it yet.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,

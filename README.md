@@ -213,22 +213,24 @@ disagrees, record the conflict rather than preferring either.
 
 ## Where each chain publishes, as found
 
-Measured on 20 November 2026, fetching from a cloud container, not a self-hosted
-runner.
+Measured from a cloud container on 20 November 2026, then again with a plain
+fetch (`npm run fetch-pages`, no browser) from a home connection on 22
+November 2026.
 
 | Chain        | Venues | Where                                                            | Found                                                                                                                                                                                                                                                                                               |
 | ------------ | ------ | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Picturehouse | 11     | `<attributes.url>/accessibility`, in `.cinimaAccessibility_div`  | **Not a regular template.** Only Central has the "Physical Access in our Screens" block; the rest are prose that differs per venue (Ealing lists seat numbers, the Ritzy gives counts in a sentence). Greenwich currently says Screen 5 has no step-free access. All 11 fetch with a plain request. |
-| Vue          | 15     | `myvue.com/cinema/<slug>/whats-on`                               | 403 to a plain fetch. The listings retrieve already goes through Playwright, so this will too.                                                                                                                                                                                                      |
-| ODEON        | 19     | `accessable.co.uk/odeon/access-guides/<slug>`                    | 403 to a plain fetch, as is all of accessable.co.uk                                                                                                                                                                                                                                                 |
+| Vue          | 15     | `myvue.com/cinema/<slug>/whats-on`                               | 403 from a cloud container. From home, all 4 pages in `sources.json` answer 200 with the real page, but its "Venue and screen access" sections are in the page's script data, not its text, so only the chain-wide assistance dogs line can be quoted.                                              |
+| ODEON        | 19     | `accessable.co.uk/odeon/access-guides/<slug>`                    | 403 from both, as is all of accessable.co.uk: from home, Cloudflare's "Attention Required!" block page on all 11 AccessAble pages in `sources.json`                                                                                                                                                 |
 | Everyman     | 16     | `everymanmedia.freshdesk.com/…/<id>-<venue>-accessibility-guide` | Freshdesk answers a plain fetch. Article ids still need discovering for 13 venues.                                                                                                                                                                                                                  |
-| Curzon       | 10     | `curzon.com/venues/<slug>`                                       | 403 to a plain fetch                                                                                                                                                                                                                                                                                |
-| Cineworld    | 12     | `cineworld.co.uk/cinemas/<id>`                                   | 403 to a plain fetch, checked 22 November 2026                                                                                                                                                                                                                                                      |
-| Others       | 70     | Their own access pages; AccessAble as backup                     | Close-Up, BFI's whatson pages and the Hackney Local Offer refused a plain fetch; the rest of the seed's sources answered                                                                                                                                                                            |
+| Curzon       | 10     | `curzon.com/venues/<slug>`                                       | 403 from both: from home, a Cloudflare "Just a moment..." challenge on all 10                                                                                                                                                                                                                       |
+| Cineworld    | 12     | `cineworld.co.uk/cinemas/<id>`                                   | 403 from a cloud container. From home, all 12 answer 200 with the real page; each has a short "Disabled Access" answer in its FAQ, now reviewed into the records. The page text carries the week's date strip, so its hash changes daily until a selector narrows it.                               |
+| Others       | 70     | Their own access pages; AccessAble as backup                     | Close-Up, BFI's whatson pages (2) and the Hackney Local Offer refused a plain fetch from both: from home, a Cloudflare "Just a moment..." challenge on each. The rest of the seed's sources answered                                                                                                |
 
-So the fetch has to run where the listings retrieve runs, with the same
-escalation: `getPageEscalating` (in `scripts`, `common/camoufox-escalation.js`)
-for the pages that refuse us, which only the self-hosted runners can do.
+So a home connection gets Cineworld and Vue with a plain fetch. Curzon,
+AccessAble (ODEON and others), Close-Up, BFI's whatson pages and the Hackney
+Local Offer still refuse one, and need the escalation the listings retrieve
+uses: `getPageEscalating` (in `scripts`, `common/camoufox-escalation.js`).
 
 ## Screens and the listings
 
