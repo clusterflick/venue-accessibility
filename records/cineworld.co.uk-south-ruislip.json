@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.cineworld.co.uk/cinemas/x0y86-cineworld-cinema-london-south-ruislip/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "On the cinema level and the lower and upper levels",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Disabled toilets on cinema level and Lower/ upper level (Starbucks / access boxes).",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.cineworld.co.uk/cinemas/x0y86-cineworld-cinema-london-south-ruislip/"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -47,11 +55,19 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "To the cinema and Starbucks levels",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Cinema is fully accessible with lifts accessing cinema and Starbucks level.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.cineworld.co.uk/cinemas/x0y86-cineworld-cinema-london-south-ruislip/"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "The page says there is disabled access at cinema level in all 11 auditoriums, and \"access boxes\" in auditoriums 1, 2, 8, 9 and 10, without saying what an access box holds or naming the other auditoriums.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -63,8 +79,16 @@
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Fully accessible, with lifts",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Cinema is fully accessible with lifts accessing cinema and Starbucks level.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.cineworld.co.uk/cinemas/x0y86-cineworld-cinema-london-south-ruislip/"
+      }
+    ],
+    "status": "yes"
   }
 }

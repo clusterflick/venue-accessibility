@@ -1,6 +1,6 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.cineworld.co.uk/cinemas/x06v1-cineworld-cinema-london-leicester-square/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
@@ -11,9 +11,17 @@
   "alt_accessible_entrance": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Disabled entrance and exit on Leicester Street",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Disabled Entrance/Exit on Leicester Street.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.cineworld.co.uk/cinemas/x06v1-cineworld-cinema-london-leicester-square/"
+      }
+    ],
+    "status": "yes"
   },
   "assistance_dogs": {
     "conflict": null,
@@ -51,7 +59,7 @@
     "sources": [],
     "status": "unknown"
   },
-  "notes": null,
+  "notes": "The page gives an email address for more specific accessibility information, but it's obfuscated in the page text, so it isn't recorded here. Screens the page doesn't list for wheelchair access are left unknown, not no.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +67,486 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Infrared",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screens 4DX, 1, 2, 3, 6, 7, 8 (IMAX) and 9 (Superscreen) are fitted with Infra Red Hearing Systems, compatible with most hearing aids.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.cineworld.co.uk/cinemas/x06v1-cineworld-cinema-london-leicester-square/"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "4DX",
+      "notes": "The page names this screen \"4DX\" without a number. The listings show 4DX showings in screen \"4\", but the page doesn't say they're the same screen, so there's no alias.",
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Infrared",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screens 4DX, 1, 2, 3, 6, 7, 8 (IMAX) and 9 (Superscreen) are fitted with Infra Red Hearing Systems, compatible with most hearing aids.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.cineworld.co.uk/cinemas/x06v1-cineworld-cinema-london-leicester-square/"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Infrared",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screens 4DX, 1, 2, 3, 6, 7, 8 (IMAX) and 9 (Superscreen) are fitted with Infra Red Hearing Systems, compatible with most hearing aids.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.cineworld.co.uk/cinemas/x06v1-cineworld-cinema-london-leicester-square/"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Wheelchair access",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Wheelchair access is available in screens 2, 5, 6, and 8 (IMAX).",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.cineworld.co.uk/cinemas/x06v1-cineworld-cinema-london-leicester-square/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Infrared",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screens 4DX, 1, 2, 3, 6, 7, 8 (IMAX) and 9 (Superscreen) are fitted with Infra Red Hearing Systems, compatible with most hearing aids.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.cineworld.co.uk/cinemas/x06v1-cineworld-cinema-london-leicester-square/"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Screen 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 5",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Wheelchair access",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Wheelchair access is available in screens 2, 5, 6, and 8 (IMAX).",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.cineworld.co.uk/cinemas/x06v1-cineworld-cinema-london-leicester-square/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Infrared",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screens 4DX, 1, 2, 3, 6, 7, 8 (IMAX) and 9 (Superscreen) are fitted with Infra Red Hearing Systems, compatible with most hearing aids.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.cineworld.co.uk/cinemas/x06v1-cineworld-cinema-london-leicester-square/"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Screen 6",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Wheelchair access",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Wheelchair access is available in screens 2, 5, 6, and 8 (IMAX).",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.cineworld.co.uk/cinemas/x06v1-cineworld-cinema-london-leicester-square/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Infrared",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screens 4DX, 1, 2, 3, 6, 7, 8 (IMAX) and 9 (Superscreen) are fitted with Infra Red Hearing Systems, compatible with most hearing aids.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.cineworld.co.uk/cinemas/x06v1-cineworld-cinema-london-leicester-square/"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Screen 7",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Infrared",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screens 4DX, 1, 2, 3, 6, 7, 8 (IMAX) and 9 (Superscreen) are fitted with Infra Red Hearing Systems, compatible with most hearing aids.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.cineworld.co.uk/cinemas/x06v1-cineworld-cinema-london-leicester-square/"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Screen 8 (IMAX)",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Wheelchair access",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Wheelchair access is available in screens 2, 5, 6, and 8 (IMAX).",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.cineworld.co.uk/cinemas/x06v1-cineworld-cinema-london-leicester-square/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Infrared",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screens 4DX, 1, 2, 3, 6, 7, 8 (IMAX) and 9 (Superscreen) are fitted with Infra Red Hearing Systems, compatible with most hearing aids.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.cineworld.co.uk/cinemas/x06v1-cineworld-cinema-london-leicester-square/"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Screen 9 (Superscreen)",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "By the disabled entrance on Leicester Street",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Disabled Entrance/Exit on Leicester Street.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.cineworld.co.uk/cinemas/x06v1-cineworld-cinema-london-leicester-square/"
+      }
+    ],
+    "status": "yes"
   }
 }

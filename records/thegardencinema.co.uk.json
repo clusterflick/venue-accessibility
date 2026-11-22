@@ -71,26 +71,33 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": "A passenger lift, and a platform lift to Screen 3",
+    "note": "The passenger lift works; the platform lift to Screen 3 is under repair",
     "sources": [
       {
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "quote": "This passenger lift provides access to the Box Office level (3 steps up from the main entrance) and the basement level (Screens 1 & 2 and The Garden Bar)",
         "source_last_updated": null,
         "tier": 1,
         "url": "https://www.thegardencinema.co.uk/accessibility/"
       },
       {
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "quote": "We have a platform lift connecting the Box Office with Screen 3 and The Atrium Bar.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.thegardencinema.co.uk/accessibility/"
+      },
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Our lift providing access to Screen 3 and the Atrium Bar is currently under repair.",
         "source_last_updated": null,
         "tier": 1,
         "url": "https://www.thegardencinema.co.uk/accessibility/"
       }
     ],
-    "status": "yes"
+    "status": "partial"
   },
-  "notes": "The seed research found Screen 3's platform lift out of service; the access page no longer says so.",
+  "notes": null,
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -234,17 +241,24 @@
       "step_free": {
         "conflict": null,
         "last_found": null,
-        "note": "To the front row",
+        "note": "Its lift is under repair",
         "sources": [
           {
-            "checked_on": "2026-11-21",
-            "quote": "In each screen, the front row of the auditorium is step free.",
+            "checked_on": "2026-11-22",
+            "quote": "We have a platform lift connecting the Box Office with Screen 3 and The Atrium Bar.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.thegardencinema.co.uk/accessibility/"
+          },
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Our lift providing access to Screen 3 and the Atrium Bar is currently under repair.",
             "source_last_updated": null,
             "tier": 1,
             "url": "https://www.thegardencinema.co.uk/accessibility/"
           }
         ],
-        "status": "yes"
+        "status": "no"
       },
       "transfer_seating": {
         "conflict": null,

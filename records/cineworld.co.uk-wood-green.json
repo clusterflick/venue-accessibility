@@ -1,6 +1,6 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.cineworld.co.uk/cinemas/x06xs-cineworld-cinema-london-wood-green/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
@@ -47,11 +47,26 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "The disabled lift is out of service; the page's car directions use a lift from the car park to the first floor",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Get the lift to the first floor where the Cinema is located.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.cineworld.co.uk/cinemas/x06xs-cineworld-cinema-london-wood-green/"
+      },
+      {
+        "checked_on": "2026-11-22",
+        "quote": "We are currently experiencing technical issues with our disabled lift, the disabled lift is currently not operational.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.cineworld.co.uk/cinemas/x06xs-cineworld-cinema-london-wood-green/"
+      }
+    ],
+    "status": "partial"
   },
-  "notes": null,
+  "notes": "Time-sensitive: on 22 November 2026 the page said the disabled lift was not working.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,

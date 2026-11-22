@@ -28,4 +28,25 @@ describe("committed data", () => {
     });
     expect(problems).toEqual([]);
   });
+
+  it("refuses a source key it doesn't know, so a misspelling can't pass", async () => {
+    const fs = require("node:fs");
+    const os = require("node:os");
+    const path = require("node:path");
+    const file = path.join(
+      fs.mkdtempSync(path.join(os.tmpdir(), "sources-")),
+      "sources.json",
+    );
+    fs.writeFileSync(
+      file,
+      JSON.stringify({
+        "example.com": [
+          { tier: 1, url: "https://example.com/", text_betwen: ["a", "b"] },
+        ],
+      }),
+    );
+    await expect(readSources(file)).rejects.toThrow(
+      "example.com https://example.com/: unknown source keys text_betwen",
+    );
+  });
 });

@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://cinemamuseum.org.uk/visit/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "On the ground floor",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Accessible toilet on the ground floor",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://cinemamuseum.org.uk/visit/"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -47,9 +55,17 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "To the upper floor",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Lift to upper floor",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://cinemamuseum.org.uk/visit/"
+      }
+    ],
+    "status": "yes"
   },
   "notes": null,
   "quiet_space": {
@@ -63,8 +79,16 @@
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Level access on the ground floor",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Level access on the ground floor",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://cinemamuseum.org.uk/visit/"
+      }
+    ],
+    "status": "yes"
   }
 }

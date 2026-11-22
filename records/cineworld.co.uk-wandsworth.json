@@ -1,6 +1,6 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.cineworld.co.uk/cinemas/x076w-cineworld-cinema-london-wandsworth/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
@@ -47,11 +47,19 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "From the ground floor to the cinema on level 1",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "There is an access lift which goes from ground floor to the cinema on level 1.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.cineworld.co.uk/cinemas/x076w-cineworld-cinema-london-wandsworth/"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "The page says each screen has \"access seats\" at the bottom of the screen, with more at the rear of \"screen 7(SuperScreen), 8, and 9 (4DX)\", reached by the lift with staff help. It doesn't say whether access seats are wheelchair spaces. The listings show 4DX showings in screen \"4\", not 9, so which screen the page means by \"9 (4DX)\" isn't clear.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,

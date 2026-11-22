@@ -1,6 +1,6 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.cineworld.co.uk/cinemas/x078z-cineworld-cinema-london-enfield/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
@@ -47,11 +47,26 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Lift to all floors, including the car park; ask staff for the lift to the first floor and Screens 11-14",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "There is lift access to all floors, including the underground carpark.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.cineworld.co.uk/cinemas/x078z-cineworld-cinema-london-enfield/"
+      },
+      {
+        "checked_on": "2026-11-22",
+        "quote": "For lift access to the first floor or screens 11-14, please speak to a member of staff.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.cineworld.co.uk/cinemas/x078z-cineworld-cinema-london-enfield/"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "The page says Screens 1-10 and 15 are on the ground floor and Screens 11-14 are reached by lift with staff help; it doesn't say which screens have wheelchair spaces.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
