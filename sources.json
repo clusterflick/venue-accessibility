@@ -49,6 +49,10 @@
   ],
   "cinemamuseum.org.uk": [
     {
+      "tier": 1,
+      "url": "https://cinemamuseum.org.uk/visit/"
+    },
+    {
       "tier": 2,
       "url": "https://www.accessable.co.uk/venues/cinema-museum"
     }
@@ -278,6 +282,10 @@
     }
   ],
   "phoenixcinema.co.uk": [
+    {
+      "tier": 1,
+      "url": "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Page?p=1600&m=m&sp=5432"
+    },
     {
       "tier": 2,
       "url": "https://www.euansguide.com/venues/phoenix-cinema-london-2195"
