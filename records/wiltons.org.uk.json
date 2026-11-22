@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://wiltons.org.uk/visit-us/accessibility/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "On the ground floor, next to the women's toilets",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "The whole ground floor and auditorium is wheelchair accessible and there is an accessible, gender-neutral toilet on the ground floor next to the women's toilets.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://wiltons.org.uk/visit-us/accessibility/"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -19,8 +27,16 @@
     "conflict": null,
     "last_found": null,
     "note": null,
-    "sources": [],
-    "status": "unknown"
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Assistance dogs are welcome in the building.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://wiltons.org.uk/visit-us/accessibility/"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -51,7 +67,7 @@
     "sources": [],
     "status": "unknown"
   },
-  "notes": null,
+  "notes": "The first floor and balcony are up 19 stairs. The listings name no screen.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +75,78 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Auditorium",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "The whole ground floor and auditorium is wheelchair accessible and there is an accessible, gender-neutral toilet on the ground floor next to the women's toilets.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://wiltons.org.uk/visit-us/accessibility/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": "Number not given; usually in Row N of the stalls; book by phone",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Our standard wheelchair accessible spaces are in Row N of the stalls, although this may change on occasion.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://wiltons.org.uk/visit-us/accessibility/"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "The ground floor and auditorium",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "The whole ground floor and auditorium is wheelchair accessible and there is an accessible, gender-neutral toilet on the ground floor next to the women's toilets.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://wiltons.org.uk/visit-us/accessibility/"
+      }
+    ],
+    "status": "yes"
   }
 }

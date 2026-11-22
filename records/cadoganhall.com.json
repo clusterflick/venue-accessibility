@@ -1,26 +1,57 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://cadoganhall.com/your-visit/access-information/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Unisex, by lift; on every level but the Gallery",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Unisex, accessible toilet facilities are accessible via a lift located to the right of the main bar.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://cadoganhall.com/your-visit/access-information/"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Ring the bell at the Box Office door for the access lift",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "There is a doorbell located to the right of the main Box Office door if you need assistance.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://cadoganhall.com/your-visit/access-information/"
+      },
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Once inside, there is an access lift that will take you from street level down to the Box Office lowered counter.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://cadoganhall.com/your-visit/access-information/"
+      }
+    ],
+    "status": "yes"
   },
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Tell them before you arrive",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Assistance dogs are welcome to access the Hall and auditorium but please do let us know prior to arriving so we may make arrangements if necessary.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://cadoganhall.com/your-visit/access-information/"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -32,26 +63,57 @@
   "entrance_step_free": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Four steps down into the foyer",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "There are four steps down from street level into our foyer and five steps down from street level to the Box Office (with handrails)",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://cadoganhall.com/your-visit/access-information/"
+      }
+    ],
+    "status": "no"
   },
   "hearing_assist_counters": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Box Office counter",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "The Box Office counter is fitted with a loop system to aid customers who use a hearing aid.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://cadoganhall.com/your-visit/access-information/"
+      }
+    ],
+    "status": "yes"
   },
   "id": "cadoganhall.com",
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "To the Stalls, not the Gallery",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "The Stalls are accessible via a lift located to the right of the main bar.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://cadoganhall.com/your-visit/access-information/"
+      },
+      {
+        "checked_on": "2026-11-22",
+        "quote": "There is no lift from the Stalls to the Gallery.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://cadoganhall.com/your-visit/access-information/"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "Wheelchair spaces are booked once you've joined the hall's access scheme, which uses Nimbus's Access Card. The listings name no screen.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +121,86 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Neck loops and headphones; ask ahead",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "In the auditorium (both Stalls and Gallery), neck loops and headphone systems with body pack receivers are available for use.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://cadoganhall.com/your-visit/access-information/"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Auditorium",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "The Stalls, by lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "The Stalls are accessible via a lift located to the right of the main bar.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://cadoganhall.com/your-visit/access-information/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 4,
+        "last_found": null,
+        "note": "Row R of the Stalls",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There are four wheelchair spaces in Row R of the Stalls at Cadogan Hall.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://cadoganhall.com/your-visit/access-information/"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "By access lift from street level",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "but Cadogan Hall has step-free access to its Box Office and foyer areas using an access lift.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://cadoganhall.com/your-visit/access-information/"
+      }
+    ],
+    "status": "yes"
   }
 }

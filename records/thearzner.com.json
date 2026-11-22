@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://c5cf388c-5f07-41dc-890e-cd64e84183d0.usrfiles.com/ugd/c5cf38_bae527db1c5d4287ae769b7b849afc33.pdf",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Gender-neutral, with a sliding door that locks itself",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "We have a fully accessible toilet and two wheelchair spaces in our screening room.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://c5cf388c-5f07-41dc-890e-cd64e84183d0.usrfiles.com/ugd/c5cf38_bae527db1c5d4287ae769b7b849afc33.pdf"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,9 +26,17 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "All dogs are welcome",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "We are a dog-friendly space and provide a warm welcome to all dogs",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://c5cf388c-5f07-41dc-890e-cd64e84183d0.usrfiles.com/ugd/c5cf38_bae527db1c5d4287ae769b7b849afc33.pdf"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -51,7 +67,7 @@
     "sources": [],
     "status": "unknown"
   },
-  "notes": null,
+  "notes": "The FAQ and the access guide (a PDF it links to) call the one screen the screening room, as the listings do. The guide gives every door's width.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +75,85 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screening Room",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "The whole venue is step-free",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "We are proud to be a completely step-free venue.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://c5cf388c-5f07-41dc-890e-cd64e84183d0.usrfiles.com/ugd/c5cf38_bae527db1c5d4287ae769b7b849afc33.pdf"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": "Seats A1 and A12; their chairs are taken out when they're booked",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Our two wheelchair accessible spaces in the cinema are A1 and A12",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://c5cf388c-5f07-41dc-890e-cd64e84183d0.usrfiles.com/ugd/c5cf38_bae527db1c5d4287ae769b7b849afc33.pdf"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Step-free throughout",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "We are proud to be a completely step-free venue.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://c5cf388c-5f07-41dc-890e-cd64e84183d0.usrfiles.com/ugd/c5cf38_bae527db1c5d4287ae769b7b849afc33.pdf"
+      },
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Yes, we're proud to be a fully wheelchair-accessible venue, including an accessible toilet and 2 wheelchair spaces in our screening room.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://thearzner.com/TheArzner.dll/Page?p=1066&m=m"
+      }
+    ],
+    "status": "yes"
   }
 }

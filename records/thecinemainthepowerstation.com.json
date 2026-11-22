@@ -1,12 +1,27 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.olympicstudios.com/pages/accessibility",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Beside Screens 1 and 2 at The Power Station; by Screen 2 at The Arches",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Bathrooms are available throughout the site with accessible toilets located either side of Screen 1 and next to Screen 2.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.olympicstudios.com/pages/accessibility"
+      },
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Bathrooms are available outside each screen with an accessible toilet located in Screen 2/Sweet Shop.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.olympicstudios.com/pages/accessibility"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,9 +33,17 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Guide dogs",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Guide Dogs Guide dogs are always welcome.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.olympicstudios.com/pages/accessibility"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -47,11 +70,19 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Public lifts in the Power Station up to the cinema foyer on Level 1",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "All screens are accessible through public lifts into the Power Station and directly into the Cinema foyer from Level 1.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.olympicstudios.com/pages/accessibility"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "The access page covers Olympic's three cinemas; these facts are from its Power Station section, which covers The Arches too. At The Arches every screen is on the ground floor and Screens 1, 2 and 3 have wheelchair spaces at the front, at the end of the row; at The Power Station the spaces are at the back, either side of the row, and the VIP boxes have lifting platforms. The listings name only \"The Cinema in The Power Station\" and \"The Cinema in the Arches\", and both buildings number their screens from 1, so no screen is recorded.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -63,8 +94,16 @@
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Both The Arches and The Power Station",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Both The Arches & The Power Station are fully wheelchair accessible.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.olympicstudios.com/pages/accessibility"
+      }
+    ],
+    "status": "yes"
   }
 }

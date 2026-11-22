@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://earthackney.co.uk/access/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "In every space; ask the duty manager",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "All spaces have a dedicated accessible toilet please ask the duty manager on the night and they can show you where this is located.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://earthackney.co.uk/access/"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,9 +26,17 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Depending on the event; ask first",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Assistance animals may be allowed into the venue depending on the type of event.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://earthackney.co.uk/access/"
+      }
+    ],
+    "status": "partial"
   },
   "changing_places": {
     "conflict": null,
@@ -47,11 +63,19 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "To EartH Hall; 300kg including the wheelchair",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "For wheelchair users or customers who may require assistance with stairs, we have a lift available that carries a maximum weight of 300kg including the wheelchair and person.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://earthackney.co.uk/access/"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "The page gives the access areas for live shows in each room. The listings don't say which room a screening is in.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +83,156 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "EartH Theatre",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "15 steps; a motorised stairclimber for manual wheelchairs, run by the duty managers",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There is currently no step-free access in the theatre space.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://earthackney.co.uk/access/"
+          },
+          {
+            "checked_on": "2026-11-22",
+            "quote": "For wheelchair users we have a motorised stairclimber (view this here) which is operated by our trained duty managers",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://earthackney.co.uk/access/"
+          }
+        ],
+        "status": "no"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": "Two, at live shows",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "2x wheelchair users + carers in each room",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://earthackney.co.uk/access/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "EartH Hall",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "For wheelchair users or customers who may require assistance with stairs, we have a lift available that carries a maximum weight of 300kg including the wheelchair and person.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://earthackney.co.uk/access/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": "Two, at live shows",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "2x wheelchair users + carers in each room",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://earthackney.co.uk/access/"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Lift to EartH Hall; EartH Theatre only by stairclimber; EartH Kitchen not at all",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "For wheelchair users or customers who may require assistance with stairs, we have a lift available that carries a maximum weight of 300kg including the wheelchair and person.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://earthackney.co.uk/access/"
+      },
+      {
+        "checked_on": "2026-11-22",
+        "quote": "There is currently no step-free access in the theatre space.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://earthackney.co.uk/access/"
+      },
+      {
+        "checked_on": "2026-11-22",
+        "quote": "EartH Kitchen unfortunately does not have step-free access or a compatible stair climber, so is not accessible via wheelchair.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://earthackney.co.uk/access/"
+      }
+    ],
+    "status": "partial"
   }
 }

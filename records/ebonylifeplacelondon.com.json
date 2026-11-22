@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://ebonylifeplacelondon.com/accessibility/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
     "note": null,
-    "sources": [],
-    "status": "unknown"
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Accessible toilets for guests with disabilities.",
+        "source_last_updated": "2026-10-07",
+        "tier": 1,
+        "url": "https://ebonylifeplacelondon.com/accessibility/"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -59,12 +67,85 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Amani Auditorium",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Step-free access into the venue and across our public spaces, including The Afrobeat, Fèhìntì Lounge, Maji, Zuri and the Amani Auditorium.",
+            "source_last_updated": "2026-10-07",
+            "tier": 1,
+            "url": "https://ebonylifeplacelondon.com/accessibility/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": "Number not given; companion seats alongside",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Wheelchair-user seating in the Amani Auditorium, with companion seating alongside.",
+            "source_last_updated": "2026-10-07",
+            "tier": 1,
+            "url": "https://ebonylifeplacelondon.com/accessibility/"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Step-free throughout the public spaces",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Step-free access into the venue and across our public spaces, including The Afrobeat, Fèhìntì Lounge, Maji, Zuri and the Amani Auditorium.",
+        "source_last_updated": "2026-10-07",
+        "tier": 1,
+        "url": "https://ebonylifeplacelondon.com/accessibility/"
+      },
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Yes. EbonyLife Place London is fully wheelchair accessible, with step-free access throughout the venue and accessible facilities available for guests.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://ebonylifeplacelondon.com/visit/"
+      }
+    ],
+    "status": "yes"
   }
 }
