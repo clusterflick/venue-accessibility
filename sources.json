@@ -57,10 +57,142 @@
       "url": "https://www.accessable.co.uk/venues/cinema-museum"
     }
   ],
+  "cineworld.co.uk-bexleyheath": [
+    {
+      "tier": 1,
+      "url": "https://www.cineworld.co.uk/cinemas/x06x0-cineworld-cinema-london-bexleyheath/"
+    }
+  ],
+  "cineworld.co.uk-enfield": [
+    {
+      "tier": 1,
+      "url": "https://www.cineworld.co.uk/cinemas/x078z-cineworld-cinema-london-enfield/"
+    }
+  ],
+  "cineworld.co.uk-feltham": [
+    {
+      "tier": 1,
+      "url": "https://www.cineworld.co.uk/cinemas/x06xb-cineworld-cinema-london-feltham/"
+    }
+  ],
+  "cineworld.co.uk-hounslow": [
+    {
+      "tier": 1,
+      "url": "https://www.cineworld.co.uk/cinemas/g01a4-cineworld-cinema-london-hounslow/"
+    }
+  ],
+  "cineworld.co.uk-ilford": [
+    {
+      "tier": 1,
+      "url": "https://www.cineworld.co.uk/cinemas/x06xd-cineworld-cinema-london-ilford/"
+    }
+  ],
+  "cineworld.co.uk-leicester-square": [
+    {
+      "tier": 1,
+      "url": "https://www.cineworld.co.uk/cinemas/x06v1-cineworld-cinema-london-leicester-square/"
+    }
+  ],
+  "cineworld.co.uk-south-ruislip": [
+    {
+      "tier": 1,
+      "url": "https://www.cineworld.co.uk/cinemas/x0y86-cineworld-cinema-london-south-ruislip/"
+    }
+  ],
+  "cineworld.co.uk-the-o2-greenwich": [
+    {
+      "tier": 1,
+      "url": "https://www.cineworld.co.uk/cinemas/x087g-cineworld-cinema-london-the-o2-greenwich/"
+    }
+  ],
+  "cineworld.co.uk-wandsworth": [
+    {
+      "tier": 1,
+      "url": "https://www.cineworld.co.uk/cinemas/x076w-cineworld-cinema-london-wandsworth/"
+    }
+  ],
+  "cineworld.co.uk-wembley": [
+    {
+      "tier": 1,
+      "url": "https://www.cineworld.co.uk/cinemas/x0sra-cineworld-cinema-london-wembley/"
+    }
+  ],
+  "cineworld.co.uk-west-india-quay": [
+    {
+      "tier": 1,
+      "url": "https://www.cineworld.co.uk/cinemas/x0795-cineworld-cinema-london-west-india-quay/"
+    }
+  ],
+  "cineworld.co.uk-wood-green": [
+    {
+      "tier": 1,
+      "url": "https://www.cineworld.co.uk/cinemas/x06xs-cineworld-cinema-london-wood-green/"
+    }
+  ],
   "closeupfilmcentre.com": [
     {
       "tier": 1,
       "url": "https://www.closeupfilmcentre.com/footer/about/"
+    }
+  ],
+  "curzon.com-aldgate": [
+    {
+      "tier": 1,
+      "url": "https://www.curzon.com/venues/aldgate"
+    }
+  ],
+  "curzon.com-bloomsbury": [
+    {
+      "tier": 1,
+      "url": "https://www.curzon.com/venues/bloomsbury"
+    }
+  ],
+  "curzon.com-camden": [
+    {
+      "tier": 1,
+      "url": "https://www.curzon.com/venues/camden"
+    }
+  ],
+  "curzon.com-hoxton": [
+    {
+      "tier": 1,
+      "url": "https://www.curzon.com/venues/hoxton"
+    }
+  ],
+  "curzon.com-kingston": [
+    {
+      "tier": 1,
+      "url": "https://www.curzon.com/venues/kingston"
+    }
+  ],
+  "curzon.com-mayfair": [
+    {
+      "tier": 1,
+      "url": "https://www.curzon.com/venues/mayfair"
+    }
+  ],
+  "curzon.com-richmond": [
+    {
+      "tier": 1,
+      "url": "https://www.curzon.com/venues/richmond"
+    }
+  ],
+  "curzon.com-soho": [
+    {
+      "tier": 1,
+      "url": "https://www.curzon.com/venues/soho"
+    }
+  ],
+  "curzon.com-victoria": [
+    {
+      "tier": 1,
+      "url": "https://www.curzon.com/venues/victoria"
+    }
+  ],
+  "curzon.com-wimbledon": [
+    {
+      "tier": 1,
+      "url": "https://www.curzon.com/venues/wimbledon"
     }
   ],
   "davidleancinema.org.uk": [
