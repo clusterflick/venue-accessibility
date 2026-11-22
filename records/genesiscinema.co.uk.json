@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.genesiscinema.co.uk/access-needs",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Ground floor, past the kiosk",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "There is a unisex accessible toilet on the ground floor that is on level access from the entrance.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.genesiscinema.co.uk/access-needs"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -19,8 +27,16 @@
     "conflict": null,
     "last_found": null,
     "note": null,
-    "sources": [],
-    "status": "unknown"
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Assistance and support dogs are allowed into the screen.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.genesiscinema.co.uk/access-needs"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -32,26 +48,50 @@
   "entrance_step_free": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Level access",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "There is level access into the cinema and to Box Office, Coffee, the Kiosk and the accessible toilet.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.genesiscinema.co.uk/access-needs"
+      }
+    ],
+    "status": "yes"
   },
   "hearing_assist_counters": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "No hearing loop",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "There is not a hearing loop for those with hearing aids.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.genesiscinema.co.uk/access-needs"
+      }
+    ],
+    "status": "no"
   },
   "id": "genesiscinema.co.uk",
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "None; a stair climber for Screen 1 and the bar",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "There is no lift in the building.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.genesiscinema.co.uk/access-needs"
+      }
+    ],
+    "status": "no"
   },
-  "notes": null,
+  "notes": "The seed research found AccessAble describing a platform lift; Genesis's own pages say there is no lift. The AccessAble guide hasn't been checked yet.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +99,369 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "There is not a hearing loop for those with hearing aids.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.genesiscinema.co.uk/access-needs"
+          }
+        ],
+        "status": "no"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Upstairs; a stair climber run by managers",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "The only way to access upstairs is via our stairs.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.genesiscinema.co.uk/access-needs"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "There are 11 extra steps into Screen 1.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.genesiscinema.co.uk/access-needs"
+          }
+        ],
+        "status": "no"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": "At the back of the front section, on the left",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 1: the wheelchair space is at the back of the front section to the left.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.genesiscinema.co.uk/access-needs"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "There is not a hearing loop for those with hearing aids.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.genesiscinema.co.uk/access-needs"
+          }
+        ],
+        "status": "no"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screens 2 and 3: the wheelchair space is at the front.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.genesiscinema.co.uk/access-needs"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By ramp",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screens 2 and 3 and Studios 4 and 5 are accessible via a ramp.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.genesiscinema.co.uk/access-needs"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screens 2 and 3: the wheelchair space is at the front.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.genesiscinema.co.uk/access-needs"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "There is not a hearing loop for those with hearing aids.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.genesiscinema.co.uk/access-needs"
+          }
+        ],
+        "status": "no"
+      },
+      "name": "Screen 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screens 2 and 3: the wheelchair space is at the front.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.genesiscinema.co.uk/access-needs"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By ramp",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screens 2 and 3 and Studios 4 and 5 are accessible via a ramp.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.genesiscinema.co.uk/access-needs"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screens 2 and 3: the wheelchair space is at the front.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.genesiscinema.co.uk/access-needs"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "There is not a hearing loop for those with hearing aids.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.genesiscinema.co.uk/access-needs"
+          }
+        ],
+        "status": "no"
+      },
+      "name": "Studio 4",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By ramp",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screens 2 and 3 and Studios 4 and 5 are accessible via a ramp.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.genesiscinema.co.uk/access-needs"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": "An armchair moved to make space",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Studios 4 and 5: we can move any of the single armchairs to make space for a wheelchair.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.genesiscinema.co.uk/access-needs"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "There is not a hearing loop for those with hearing aids.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.genesiscinema.co.uk/access-needs"
+          }
+        ],
+        "status": "no"
+      },
+      "name": "Studio 5",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By ramp",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screens 2 and 3 and Studios 4 and 5 are accessible via a ramp.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.genesiscinema.co.uk/access-needs"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": "An armchair moved to make space",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Studios 4 and 5: we can move any of the single armchairs to make space for a wheelchair.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.genesiscinema.co.uk/access-needs"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Level access",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "There is level access into the cinema and to Box Office, Coffee, the Kiosk and the accessible toilet.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.genesiscinema.co.uk/access-needs"
+      }
+    ],
+    "status": "yes"
   }
 }

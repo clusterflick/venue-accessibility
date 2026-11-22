@@ -1,6 +1,6 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.chiswickcinema.co.uk/faq/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
@@ -19,8 +19,16 @@
     "conflict": null,
     "last_found": null,
     "note": null,
-    "sources": [],
-    "status": "unknown"
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Assistance dogs are welcome at general screenings.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.chiswickcinema.co.uk/faq/"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -39,19 +47,35 @@
   "hearing_assist_counters": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "No induction loops",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Do you offer audio-description or induction loop facilities? Not at this time",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.chiswickcinema.co.uk/faq/"
+      }
+    ],
+    "status": "no"
   },
   "id": "chiswickcinema.co.uk",
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "To every level",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "All levels are served by a passenger lift with level access to each screen.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.chiswickcinema.co.uk/faq/"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "The FAQ's seat maps name four screens.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,7 +83,268 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "No induction loop",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Do you offer audio-description or induction loop facilities? Not at this time",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.chiswickcinema.co.uk/faq/"
+          }
+        ],
+        "status": "no"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All levels are served by a passenger lift with level access to each screen.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.chiswickcinema.co.uk/faq/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": "One bay, with a companion seat",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Every screen has a wheelchair bay with a companion seat.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.chiswickcinema.co.uk/faq/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "No induction loop",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Do you offer audio-description or induction loop facilities? Not at this time",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.chiswickcinema.co.uk/faq/"
+          }
+        ],
+        "status": "no"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All levels are served by a passenger lift with level access to each screen.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.chiswickcinema.co.uk/faq/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": "One bay, with a companion seat",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Every screen has a wheelchair bay with a companion seat.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.chiswickcinema.co.uk/faq/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "No induction loop",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Do you offer audio-description or induction loop facilities? Not at this time",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.chiswickcinema.co.uk/faq/"
+          }
+        ],
+        "status": "no"
+      },
+      "name": "Screen 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All levels are served by a passenger lift with level access to each screen.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.chiswickcinema.co.uk/faq/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": "One bay, with a companion seat",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Every screen has a wheelchair bay with a companion seat.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.chiswickcinema.co.uk/faq/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "No induction loop",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Do you offer audio-description or induction loop facilities? Not at this time",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.chiswickcinema.co.uk/faq/"
+          }
+        ],
+        "status": "no"
+      },
+      "name": "Screen 4",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "All levels are served by a passenger lift with level access to each screen.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.chiswickcinema.co.uk/faq/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": "One bay, with a companion seat",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Every screen has a wheelchair bay with a companion seat.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.chiswickcinema.co.uk/faq/"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,

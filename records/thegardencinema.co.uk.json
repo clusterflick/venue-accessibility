@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.thegardencinema.co.uk/accessibility/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "In the basement bar",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "A wheelchair accessible toilet is situated in our basement bar.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.thegardencinema.co.uk/accessibility/"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,9 +26,17 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Registered assistance dogs; tell the box office in advance",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "At this time, The Garden Cinema only allows Registered Assistance Dogs; please let the box office know in advance of arrival if this is required.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.thegardencinema.co.uk/about-us/faq/"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -32,9 +48,17 @@
   "entrance_step_free": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Street level",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "There is step free access to the venue from the main entrance, which is at street level.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.thegardencinema.co.uk/accessibility/"
+      }
+    ],
+    "status": "yes"
   },
   "hearing_assist_counters": {
     "conflict": null,
@@ -47,11 +71,26 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "A passenger lift, and a platform lift to Screen 3",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "This passenger lift provides access to the Box Office level (3 steps up from the main entrance) and the basement level (Screens 1 & 2 and The Garden Bar)",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.thegardencinema.co.uk/accessibility/"
+      },
+      {
+        "checked_on": "2026-11-21",
+        "quote": "We have a platform lift connecting the Box Office with Screen 3 and The Atrium Bar.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.thegardencinema.co.uk/accessibility/"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "The seed research found Screen 3's platform lift out of service; the access page no longer says so.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +98,192 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "To the front row",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "In each screen, the front row of the auditorium is step free.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.thegardencinema.co.uk/accessibility/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": "One bookable space",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "We have 1 bookable space in each screen for wheelchair users.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.thegardencinema.co.uk/accessibility/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "To the front row",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "In each screen, the front row of the auditorium is step free.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.thegardencinema.co.uk/accessibility/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": "One bookable space",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "We have 1 bookable space in each screen for wheelchair users.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.thegardencinema.co.uk/accessibility/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "To the front row",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "In each screen, the front row of the auditorium is step free.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.thegardencinema.co.uk/accessibility/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": "One bookable space",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "We have 1 bookable space in each screen for wheelchair users.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.thegardencinema.co.uk/accessibility/"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
     "note": null,
-    "sources": [],
-    "status": "unknown"
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Yes, we are fully wheelchair accessible.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.thegardencinema.co.uk/about-us/faq/"
+      }
+    ],
+    "status": "yes"
   }
 }

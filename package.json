@@ -8,10 +8,11 @@
     "ajv": "^8.20.0",
     "ajv-formats": "^3.0.1",
     "cheerio": "^1.2.0",
-    "scripts": "github:clusterflick/scripts"
+    "scripts": "github:clusterflick/scripts",
+    "unpdf": "^1.9.1"
   },
   "scripts": {
-    "test": "TZ=Europe/London jest",
+    "test": "TZ=Europe/London NODE_OPTIONS=--experimental-vm-modules jest",
     "lint": "eslint .",
     "format": "prettier \"./**/*.(m)?js(on)?\" --write && prettier \"./**/*.md\" --write --prose-wrap=always",
     "validate": "TZ=Europe/London node scripts/validate.js",

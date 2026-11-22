@@ -1,6 +1,6 @@
 {
-  "access_contact": null,
-  "access_page_url": null,
+  "access_contact": "info@arthousecrouchend.co.uk",
+  "access_page_url": "https://www.arthousecrouchend.co.uk/general-information/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
@@ -51,7 +51,7 @@
     "sources": [],
     "status": "unknown"
   },
-  "notes": null,
+  "notes": "The page says there is one designated wheelchair space, bookable by email, without saying which screen it is in.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -64,7 +64,15 @@
     "conflict": null,
     "last_found": null,
     "note": null,
-    "sources": [],
-    "status": "unknown"
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Wheelchair access to the building.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.arthousecrouchend.co.uk/general-information/"
+      }
+    ],
+    "status": "yes"
   }
 }

@@ -1,6 +1,6 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.everymancinema.com/venues-list/x077o-everyman-screen-on-the-green/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
@@ -32,9 +32,17 @@
   "entrance_step_free": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Two steps",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "There are two steps at the cinema's entrance and two steps between foyer area and entrance to the auditorium.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.everymancinema.com/venues-list/x077o-everyman-screen-on-the-green/"
+      }
+    ],
+    "status": "no"
   },
   "hearing_assist_counters": {
     "conflict": null,
@@ -59,12 +67,70 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Two more steps from the foyer",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There are two steps at the cinema's entrance and two steps between foyer area and entrance to the auditorium.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/x077o-everyman-screen-on-the-green/"
+          }
+        ],
+        "status": "no"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Two steps at the entrance",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "There are two steps at the cinema's entrance and two steps between foyer area and entrance to the auditorium.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.everymancinema.com/venues-list/x077o-everyman-screen-on-the-green/"
+      }
+    ],
+    "status": "no"
   }
 }

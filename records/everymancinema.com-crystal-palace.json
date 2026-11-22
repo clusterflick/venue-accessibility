@@ -1,6 +1,6 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.everymancinema.com/venues-list/x11dr-everyman-crystal-palace/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +59,281 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Hearing assist",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 1 50 capacity NEC Laser Projection, Dolby 7.1 digital sound, satellite capabilities, 2D only, hearing assist capabilities.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/x11dr-everyman-crystal-palace/"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Everyman Crystal Palace has full disabled access for our customers.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/x11dr-everyman-crystal-palace/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There is one wheelchair position provided in each of Screen 1, 3 & 4 and two wheelchair positions provided in Screen 2.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/x11dr-everyman-crystal-palace/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Hearing assist",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 2 148 capacity Sony 4K projection, Dolby 7.1 digital sound, satellite capabilities, 2D only, hearing assist capabilities.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/x11dr-everyman-crystal-palace/"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Everyman Crystal Palace has full disabled access for our customers.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/x11dr-everyman-crystal-palace/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There is one wheelchair position provided in each of Screen 1, 3 & 4 and two wheelchair positions provided in Screen 2.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/x11dr-everyman-crystal-palace/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Hearing assist",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 3 40 capacity NEC Laser Projection, Dolby 7.1 digital sound, satellite capabilities, 2D only, hearing assist capabilities.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/x11dr-everyman-crystal-palace/"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Screen 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Everyman Crystal Palace has full disabled access for our customers.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/x11dr-everyman-crystal-palace/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There is one wheelchair position provided in each of Screen 1, 3 & 4 and two wheelchair positions provided in Screen 2.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/x11dr-everyman-crystal-palace/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Hearing assist",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 4 75 seats Sony 4K Digital projection, Dolby 7.1 digital sound, satellite capabilities, RealD 3D, hearing assist capabilities.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/x11dr-everyman-crystal-palace/"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Screen 4",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Everyman Crystal Palace has full disabled access for our customers.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/x11dr-everyman-crystal-palace/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There is one wheelchair position provided in each of Screen 1, 3 & 4 and two wheelchair positions provided in Screen 2.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/x11dr-everyman-crystal-palace/"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
     "note": null,
-    "sources": [],
-    "status": "unknown"
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Everyman Crystal Palace has full disabled access for our customers.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.everymancinema.com/venues-list/x11dr-everyman-crystal-palace/"
+      }
+    ],
+    "status": "yes"
   }
 }

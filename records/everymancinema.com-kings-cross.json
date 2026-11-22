@@ -1,6 +1,6 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.everymancinema.com/venues-list/x0x5p-everyman-kings-cross/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
@@ -48,10 +48,18 @@
     "conflict": null,
     "last_found": null,
     "note": null,
-    "sources": [],
-    "status": "unknown"
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "There is lift access and one removable seat for wheelchair in each Screen 1, 2 & 3.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.everymancinema.com/venues-list/x0x5p-everyman-kings-cross/"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "Everyman's accessibility guide for King's Cross (modified April 2025) also describes a Screen 4 with two wheelchair positions and level access; the venue page lists three screens.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +67,216 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Hearing assist",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 1 109 seats Sony 4K projection, Dolby 7.1 digital sound, satellite capabilities, 2D only, hearing assist capabilities",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/x0x5p-everyman-kings-cross/"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There is lift access and one removable seat for wheelchair in each Screen 1, 2 & 3.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/x0x5p-everyman-kings-cross/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": "A removable seat",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There is lift access and one removable seat for wheelchair in each Screen 1, 2 & 3.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/x0x5p-everyman-kings-cross/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Hearing assist",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 2 108 seats Sony 4K projection, Dolby 7.1 digital sound, satellite capabilities, RealD 3D, hearing assist capabilities",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/x0x5p-everyman-kings-cross/"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There is lift access and one removable seat for wheelchair in each Screen 1, 2 & 3.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/x0x5p-everyman-kings-cross/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": "A removable seat",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There is lift access and one removable seat for wheelchair in each Screen 1, 2 & 3.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/x0x5p-everyman-kings-cross/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Hearing assist",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 3 31 seats NEC Laser Projection, Dolby 7.1 digital sound, satellite capabilities, 2D only, hearing assist capabilities",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/x0x5p-everyman-kings-cross/"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Screen 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There is lift access and one removable seat for wheelchair in each Screen 1, 2 & 3.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/x0x5p-everyman-kings-cross/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": "A removable seat",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There is lift access and one removable seat for wheelchair in each Screen 1, 2 & 3.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/x0x5p-everyman-kings-cross/"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "By lift",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "There is lift access and one removable seat for wheelchair in each Screen 1, 2 & 3.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.everymancinema.com/venues-list/x0x5p-everyman-kings-cross/"
+      }
+    ],
+    "status": "yes"
   }
 }

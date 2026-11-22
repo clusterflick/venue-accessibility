@@ -1,12 +1,20 @@
 {
-  "access_contact": null,
-  "access_page_url": null,
+  "access_contact": "Manager@riocinema.org.uk, 020 7241 9410",
+  "access_page_url": "https://riocinema.org.uk/Rio.dll/Page?p=20275&m=m&sp=32430",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "On the ground floor, and by Screen 2",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "There is an accessible toilet situated at the ground floor entrance level by the lift, and another on the Screen 2 basement level.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://riocinema.org.uk/Rio.dll/Page?p=20275&m=m&sp=32430"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,9 +26,17 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Guide dogs",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Guide dogs We welcome guide dogs.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://riocinema.org.uk/Rio.dll/Page?p=20275&m=m&sp=32430"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -32,9 +48,17 @@
   "entrance_step_free": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Power-assisted door; ring the bell if it's closed",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Our front door has a doorbell for wheelchair users: in colder weather the power assisted door may not be active in which case, ring for attention if the door is closed and we will come to open the door for you.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://riocinema.org.uk/Rio.dll/Page?p=20275&m=m&sp=32430"
+      }
+    ],
+    "status": "yes"
   },
   "hearing_assist_counters": {
     "conflict": null,
@@ -47,11 +71,19 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Out of service when checked (notice dated 15 October 2026)",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Currently the lift to Screen 2 and the Ludski Bar is out of service.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://riocinema.org.uk/Rio.dll/Page?p=20275&m=m&sp=32430"
+      }
+    ],
+    "status": "no"
   },
-  "notes": null,
+  "notes": "The seed research found the FAQ giving three wheelchair spaces in Screen 1; the FAQ address now serves the listings, and the access page gives two.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +91,127 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "The entrance to the auditorium is wide and all our wheelchair spaces are easily accessible.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://riocinema.org.uk/Rio.dll/Page?p=20275&m=m&sp=32430"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 1 There are two wheelchair spaces available in Screen 1.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://riocinema.org.uk/Rio.dll/Page?p=20275&m=m&sp=32430"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "The lift is out of service (notice dated 15 October 2026)",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "There is currently no step-free access to either space.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://riocinema.org.uk/Rio.dll/Page?p=20275&m=m&sp=32430"
+          }
+        ],
+        "status": "no"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Power-assisted doors; a doorbell if they're off",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "The entrance doors are power-assisted and the ground floor toilet has wheelchair access - it is located next to the auditorium.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://riocinema.org.uk/Rio.dll/Page?p=20275&m=m&sp=32430"
+      }
+    ],
+    "status": "yes"
   }
 }

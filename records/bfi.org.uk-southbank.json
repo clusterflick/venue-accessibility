@@ -51,7 +51,7 @@
     "sources": [],
     "status": "unknown"
   },
-  "notes": null,
+  "notes": "Only NFT1 is covered, from the venue hire page; the other screens aren't reviewed yet.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,7 +59,73 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Induction loop",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Hearing loop - Induction loop for film and speech",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.bfi.org.uk/venue-hire/hiring-bfi-southbank/nft1"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "NFT1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Front and rear",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Wheelchair spaces - Two at the rear and two at the front of the cinema",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.bfi.org.uk/venue-hire/hiring-bfi-southbank/nft1"
+          }
+        ],
+        "status": "yes",
+        "value": "mixed"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 4,
+        "last_found": null,
+        "note": "Two at the front, two at the rear",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Wheelchair spaces - Two at the rear and two at the front of the cinema",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.bfi.org.uk/venue-hire/hiring-bfi-southbank/nft1"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,

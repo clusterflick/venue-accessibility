@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://actonecinema.co.uk/ActOneCinema.dll/Page?p=4899&m=m&sp=6389",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
     "note": null,
-    "sources": [],
-    "status": "unknown"
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "We are accessible via a ramp at the front of the building, and we have an accessible toilet and baby changing facilities.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://actonecinema.co.uk/ActOneCinema.dll/Page?p=4899&m=m&sp=6389"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -32,9 +40,17 @@
   "entrance_step_free": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Ramp at the front",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "We are accessible via a ramp at the front of the building, and we have an accessible toilet and baby changing facilities.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://actonecinema.co.uk/ActOneCinema.dll/Page?p=4899&m=m&sp=6389"
+      }
+    ],
+    "status": "yes"
   },
   "hearing_assist_counters": {
     "conflict": null,
@@ -51,7 +67,7 @@
     "sources": [],
     "status": "unknown"
   },
-  "notes": null,
+  "notes": "The FAQ says \"both screening rooms\" without naming them; they're named here as the listings name them.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +75,135 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Yes, our auditoriums are fully accessible, and we have two wheelchair spaces available in both screening rooms.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://actonecinema.co.uk/ActOneCinema.dll/Page?p=4899&m=m&sp=6389"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Yes, our auditoriums are fully accessible, and we have two wheelchair spaces available in both screening rooms.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://actonecinema.co.uk/ActOneCinema.dll/Page?p=4899&m=m&sp=6389"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Yes, our auditoriums are fully accessible, and we have two wheelchair spaces available in both screening rooms.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://actonecinema.co.uk/ActOneCinema.dll/Page?p=4899&m=m&sp=6389"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Yes, our auditoriums are fully accessible, and we have two wheelchair spaces available in both screening rooms.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://actonecinema.co.uk/ActOneCinema.dll/Page?p=4899&m=m&sp=6389"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Ramp at the front of the building",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "We are accessible via a ramp at the front of the building, and we have an accessible toilet and baby changing facilities.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://actonecinema.co.uk/ActOneCinema.dll/Page?p=4899&m=m&sp=6389"
+      }
+    ],
+    "status": "yes"
   }
 }

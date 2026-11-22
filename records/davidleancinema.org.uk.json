@@ -1,26 +1,57 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.davidleancinema.org.uk/access-guide/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "In the Clocktower, before the bar",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Wheelchair-accessible toilets are available within Croydon Clocktower.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.davidleancinema.org.uk/access-guide/"
+      },
+      {
+        "checked_on": "2026-11-21",
+        "quote": "At the top of the ramped slope on the first floor before you enter the bar area of the cinema.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.davidleancinema.org.uk/access-guide/"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Ramped entrance, right of the Library entrance",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "The ramped entrance to the Clocktower complex is to the right of the Library entrance.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.davidleancinema.org.uk/access-guide/"
+      }
+    ],
+    "status": "yes"
   },
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Let them know in advance",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Assistance dogs are welcome at the David Lean Cinema.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.davidleancinema.org.uk/access-guide/"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -47,11 +78,19 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "To the first floor",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "take the lift to the first floor",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.davidleancinema.org.uk/access-guide/"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "The seed research found a news article giving three wheelchair spaces; the access guide gives two, and the article is no longer listed.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +98,86 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Infrared receivers",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "we offer free infrared hearing receivers to amplify the soundtrack",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.davidleancinema.org.uk/access-guide/"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Auditorium",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to row A",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Row A has step-free access.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.davidleancinema.org.uk/access-guide/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": "Seats A1/A2 and A3/A4 removed",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "We have two wheelchair spaces available in the auditorium.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.davidleancinema.org.uk/access-guide/"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Ramped entrance, then a lift",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "The David Lean Cinema is located on the first floor of Croydon Clocktower and is step-free throughout.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.davidleancinema.org.uk/access-guide/"
+      }
+    ],
+    "status": "yes"
   }
 }

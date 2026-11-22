@@ -1,19 +1,35 @@
 {
-  "access_contact": null,
-  "access_page_url": null,
+  "access_contact": "enquiries@regentstreetcinema.com, 020 7911 5050",
+  "access_page_url": "https://www.regentstreetcinema.com/access/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "In the bar area",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Regent Street Cinema has accessible toilets and baby changing facilities within the bar area.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.regentstreetcinema.com/access/"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Press the access button at the front; staff escort you",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "To gain entry via lift access, please press the access button on the front of the building which will alert a member of staff who will escort you to our bar area via our accessible entrance.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.regentstreetcinema.com/access/"
+      }
+    ],
+    "status": "yes"
   },
   "assistance_dogs": {
     "conflict": null,
@@ -32,9 +48,17 @@
   "entrance_step_free": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "15 steps to the bar",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "There are 15 steps from street level to the bar area of our cinema.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.regentstreetcinema.com/access/"
+      }
+    ],
+    "status": "no"
   },
   "hearing_assist_counters": {
     "conflict": null,
@@ -48,10 +72,18 @@
     "conflict": null,
     "last_found": null,
     "note": null,
-    "sources": [],
-    "status": "unknown"
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "To gain entry via lift access, please press the access button on the front of the building which will alert a member of staff who will escort you to our bar area via our accessible entrance.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.regentstreetcinema.com/access/"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "The access page describes one auditorium; the listings call it screen 1.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +91,102 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "aliases": ["1"],
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Dolby headsets, with audio enhancement",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Audio Enhancement: Clearer, adjustable sound amplifies every detail, making the cinematic experience richer and more engaging.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.regentstreetcinema.com/access/"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Auditorium",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Two are located on the front row which is step-free from the bar area. There is an additional wheelchair space at the back of the auditorium accessible via lift.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.regentstreetcinema.com/access/"
+          }
+        ],
+        "status": "yes",
+        "value": "mixed"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "To the front row",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Access from the bar to our front-row auditorium seating is step-free.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.regentstreetcinema.com/access/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 3,
+        "last_found": null,
+        "note": "Two in the front row, one at the back by lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "There are three wheelchair spaces available in the auditorium.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.regentstreetcinema.com/access/"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Two are located on the front row which is step-free from the bar area. There is an additional wheelchair space at the back of the auditorium accessible via lift.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.regentstreetcinema.com/access/"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Through the accessible entrance, with staff",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Regent Street Cinema is wheelchair accessible.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.regentstreetcinema.com/access/"
+      }
+    ],
+    "status": "yes"
   }
 }

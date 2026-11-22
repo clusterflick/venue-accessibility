@@ -1,26 +1,50 @@
 {
-  "access_contact": null,
-  "access_page_url": null,
+  "access_contact": "access@ica.art, 020 7930 3647",
+  "access_page_url": "https://www.ica.art/visual-story-guide",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Nearest the main entrance",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "The toilets nearest the main entrance also include an accessible toilet.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.ica.art/visual-story-guide"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "12 Carlton House Terrace, by temporary ramp",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "A temporary ramp is available for the six steps into the building.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.ica.art/visual-story-guide"
+      }
+    ],
+    "status": "yes"
   },
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
     "note": null,
-    "sources": [],
-    "status": "unknown"
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "Assistance dogs are welcome",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.ica.art/visual-story-guide"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -32,39 +56,240 @@
   "entrance_step_free": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Automatic sliding doors on The Mall",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "The Mall entrance is wheelchair accessible.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.ica.art/visual-story-guide"
+      }
+    ],
+    "status": "yes"
   },
   "hearing_assist_counters": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "At the box office and bookshop",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "The box office and bookstore desks are fitted with induction loops for those wearing hearing aids",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.ica.art/media/06329.pdf"
+      }
+    ],
+    "status": "yes"
   },
   "id": "ica.art",
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Small; you transfer to a chair, and motorised wheelchairs don't fit",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "You must transfer from your wheelchair to a standard chair to use the lift.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.ica.art/visual-story-guide"
+      }
+    ],
+    "status": "partial"
   },
   "notes": null,
   "quiet_space": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "The Snug, off the bar and café",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "The Snug is available during your visit if you need a break.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.ica.art/visual-story-guide"
+      }
+    ],
+    "status": "yes"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Induction loop",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Both cinemas are fitted with induction loops for those wearing hearing aids",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.ica.art/media/06329.pdf"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Cinema 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Middle of the room, right-hand side",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "It is in front of the door, with easy access and a view of the screen from the middle of the room, on the right-hand side.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.ica.art/visual-story-guide"
+          }
+        ],
+        "status": "yes",
+        "value": "middle"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By ramp from The Mall",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Both cinemas have step-free access from the main Mall entrance and can be reached by ramp.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.ica.art/visual-story-guide"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": "The access guide PDF gives space for two wheelchairs in each cinema; the visual story guide describes one wheelchair space in Cinema 1.",
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "There is space for two wheelchairs in each cinema.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.ica.art/media/06329.pdf"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Cinema 1 A wheelchair space is available with a companion seat beside it.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.ica.art/visual-story-guide"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Induction loop",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Both cinemas are fitted with induction loops for those wearing hearing aids",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.ica.art/media/06329.pdf"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Cinema 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Front row, right-hand side",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Cinema 2 A removable seat can be taken out to create a wheelchair space in the front row, on the right-hand side of the screen.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.ica.art/visual-story-guide"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By ramp from The Mall",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Both cinemas have step-free access from the main Mall entrance and can be reached by ramp.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.ica.art/visual-story-guide"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": "The access guide PDF gives space for two wheelchairs in each cinema; the visual story guide describes one removable seat making a wheelchair space in Cinema 2.",
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "There is space for two wheelchairs in each cinema.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.ica.art/media/06329.pdf"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Cinema 2 A removable seat can be taken out to create a wheelchair space in the front row, on the right-hand side of the screen.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.ica.art/visual-story-guide"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "The main entrance on The Mall",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "The Mall entrance is wheelchair accessible.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.ica.art/visual-story-guide"
+      }
+    ],
+    "status": "yes"
   }
 }

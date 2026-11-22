@@ -1,6 +1,6 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282536-muswell-hill-accessibility-guide",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
@@ -32,9 +32,17 @@
   "entrance_step_free": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "One step; a ramp on request",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "There is a step to access the cinema's entrance, a ramp is available; please ask a member of the team for assistance.",
+        "source_last_updated": "2025-04-15",
+        "tier": 1,
+        "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282536-muswell-hill-accessibility-guide"
+      }
+    ],
+    "status": "partial"
   },
   "hearing_assist_counters": {
     "conflict": null,
@@ -59,12 +67,297 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "The stalls only",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "The Stalls in Screen 1 are accessible to wheelchair users; there are two wheelchair bays with adjacent companion seating available.",
+            "source_last_updated": "2025-04-15",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282536-muswell-hill-accessibility-guide"
+          },
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 1's Circle is located on the first floor of the building with no step-free access.",
+            "source_last_updated": "2025-04-15",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282536-muswell-hill-accessibility-guide"
+          }
+        ],
+        "status": "partial"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": "In the stalls",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "The Stalls in Screen 1 are accessible to wheelchair users; there are two wheelchair bays with adjacent companion seating available.",
+            "source_last_updated": "2025-04-15",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282536-muswell-hill-accessibility-guide"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "To row E",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "The row E in both these screens is accessible to wheelchairs.",
+            "source_last_updated": "2025-04-15",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282536-muswell-hill-accessibility-guide"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": "Row E",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 2 has one wheelchair bay, screen 3 has two.",
+            "source_last_updated": "2025-04-15",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282536-muswell-hill-accessibility-guide"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "To row E",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "The row E in both these screens is accessible to wheelchairs.",
+            "source_last_updated": "2025-04-15",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282536-muswell-hill-accessibility-guide"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": "Row E",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screen 2 has one wheelchair bay, screen 3 has two.",
+            "source_last_updated": "2025-04-15",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282536-muswell-hill-accessibility-guide"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 4",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Second floor, two flights of stairs",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screens 4 and 5 are located on the second floor of the building with no step-free access.",
+            "source_last_updated": "2025-04-15",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282536-muswell-hill-accessibility-guide"
+          }
+        ],
+        "status": "no"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 5",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Second floor, two flights of stairs",
+        "sources": [
+          {
+            "checked_on": "2026-11-21",
+            "quote": "Screens 4 and 5 are located on the second floor of the building with no step-free access.",
+            "source_last_updated": "2025-04-15",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282536-muswell-hill-accessibility-guide"
+          }
+        ],
+        "status": "no"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "A ramp over the entrance step, on request",
+    "sources": [
+      {
+        "checked_on": "2026-11-21",
+        "quote": "There is a step to access the cinema's entrance, a ramp is available; please ask a member of the team for assistance.",
+        "source_last_updated": "2025-04-15",
+        "tier": 1,
+        "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282536-muswell-hill-accessibility-guide"
+      }
+    ],
+    "status": "yes"
   }
 }

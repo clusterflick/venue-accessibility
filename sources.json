@@ -2,11 +2,7 @@
   "actonecinema.co.uk": [
     {
       "tier": 1,
-      "url": "https://www.actonecinema.co.uk/your-visit/"
-    },
-    {
-      "tier": 1,
-      "url": "https://www.actonecinema.co.uk/faqs/"
+      "url": "https://actonecinema.co.uk/ActOneCinema.dll/Page?p=4899&m=m&sp=6389"
     }
   ],
   "arthousecrouchend.co.uk": [
@@ -66,11 +62,13 @@
   "davidleancinema.org.uk": [
     {
       "tier": 1,
-      "url": "https://www.davidleancinema.org.uk/news-updates-2/"
-    },
+      "url": "https://www.davidleancinema.org.uk/access-guide/"
+    }
+  ],
+  "everymancinema.com-baker-street": [
     {
       "tier": 1,
-      "url": "https://www.davidleancinema.org.uk/film-clubs/"
+      "url": "https://www.everymancinema.com/venues-list/x0712-everyman-baker-street/"
     }
   ],
   "everymancinema.com-barnet": [
@@ -83,6 +81,24 @@
       "url": "https://www.everymancinema.com/accessibility-at-everyman/"
     }
   ],
+  "everymancinema.com-belsize-park": [
+    {
+      "tier": 1,
+      "url": "https://www.everymancinema.com/venues-list/x077p-everyman-belsize-park/"
+    }
+  ],
+  "everymancinema.com-borough-yards": [
+    {
+      "tier": 1,
+      "url": "https://www.everymancinema.com/venues-list/g011i-everyman-borough-yards/"
+    }
+  ],
+  "everymancinema.com-brentford": [
+    {
+      "tier": 1,
+      "url": "https://www.everymancinema.com/venues-list/g049a-everyman-brentford/"
+    }
+  ],
   "everymancinema.com-broadgate": [
     {
       "tier": 1,
@@ -91,6 +107,24 @@
     {
       "tier": 1,
       "url": "https://www.everymancinema.com/accessibility-at-everyman/"
+    }
+  ],
+  "everymancinema.com-canary-wharf": [
+    {
+      "tier": 1,
+      "url": "https://www.everymancinema.com/venues-list/x0vpb-everyman-canary-wharf/"
+    }
+  ],
+  "everymancinema.com-chelsea": [
+    {
+      "tier": 1,
+      "url": "https://www.everymancinema.com/venues-list/x078x-everyman-chelsea/"
+    }
+  ],
+  "everymancinema.com-crystal-palace": [
+    {
+      "tier": 1,
+      "url": "https://www.everymancinema.com/venues-list/x11dr-everyman-crystal-palace/"
     }
   ],
   "everymancinema.com-hampstead": [
@@ -103,6 +137,18 @@
       "url": "https://www.everymancinema.com/accessibility-at-everyman/"
     }
   ],
+  "everymancinema.com-kings-cross": [
+    {
+      "tier": 1,
+      "url": "https://www.everymancinema.com/venues-list/x0x5p-everyman-kings-cross/"
+    }
+  ],
+  "everymancinema.com-maida-vale": [
+    {
+      "tier": 1,
+      "url": "https://www.everymancinema.com/venues-list/x0lwi-everyman-maida-vale/"
+    }
+  ],
   "everymancinema.com-muswell-hill": [
     {
       "tier": 1,
@@ -111,6 +157,24 @@
     {
       "tier": 1,
       "url": "https://www.everymancinema.com/accessibility-at-everyman/"
+    }
+  ],
+  "everymancinema.com-screen-on-the-green": [
+    {
+      "tier": 1,
+      "url": "https://www.everymancinema.com/venues-list/x077o-everyman-screen-on-the-green/"
+    }
+  ],
+  "everymancinema.com-stratford-international": [
+    {
+      "tier": 1,
+      "url": "https://www.everymancinema.com/venues-list/g029x-everyman-stratford-international/"
+    }
+  ],
+  "everymancinema.com-the-whiteley": [
+    {
+      "tier": 1,
+      "url": "https://www.everymancinema.com/venues-list/g05d7-everyman-at-the-whiteley/"
     }
   ],
   "forestcinema.co.uk": [
@@ -328,10 +392,6 @@
     {
       "tier": 2,
       "url": "https://www.hackneylocaloffer.co.uk/kb5/hackney/localoffer/service.page?id=4tzNt0cTcZY"
-    },
-    {
-      "tier": 1,
-      "url": "https://www.riocinema.org.uk/faqs/"
     }
   ],
   "thecastlecinema.com": [
@@ -342,12 +402,16 @@
   ],
   "thegardencinema.co.uk": [
     {
-      "tier": 1,
-      "url": "https://www.thegardencinema.co.uk/"
-    },
-    {
       "tier": 3,
       "url": "https://www.euansguide.com/venues/the-garden-cinema-london-15721/reviews/wonderful-and-very-accessible-15134"
+    },
+    {
+      "tier": 1,
+      "url": "https://www.thegardencinema.co.uk/accessibility/"
+    },
+    {
+      "tier": 1,
+      "url": "https://www.thegardencinema.co.uk/about-us/faq/"
     }
   ],
   "thelexicinema.co.uk": [
