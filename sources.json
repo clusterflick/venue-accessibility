@@ -59,72 +59,84 @@
   ],
   "cineworld.co.uk-bexleyheath": [
     {
+      "text_between": ["Frequently asked questions", "Cineworld About us"],
       "tier": 1,
       "url": "https://www.cineworld.co.uk/cinemas/x06x0-cineworld-cinema-london-bexleyheath/"
     }
   ],
   "cineworld.co.uk-enfield": [
     {
+      "text_between": ["Frequently asked questions", "Cineworld About us"],
       "tier": 1,
       "url": "https://www.cineworld.co.uk/cinemas/x078z-cineworld-cinema-london-enfield/"
     }
   ],
   "cineworld.co.uk-feltham": [
     {
+      "text_between": ["Frequently asked questions", "Cineworld About us"],
       "tier": 1,
       "url": "https://www.cineworld.co.uk/cinemas/x06xb-cineworld-cinema-london-feltham/"
     }
   ],
   "cineworld.co.uk-hounslow": [
     {
+      "text_between": ["Frequently asked questions", "Cineworld About us"],
       "tier": 1,
       "url": "https://www.cineworld.co.uk/cinemas/g01a4-cineworld-cinema-london-hounslow/"
     }
   ],
   "cineworld.co.uk-ilford": [
     {
+      "text_between": ["Frequently asked questions", "Cineworld About us"],
       "tier": 1,
       "url": "https://www.cineworld.co.uk/cinemas/x06xd-cineworld-cinema-london-ilford/"
     }
   ],
   "cineworld.co.uk-leicester-square": [
     {
+      "text_between": ["Frequently asked questions", "Cineworld About us"],
       "tier": 1,
       "url": "https://www.cineworld.co.uk/cinemas/x06v1-cineworld-cinema-london-leicester-square/"
     }
   ],
   "cineworld.co.uk-south-ruislip": [
     {
+      "text_between": ["Frequently asked questions", "Cineworld About us"],
       "tier": 1,
       "url": "https://www.cineworld.co.uk/cinemas/x0y86-cineworld-cinema-london-south-ruislip/"
     }
   ],
   "cineworld.co.uk-the-o2-greenwich": [
     {
+      "text_between": ["Frequently asked questions", "Cineworld About us"],
       "tier": 1,
       "url": "https://www.cineworld.co.uk/cinemas/x087g-cineworld-cinema-london-the-o2-greenwich/"
     }
   ],
   "cineworld.co.uk-wandsworth": [
     {
+      "text_between": ["Frequently asked questions", "Cineworld About us"],
       "tier": 1,
       "url": "https://www.cineworld.co.uk/cinemas/x076w-cineworld-cinema-london-wandsworth/"
     }
   ],
   "cineworld.co.uk-wembley": [
     {
+      "text_between": ["Frequently asked questions", "Cineworld About us"],
       "tier": 1,
       "url": "https://www.cineworld.co.uk/cinemas/x0sra-cineworld-cinema-london-wembley/"
     }
   ],
   "cineworld.co.uk-west-india-quay": [
     {
+      "text_between": ["Frequently asked questions", "Cineworld About us"],
       "tier": 1,
       "url": "https://www.cineworld.co.uk/cinemas/x0795-cineworld-cinema-london-west-india-quay/"
     }
   ],
   "cineworld.co.uk-wood-green": [
     {
+      "text_between": ["Frequently asked questions", "Cineworld About us"],
       "tier": 1,
       "url": "https://www.cineworld.co.uk/cinemas/x06xs-cineworld-cinema-london-wood-green/"
     }

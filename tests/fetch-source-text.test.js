@@ -47,4 +47,28 @@ describe("fetchSourceText", () => {
       "https://example.com/access.pdf is a PDF, so can't take a selector",
     );
   });
+
+  it("narrows an HTML page's text to text_between", async () => {
+    respond(
+      "<html><body><p>Sun 22</p><h2>FAQ</h2><p>Level access</p>" +
+        "<footer>About us</footer></body></html>",
+      "text/html",
+    );
+    await expect(
+      fetchSourceText({
+        url: "https://example.com/venue",
+        text_between: ["FAQ", "About us"],
+      }),
+    ).resolves.toBe("FAQ Level access");
+  });
+
+  it("narrows a PDF's text too, since it works on the text", async () => {
+    respond(PDF, "application/pdf");
+    await expect(
+      fetchSourceText({
+        url: "https://example.com/access.pdf",
+        text_between: ["Step-free", "screens."],
+      }),
+    ).resolves.toBe("Step-free access to both");
+  });
 });

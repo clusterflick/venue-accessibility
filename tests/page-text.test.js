@@ -1,4 +1,9 @@
-const { getPageText, quoteAppearsIn, hashText } = require("../lib/page-text");
+const {
+  getPageText,
+  getTextBetween,
+  quoteAppearsIn,
+  hashText,
+} = require("../lib/page-text");
 
 // Shaped like a Picturehouse access page: the access copy in its own element,
 // the chain's film carousel beside it, each screen's figures split by <br>.
@@ -38,6 +43,65 @@ describe("getPageText", () => {
     );
     expect(() => getPageText(PAGE, "p")).toThrow(
       'Expected one element for "p", found 2',
+    );
+  });
+});
+
+describe("getTextBetween", () => {
+  // Shaped like a Cineworld venue page: the week's dates before the FAQ, the
+  // footer after it, and no element around the FAQ a selector could hold.
+  const TEXT =
+    "Now playing Sun 22 Mon 23 Tue 24 Frequently asked questions " +
+    "Does it have wheelchair access? Disabled Access Available " +
+    "Cineworld About us © 2026 Cineworld Cinemas";
+  const MARKERS = ["Frequently asked questions", "Cineworld About us"];
+
+  it("keeps the start marker and what follows, up to the end marker", () => {
+    expect(getTextBetween(TEXT, MARKERS)).toBe(
+      "Frequently asked questions Does it have wheelchair access? " +
+        "Disabled Access Available",
+    );
+  });
+
+  it("hashes the same whatever the dates around it say", () => {
+    const nextWeek = TEXT.replace("Sun 22 Mon 23 Tue 24", "Sun 29 Mon 30");
+    expect(hashText(getTextBetween(nextWeek, MARKERS))).toBe(
+      hashText(getTextBetween(TEXT, MARKERS)),
+    );
+  });
+
+  it("matches markers however their quotes and spacing were typed", () => {
+    expect(getTextBetween("a It's here b", ["It\u2019s  here", "b"])).toBe(
+      "It's here",
+    );
+  });
+
+  it("throws when a marker is missing or found more than once", () => {
+    expect(() => getTextBetween(TEXT, ["Opening times", "Cineworld"])).toThrow(
+      'Expected "Opening times" once in the page, found 0',
+    );
+    expect(() => getTextBetween(TEXT, ["Cineworld", "©"])).toThrow(
+      'Expected "Cineworld" once in the page, found 2',
+    );
+  });
+
+  it("throws when the end marker comes before the start", () => {
+    expect(() =>
+      getTextBetween(TEXT, [
+        "Cineworld About us",
+        "Frequently asked questions",
+      ]),
+    ).toThrow(
+      'Expected "Frequently asked questions" after "Cineworld About us" in the page',
+    );
+  });
+
+  it("throws on markers that aren't a pair of words", () => {
+    expect(() => getTextBetween(TEXT, ["Frequently asked questions"])).toThrow(
+      'Expected text_between as [start, end], got ["Frequently asked questions"]',
+    );
+    expect(() => getTextBetween(TEXT, ["", "Cineworld About us"])).toThrow(
+      "Expected text_between as [start, end]",
     );
   });
 });
