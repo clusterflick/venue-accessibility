@@ -1,6 +1,6 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.institut-francais.org.uk/visit-contact-us/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
@@ -47,11 +47,19 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "From the foyer to Ciné Lumière II on the lower ground floor",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "There is a lift operating for step-free access from the ground floor (foyer/reception) to the lower ground floor (Ciné Lumière II).",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.institut-francais.org.uk/visit-contact-us/"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "The page says there is step-free lift access from the foyer to Ciné Lumière II, but not whether it has wheelchair spaces, and says nothing about access to the main Ciné Lumière screen or the entrance.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,7 +67,57 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Wireless audio system, hearing-impaired and narration channels",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Ciné Lumière II is equipped with a wireless audio system that delivers both Hearing Impaired (HI), and Visually Impaired Narration (VI) on compatible films.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.institut-francais.org.uk/visit-contact-us/"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Ciné Lumière II",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,

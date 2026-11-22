@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.electriccinema.co.uk/white-city/booking-info/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "In the cinema lobby, next to the bar",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "The Accessible toilet is located in the cinema lobby next to the bar.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.electriccinema.co.uk/white-city/booking-info/"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -47,11 +55,19 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Reached through White City House's main reception",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Access to the lift is via the main reception located at the entrance to White City House.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.electriccinema.co.uk/white-city/booking-info/"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "The screens are named as the page's seating plans name them.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,7 +75,155 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": "Seats E1 and E2; book with the box office",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Our wheelchair spaces are E1 & E2 in all 3 screens, and need to be booked directly with the box office.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.electriccinema.co.uk/white-city/booking-info/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": "Seats E1 and E2; book with the box office",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Our wheelchair spaces are E1 & E2 in all 3 screens, and need to be booked directly with the box office.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.electriccinema.co.uk/white-city/booking-info/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": "Seats E1 and E2; book with the box office",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Our wheelchair spaces are E1 & E2 in all 3 screens, and need to be booked directly with the box office.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.electriccinema.co.uk/white-city/booking-info/"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
