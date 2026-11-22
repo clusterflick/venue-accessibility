@@ -1,6 +1,6 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.everymancinema.com/venues-list/x0lwi-everyman-maida-vale/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
@@ -47,9 +47,17 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "To Screen 1",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "There is lift access to Screen 1, however no disabled access to Screen 2.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.everymancinema.com/venues-list/x0lwi-everyman-maida-vale/"
+      }
+    ],
+    "status": "yes"
   },
   "notes": null,
   "quiet_space": {
@@ -59,7 +67,106 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There is lift access to Screen 1, however no disabled access to Screen 2.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/x0lwi-everyman-maida-vale/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 2 - (No step-free access)",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/x0lwi-everyman-maida-vale/"
+          }
+        ],
+        "status": "no"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,

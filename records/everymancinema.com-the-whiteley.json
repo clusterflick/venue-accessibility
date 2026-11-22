@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.everymancinema.com/venues-list/g05d7-everyman-at-the-whiteley/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Three",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Everyman at The Whiteley has full step-free access for our guests, alongside 3 disabled toilets.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.everymancinema.com/venues-list/g05d7-everyman-at-the-whiteley/"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -59,12 +67,306 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Everyman at The Whiteley has full step-free access for our guests, alongside 3 disabled toilets.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/g05d7-everyman-at-the-whiteley/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 1 has two wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/g05d7-everyman-at-the-whiteley/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Everyman at The Whiteley has full step-free access for our guests, alongside 3 disabled toilets.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/g05d7-everyman-at-the-whiteley/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screens 2, 3, 4 & 5 have one wheelchair space each.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/g05d7-everyman-at-the-whiteley/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Everyman at The Whiteley has full step-free access for our guests, alongside 3 disabled toilets.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/g05d7-everyman-at-the-whiteley/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screens 2, 3, 4 & 5 have one wheelchair space each.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/g05d7-everyman-at-the-whiteley/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 4",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Everyman at The Whiteley has full step-free access for our guests, alongside 3 disabled toilets.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/g05d7-everyman-at-the-whiteley/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screens 2, 3, 4 & 5 have one wheelchair space each.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/g05d7-everyman-at-the-whiteley/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 5",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Everyman at The Whiteley has full step-free access for our guests, alongside 3 disabled toilets.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/g05d7-everyman-at-the-whiteley/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screens 2, 3, 4 & 5 have one wheelchair space each.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.everymancinema.com/venues-list/g05d7-everyman-at-the-whiteley/"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
     "note": null,
-    "sources": [],
-    "status": "unknown"
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Everyman at The Whiteley has full step-free access for our guests, alongside 3 disabled toilets.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.everymancinema.com/venues-list/g05d7-everyman-at-the-whiteley/"
+      }
+    ],
+    "status": "yes"
   }
 }
