@@ -41,6 +41,16 @@
       "url": "https://www.bfi.org.uk/venue-hire/hiring-bfi-southbank/nft1"
     }
   ],
+  "castlesidcup.com": [
+    {
+      "tier": 1,
+      "url": "https://castlesidcup.com/access/"
+    },
+    {
+      "tier": 1,
+      "url": "https://castlesidcup.com/faq/"
+    }
+  ],
   "chiswickcinema.co.uk": [
     {
       "tier": 1,
@@ -213,6 +223,18 @@
       "url": "https://www.davidleancinema.org.uk/access-guide/"
     }
   ],
+  "electriccinema.co.uk-portobello": [
+    {
+      "tier": 1,
+      "url": "https://www.electriccinema.co.uk/portobello/booking-info"
+    }
+  ],
+  "electriccinema.co.uk-white-city": [
+    {
+      "tier": 1,
+      "url": "https://www.electriccinema.co.uk/white-city/booking-info/"
+    }
+  ],
   "everymancinema.com-baker-street": [
     {
       "tier": 1,
@@ -353,6 +375,24 @@
     {
       "tier": 1,
       "url": "https://www.ica.art/visual-story-guide"
+    }
+  ],
+  "institut-francais.org.uk": [
+    {
+      "tier": 1,
+      "url": "https://www.institut-francais.org.uk/visit-contact-us/"
+    }
+  ],
+  "kilntheatre.com": [
+    {
+      "tier": 1,
+      "url": "https://kilntheatre.com/your-visit/access/"
+    }
+  ],
+  "lumiereromford.com": [
+    {
+      "tier": 1,
+      "url": "https://www.lumiereromford.com/find-us-and-accessibility"
     }
   ],
   "myvue.com-bromley": [
@@ -613,6 +653,12 @@
       "url": "https://www.accessable.co.uk/venues/regent-street-cinema"
     }
   ],
+  "richmix.org.uk": [
+    {
+      "tier": 1,
+      "url": "https://richmix.org.uk/visit-us/access/"
+    }
+  ],
   "riocinema.org.uk": [
     {
       "tier": 1,
@@ -621,6 +667,12 @@
     {
       "tier": 2,
       "url": "https://www.hackneylocaloffer.co.uk/kb5/hackney/localoffer/service.page?id=4tzNt0cTcZY"
+    }
+  ],
+  "riversidestudios.co.uk": [
+    {
+      "tier": 1,
+      "url": "https://riversidestudios.co.uk/plan-your-visit/accessibility/"
     }
   ],
   "thecastlecinema.com": [

@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://riversidestudios.co.uk/plan-your-visit/accessibility/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "On all floors",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "There are accessible toilets on all floors.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://riversidestudios.co.uk/plan-your-visit/accessibility/"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,9 +26,17 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Assistance dogs; ask 48 hours ahead",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Riverside Studios welcomes assistance dogs, including guide dogs for the blind and visually impaired, medical assistance dogs, and emotional support dogs.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://riversidestudios.co.uk/plan-your-visit/accessibility/"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -47,24 +63,48 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "To the cinema in the basement",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "The cinema is at basement level and is accessible via a lift.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://riversidestudios.co.uk/plan-your-visit/accessibility/"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "The page says the cinema screens have T-induction loops and Dolby Fidelio, but doesn't name the screens or say whether they have wheelchair spaces.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "No dedicated room; staff can show you somewhere quieter",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "If you are feeling uncomfortable or would like to be shown to a quiet space, please ask a member of staff who will be happy to assist you.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://riversidestudios.co.uk/plan-your-visit/accessibility/"
+      }
+    ],
+    "status": "partial"
   },
   "screens": [],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Every space by ramp or lift",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "All of our spaces are accessible by either ramp or lift access.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://riversidestudios.co.uk/plan-your-visit/accessibility/"
+      }
+    ],
+    "status": "yes"
   }
 }

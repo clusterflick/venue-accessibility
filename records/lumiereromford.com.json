@@ -1,19 +1,42 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.lumiereromford.com/find-us-and-accessibility",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
     "note": null,
-    "sources": [],
-    "status": "unknown"
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "From here all screens have step-free access, as does our accessible bathroom.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.lumiereromford.com/find-us-and-accessibility"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Silver doors left of the Mecca entrance on Level 3; ring the doorbell",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "On leaving the lift, take a sharp left and you'll find a silver set of doors to the left of the Mecca entrance.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.lumiereromford.com/find-us-and-accessibility"
+      },
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Ring the black doorbell and a member of Lumiere staff will let you in.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.lumiereromford.com/find-us-and-accessibility"
+      }
+    ],
+    "status": "yes"
   },
   "assistance_dogs": {
     "conflict": null,
@@ -47,11 +70,19 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "The shopping centre's lifts to Level 3",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "For those visitors who require step-free access to the cinema, this is available via the Mercury Shopping Centre lifts on Level 1 (outside the public WCs) or Level 2 (outside Poundland).",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.lumiereromford.com/find-us-and-accessibility"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "The page says all screens have step-free access from the step-free entrance, but doesn't name the screens or say whether they have wheelchair spaces.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -63,8 +94,16 @@
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "A step-free entrance on Level 3 of the Mercury Shopping Centre",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "On entering the Mercury, take the glass elevators to Level 3 where there is a step-free entrance to the cinema",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.lumiereromford.com/find-us-and-accessibility"
+      }
+    ],
+    "status": "yes"
   }
 }

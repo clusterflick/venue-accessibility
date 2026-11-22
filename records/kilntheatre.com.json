@@ -1,12 +1,27 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://kilntheatre.com/your-visit/access/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Two adapted toilets with RADAR locks, and one on the cinema level",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "We have two specifically adapted accessible toilets which can be opened with a RADAR key",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://kilntheatre.com/your-visit/access/"
+      },
+      {
+        "checked_on": "2026-11-22",
+        "quote": "which also houses a wheelchair accessible toilet fitted with emergency pull cord",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://kilntheatre.com/your-visit/access/"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,9 +33,17 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Guide and service dogs; support animals aren't admitted",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Guide / Service dogs are always welcome.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://kilntheatre.com/your-visit/access/"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -32,9 +55,17 @@
   "entrance_step_free": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "A gently sloping ramp at the Kilburn High Road entrance",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "The main entrance on Kilburn High Road has a gently sloping, ascending ramp which provides level access to the theatre, bar, café, Box Office and toilets.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://kilntheatre.com/your-visit/access/"
+      }
+    ],
+    "status": "yes"
   },
   "hearing_assist_counters": {
     "conflict": null,
@@ -47,11 +78,19 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "To the cinema on the lower level",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "there is a lift providing access to the cinema on the lower level",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://kilntheatre.com/your-visit/access/"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "The page describes one cinema; the listings give no screen.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +98,85 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Cinema",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift; the back row is level",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There is level access to the Cinema via our lift, located near the Box Office.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://kilntheatre.com/your-visit/access/"
+          },
+          {
+            "checked_on": "2026-11-22",
+            "quote": "The back row of the Cinema auditorium is also level access and there are gradual stairs throughout the rest of the auditorium.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://kilntheatre.com/your-visit/access/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": "Two, reached by lift from the cinema foyer",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Access to the Kiln Cinema's two cinema wheelchair spaces is by lift from the main cinema foyer.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://kilntheatre.com/your-visit/access/"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Level access through both entrances",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "There is level access through both entrances to the foyer/ bar/ cafe and box offices for the Cinema and Theatre.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://kilntheatre.com/your-visit/access/"
+      }
+    ],
+    "status": "yes"
   }
 }

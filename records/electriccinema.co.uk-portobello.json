@@ -1,6 +1,6 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.electriccinema.co.uk/portobello/booking-info",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
@@ -51,7 +51,7 @@
     "sources": [],
     "status": "unknown"
   },
-  "notes": null,
+  "notes": "The page describes one auditorium, which the listings call \"1\". It says ramps are fitted to reach the toilets from the auditorium, and to ring the bell by the main entrance on arrival so staff can get ready, but not whether the entrance or the toilets are step-free or accessible.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,7 +59,58 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "aliases": ["1"],
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Auditorium",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": "Row F, seats 5 and 6; book by phone",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "We have seats for wheelchair users in Row F, numbers 5 and 6, that can be booked ahead of time.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.electriccinema.co.uk/portobello/booking-info"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,

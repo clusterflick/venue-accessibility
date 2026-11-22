@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://castlesidcup.com/access/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "On the same level as the screens",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "There are accessible toilets available on the same level as the screens.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://castlesidcup.com/access/"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,9 +26,17 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Trained assistance dogs, in all areas",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Trained assistance dogs are welcome in all areas of the cinema.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://castlesidcup.com/access/"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -32,9 +48,17 @@
   "entrance_step_free": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "No steps at the entrance",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "There are no steps at the entrance.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://castlesidcup.com/access/"
+      }
+    ],
+    "status": "yes"
   },
   "hearing_assist_counters": {
     "conflict": null,
@@ -47,11 +71,19 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "To the screens on the upper level",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "The screening rooms are on the upper level and are accessible via a lift.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://castlesidcup.com/access/"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "The screens are named as the FAQ names them (\"Screen 1 has 44 seats\"). Wheelchair spaces are booked by email, not online.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +91,213 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift to the upper level; step-free spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "The screening rooms are on the upper level and are accessible via a lift.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://castlesidcup.com/access/"
+          },
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Is the cinema accessible? Yes - we have step-free access, accessible toilets and dedicated spaces for guests who require step-free seating, along with companion seats.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://castlesidcup.com/faq/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": "Number not given; book by email",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Each of our three screens includes dedicated spaces for guests who require a wheelchair space, along with companion seats.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://castlesidcup.com/access/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift to the upper level; step-free spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "The screening rooms are on the upper level and are accessible via a lift.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://castlesidcup.com/access/"
+          },
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Is the cinema accessible? Yes - we have step-free access, accessible toilets and dedicated spaces for guests who require step-free seating, along with companion seats.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://castlesidcup.com/faq/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": "Number not given; book by email",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Each of our three screens includes dedicated spaces for guests who require a wheelchair space, along with companion seats.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://castlesidcup.com/access/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift to the upper level; step-free spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "The screening rooms are on the upper level and are accessible via a lift.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://castlesidcup.com/access/"
+          },
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Is the cinema accessible? Yes - we have step-free access, accessible toilets and dedicated spaces for guests who require step-free seating, along with companion seats.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://castlesidcup.com/faq/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": "Number not given; book by email",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Each of our three screens includes dedicated spaces for guests who require a wheelchair space, along with companion seats.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://castlesidcup.com/access/"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Step-free from Sidcup High Street",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "The cinema is located in the Storyteller building, which has step-free access from Sidcup High Street.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://castlesidcup.com/access/"
+      }
+    ],
+    "status": "yes"
   }
 }
