@@ -4,9 +4,17 @@
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "In the foyer, by Screens 1 to 4, and next to Screens 5 to 9",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "There's step-free access to the wheelchair spaces and adjoining seats, and an accessible toilet in the foyer, one by screens one to four and the third next to screens five to nine.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/islington/whats-on"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -48,19 +56,42 @@
   "hearing_assist_counters": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Loops at all counters; a lowered counter",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "There are hearing loops at all of the counters, where food, drinks and tickets can be purchased, and pre-purchased tickets can be collected.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/islington/whats-on"
+      }
+    ],
+    "status": "yes"
   },
   "id": "myvue.com-islington",
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "From the street, and to Screen 10 on the lower floor",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Vue Islington is located on the first and second floors of Angel Central Shopping Centre, with lift access from the street.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/islington/whats-on"
+      },
+      {
+        "checked_on": "2026-11-22",
+        "quote": "The majority of screens are on one floor, except for screen 10 which is located on a lower floor with access by escalator and lift.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/islington/whats-on"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": "The page's \"Venue and screen access\" and \"Location access\" sections are carried in the page's script data, not its text, so nothing else here could be quoted from it yet.",
+  "notes": "The listings name one screen \"EPIC\" and, of the page's ten, show no \"9\"; the page doesn't say which screen is the EPIC, so there's no alias.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -68,12 +99,591 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/islington/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 1: 2 Wheelchair Bays",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/islington/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/islington/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 2: 2 Wheelchair Bays",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/islington/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/islington/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 3: 2 Wheelchair Bays",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/islington/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 4",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/islington/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 4: 2 Wheelchair Bays",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/islington/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 5",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/islington/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 5: 2 Wheelchair Bays",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/islington/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 6",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/islington/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 6: 2 Wheelchair Bays",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/islington/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 7",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/islington/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 7: 2 Wheelchair Bays",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/islington/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 8",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/islington/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 8: 2 Wheelchair Bays",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/islington/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 9",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/islington/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 9: 2 Wheelchair Bays",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/islington/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 10",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/islington/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 10: 1 Wheelchair Bay",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/islington/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Wheelchair access throughout and in all screens",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Vue Islington has wheelchair access throughout the venue and in all screens.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/islington/whats-on"
+      }
+    ],
+    "status": "yes"
   }
 }

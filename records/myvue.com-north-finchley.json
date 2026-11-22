@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.myvue.com/cinema/north-finchley/whats-on",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "In the foyer",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "There's step-free access to the wheelchair spaces and adjoining seats, and accessible toilets in the foyer.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,9 +26,18 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Vue: assistance dogs welcome in all venues",
+    "sources": [
+      {
+        "chain_wide": true,
+        "checked_on": "2026-11-22",
+        "quote": "We welcome assistance dogs into all our venues.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -39,17 +56,33 @@
   "hearing_assist_counters": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Loops at all counters; a lowered counter",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "There are hearing loops at all of the counters, where food, drinks and tickets can be purchased, and pre-purchased tickets can be collected.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+      }
+    ],
+    "status": "yes"
   },
   "id": "myvue.com-north-finchley",
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "From the leisure park car park",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "You can access the cinema directly from the leisure park car park, using either the lift or the escalator.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+      }
+    ],
+    "status": "yes"
   },
   "notes": null,
   "quiet_space": {
@@ -59,12 +92,671 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "In the middle",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 1 : 4 wheelchair spaces in the centre",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes",
+        "value": "middle"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 4,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 1 : 4 wheelchair spaces in the centre",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "In the middle",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 2 : 2 wheelchair spaces in the centre.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes",
+        "value": "middle"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 2 : 2 wheelchair spaces in the centre.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "In the middle",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 3 : 2 wheelchair spaces in the centre.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes",
+        "value": "middle"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 3 : 2 wheelchair spaces in the centre.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 4",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "In the middle",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 4 : 4 wheelchair spaces in the centre.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes",
+        "value": "middle"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 4,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 4 : 4 wheelchair spaces in the centre.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 5",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "In the middle",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 5 : 4 wheelchair spaces in the centre.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes",
+        "value": "middle"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 4,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 5 : 4 wheelchair spaces in the centre.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 6",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "In the middle",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 6 : 2 wheelchair spaces in the centre.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes",
+        "value": "middle"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 6 : 2 wheelchair spaces in the centre.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 7",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "At the front",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 7 : 2 wheelchair spaces at the front.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 7 : 2 wheelchair spaces at the front.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 8",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "In the middle",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 8 : 4 wheelchair spaces in the centre.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes",
+        "value": "middle"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 4,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 8 : 4 wheelchair spaces in the centre.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 9",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "At the front",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 9 : 1 wheelchair spaces at the front.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 9 : 1 wheelchair spaces at the front.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 10",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "In the middle",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 10 : 1 wheelchair spaces in the centre.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes",
+        "value": "middle"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 10 : 1 wheelchair spaces in the centre.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Wheelchair access throughout and in all screens",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Vue North Finchley has wheelchair access throughout the venue and in all screens.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
+      }
+    ],
+    "status": "yes"
   }
 }

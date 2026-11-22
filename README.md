@@ -220,7 +220,7 @@ November 2026.
 | Chain        | Venues | Where                                                            | Found                                                                                                                                                                                                                                                                                                                                                          |
 | ------------ | ------ | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Picturehouse | 11     | `<attributes.url>/accessibility`, in `.cinimaAccessibility_div`  | **Not a regular template.** Only Central has the "Physical Access in our Screens" block; the rest are prose that differs per venue (Ealing lists seat numbers, the Ritzy gives counts in a sentence). Greenwich currently says Screen 5 has no step-free access. All 11 fetch with a plain request.                                                            |
-| Vue          | 15     | `myvue.com/cinema/<slug>/whats-on`                               | 403 from a cloud container. From home, all 4 pages in `sources.json` answer 200 with the real page, but its "Venue and screen access" sections are in the page's script data, not its text, so only the chain-wide assistance dogs line can be quoted.                                                                                                         |
+| Vue          | 15     | `myvue.com/cinema/<slug>/whats-on`, read with `text_from`        | 403 from a cloud container. From home, all 15 answer 200. The access copy is in the page's script data (`__NEXT_DATA__`), not its markup, so `text_from: "vue-accessibility"` reads it from there. Most venues list every screen's wheelchair spaces and where they are; Piccadilly and Westfield Stratford City don't.                                        |
 | ODEON        | 19     | `accessable.co.uk/odeon/access-guides/<slug>`                    | 403 from both, as is all of accessable.co.uk: from home, Cloudflare's "Attention Required!" block page on all 11 AccessAble pages in `sources.json`                                                                                                                                                                                                            |
 | Everyman     | 16     | `everymanmedia.freshdesk.com/…/<id>-<venue>-accessibility-guide` | Freshdesk answers a plain fetch. Article ids still need discovering for 13 venues.                                                                                                                                                                                                                                                                             |
 | Curzon       | 10     | `curzon.com/venues/<slug>`                                       | 403 from both: from home, a Cloudflare "Just a moment..." challenge on all 10                                                                                                                                                                                                                                                                                  |
@@ -249,13 +249,16 @@ and in the 20 November release, of the 153 venues:
 The names mostly line up already, because transforms pass the venue's screen
 through `getScreen` (`common/utils.js` in `scripts`), which turns "Screen 1" and
 "NFT1" into "1". Applying `getScreen` to a record's screen names matches the
-listings for Vue ("Screen 1" and "1", "EPIC 1" on both sides), Picturehouse,
-Rio, Lexi, Castle, Chiswick and BFI Southbank. Cases that need an `aliases`
-entry: Olympic, whose listings name one screen "Olympic Studios" against three
-on the access page; the Phoenix and Regent Street, where the seed has one
-"Cinema" but the listings number them; and BFI IMAX ("IMAX" and "BFI IMAX").
-Listings also name rooms that aren't screens (Rio's "Ludski", BFI's "Blue
-Room"), so a listing screen with no record is unknown, never "no".
+listings for Vue ("Screen 1" and "1"; Westfield's "Scene 1" on both sides),
+Picturehouse, Rio, Lexi, Castle, Chiswick and BFI Southbank. Vue's EPIC screens
+don't: Bromley's and Islington's listings name an "EPIC" and West End's an "EPIC
+1" and "EPIC 2", while their access pages number every screen without saying
+which is which, so those records carry a note rather than an alias. Cases that
+need an `aliases` entry: Olympic, whose listings name one screen "Olympic
+Studios" against three on the access page; the Phoenix and Regent Street, where
+the seed has one "Cinema" but the listings number them; and BFI IMAX ("IMAX" and
+"BFI IMAX"). Listings also name rooms that aren't screens (Rio's "Ludski", BFI's
+"Blue Room"), so a listing screen with no record is unknown, never "no".
 
 The first filter, "has at least one step-free screen with a wheelchair space",
 needs none of this, and is the one to build first.
@@ -282,6 +285,15 @@ keeps the page's text from the first up to the second. It works on a PDF's text
 too. Either marker found anything but once throws, for the same reason, and so
 does a key in `sources.json` that the fetch doesn't know, so a misspelt option
 can't leave a page unnarrowed.
+
+`text_from` names an extractor in `lib/page-extractors.js`, for pages that keep
+their access copy in data rather than markup. `vue-accessibility` reads Vue's
+from the page's `__NEXT_DATA__`: the chain's introduction, then each
+accessibility section as a heading and its description, with the `{cinema-name}`
+placeholder filled in from the cinema's name as the browser does. A page without
+that data, a section without a name or description, an unknown placeholder or an
+unknown extractor throws. It can't be combined with a selector, or used on a
+PDF; `text_between` can narrow what it gives.
 
 `npm run validate` then checks every record's quotes against those pages.
 
@@ -313,8 +325,8 @@ lists three seats.
 
 Time-sensitive: the Garden Cinema's Screen 3 platform lift was out of service
 when checked, the Castle's lift planning appeal is pending, and Greenwich
-Picturehouse's Screen 5 currently has no step-free access. Vue Piccadilly rests
-on an Access Card listing alone.
+Picturehouse's Screen 5 currently has no step-free access. Cineworld Wood
+Green's disabled lift was not working on 22 November 2026.
 
 ## Still to build
 

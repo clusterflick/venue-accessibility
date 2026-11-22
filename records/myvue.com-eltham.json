@@ -1,6 +1,6 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.myvue.com/cinema/eltham/whats-on",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
@@ -18,9 +18,18 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Vue: assistance dogs welcome in all venues",
+    "sources": [
+      {
+        "chain_wide": true,
+        "checked_on": "2026-11-22",
+        "quote": "We welcome assistance dogs into all our venues.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/eltham/whats-on"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -39,19 +48,35 @@
   "hearing_assist_counters": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Loops at all counters; a lowered counter",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "There are hearing loops at all of the counters, where food, drinks and tickets can be purchased, and pre-purchased tickets can be collected.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/eltham/whats-on"
+      }
+    ],
+    "status": "yes"
   },
   "id": "myvue.com-eltham",
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "To all screens",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Vue Eltham is located at 174 Eltham High Street, Eltham, SE9 1BJ with step free access to the cinema and has lift access to all screens.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/eltham/whats-on"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "The page says each screen floor has lift access but not that the way to each wheelchair space is step-free, so the screens' step-free access is left unknown.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +84,315 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 1: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/eltham/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 2: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/eltham/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 3: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/eltham/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 4",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 4: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/eltham/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 5",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 5: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/eltham/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 6",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 6: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/eltham/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Step-free access to the cinema",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Vue Eltham is located at 174 Eltham High Street, Eltham, SE9 1BJ with step free access to the cinema and has lift access to all screens.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/eltham/whats-on"
+      }
+    ],
+    "status": "yes"
   }
 }
