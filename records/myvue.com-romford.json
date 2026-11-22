@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.myvue.com/cinema/romford/whats-on",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "In the foyer",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "There's step-free access to the wheelchair spaces and adjoining seats, and accessible toilets in the foyer.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/romford/whats-on"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,9 +26,18 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Vue: assistance dogs welcome in all venues",
+    "sources": [
+      {
+        "chain_wide": true,
+        "checked_on": "2026-11-22",
+        "quote": "We welcome assistance dogs into all our venues.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/romford/whats-on"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -39,17 +56,40 @@
   "hearing_assist_counters": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Loops at all counters; a lowered counter",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "There are hearing loops at all of the counters, where food, drinks and tickets can be purchased, and pre-purchased tickets can be collected.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/romford/whats-on"
+      }
+    ],
+    "status": "yes"
   },
   "id": "myvue.com-romford",
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "From The Brewery to the venue, which is on one level",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Vue Romford is located on the second floor of The Brewery, with both lift and escalator access from the complex to the venue.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/romford/whats-on"
+      },
+      {
+        "checked_on": "2026-11-22",
+        "quote": "The venue is all on one level, which you access from the second floor of The Brewery.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/romford/whats-on"
+      }
+    ],
+    "status": "yes"
   },
   "notes": null,
   "quiet_space": {
@@ -59,12 +99,933 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 1: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 2: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 3: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 4",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 4: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 5",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 5: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 6",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 6: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 7",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 7: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 8",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 8: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 9",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 9: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 10",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 10: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 11",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 11: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 12",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 12: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 13",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 13: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 14",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 14: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 15",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 15: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 16",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Step-free to the wheelchair spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "There's step-free access to the wheelchair spaces and adjoining seats",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 16: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/romford/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Wheelchair access throughout and in all screens",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Vue Romford has wheelchair access throughout the venue and in all screens.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/romford/whats-on"
+      }
+    ],
+    "status": "yes"
   }
 }

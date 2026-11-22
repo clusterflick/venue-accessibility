@@ -181,7 +181,7 @@
   },
   "https://www.forestcinema.co.uk/faq": {
     "fetched_on": "2026-11-22",
-    "hash": "9c8fdc00dc56bbaefcc47d1f14758cb24e6bab844af095a8d285cdf08841faf7"
+    "hash": "8208b2f3690fad1f9e3ddb95a17e76462d5a42e16fe3e70bffbc4ee455b77348"
   },
   "https://www.genesiscinema.co.uk/access-needs": {
     "fetched_on": "2026-11-22",
@@ -199,21 +199,65 @@
     "fetched_on": "2026-11-22",
     "hash": "cb7d04c014556c13f58eeae7a11e2f1f0b6f0aa9f043473a64614eefdd62bc06"
   },
+  "https://www.myvue.com/cinema/bromley/whats-on": {
+    "fetched_on": "2026-11-22",
+    "hash": "6c93deeaa9f4812a39ea2a451cba0db866253883fb89e108720aca6bf8faf78b"
+  },
+  "https://www.myvue.com/cinema/croydon-purley-way/whats-on": {
+    "fetched_on": "2026-11-22",
+    "hash": "85ab9b2b4201c2ff581e6a4da5e2a3cee3d66cbef53dfe329ca9febb50a55fd3"
+  },
+  "https://www.myvue.com/cinema/dagenham/whats-on": {
+    "fetched_on": "2026-11-22",
+    "hash": "76df4b749762232728665b2b30d629636baddc0a6d2e9883d95141c3ac42b666"
+  },
+  "https://www.myvue.com/cinema/eltham/whats-on": {
+    "fetched_on": "2026-11-22",
+    "hash": "50551ea3885a374e18332ce051c9b17f28b48a312f27d43edf519711b5179982"
+  },
+  "https://www.myvue.com/cinema/finchley-road/whats-on": {
+    "fetched_on": "2026-11-22",
+    "hash": "822ec8200ba3590c87503e16d0cacb9a495a55b77c3be5125a1bda191bf0c347"
+  },
   "https://www.myvue.com/cinema/fulham-broadway/whats-on": {
     "fetched_on": "2026-11-22",
-    "hash": "e210cd251c2c32b99d0cbaf537fed4d0a1feb38b298dec1b52ac4e8e5092b416"
+    "hash": "6fbc2dfca35319db6b40d56de8b23d5146b0c879286f0bd1c25772eb13b327df"
+  },
+  "https://www.myvue.com/cinema/harrow/whats-on": {
+    "fetched_on": "2026-11-22",
+    "hash": "1769356b8e6b189f15cc67e4ad892dcff21b3fc5d0d1da733c9160b06c8586e3"
   },
   "https://www.myvue.com/cinema/islington/whats-on": {
     "fetched_on": "2026-11-22",
-    "hash": "8ed486cc9b63eeb5ac0358fe02c924be7711fbf63c5c73f35f911ad3447d9c30"
+    "hash": "4f7ca52254ed251c77f4e14d5480681b80debdf7aa347ddf16862997e751fd93"
   },
   "https://www.myvue.com/cinema/leicester-square/whats-on": {
     "fetched_on": "2026-11-22",
-    "hash": "5c71f63f068419683817b199ed8aed7f38a0163bbd7ee77dd4aaa4621c38dc7f"
+    "hash": "235c06e7fcaa7b9021c394fe9d2285f0b4ce499bd534aae3b2472a7475428d4a"
+  },
+  "https://www.myvue.com/cinema/north-finchley/whats-on": {
+    "fetched_on": "2026-11-22",
+    "hash": "f2f3252a2a273e74a90b21a356213aac3de84965351d75c6b8806780e775203d"
+  },
+  "https://www.myvue.com/cinema/piccadilly/whats-on": {
+    "fetched_on": "2026-11-22",
+    "hash": "3f40b900cc45cb2115f7081b60da666623919acc71978f5234310867d32643c9"
+  },
+  "https://www.myvue.com/cinema/romford/whats-on": {
+    "fetched_on": "2026-11-22",
+    "hash": "5d5982c9e6c93b7ff5ff97c6cf55676ec7cdd29901e53df96ba46449d3e66b31"
+  },
+  "https://www.myvue.com/cinema/westfield-stratford-city/whats-on": {
+    "fetched_on": "2026-11-22",
+    "hash": "d3c5a106f6066b74156ec357ff4d804892b0340a317fcd3067ca2f5ac01e5b6b"
+  },
+  "https://www.myvue.com/cinema/westfield/whats-on": {
+    "fetched_on": "2026-11-22",
+    "hash": "095e8825920f3bf78201e2b40e90634199775d7910d0eedf79f8c3a669ab3847"
   },
   "https://www.myvue.com/cinema/wood-green/whats-on": {
     "fetched_on": "2026-11-22",
-    "hash": "5bfa0f19ed70b3660afd8ece3579d2a39187d56f457aa05b27a8d3ea82ff4e0d"
+    "hash": "c30591357e929b06c53466bc57b85b123a6e63f7a397cacd6b72522030d81c0a"
   },
   "https://www.olympicstudios.com/pages/accessibility": {
     "fetched_on": "2026-11-22",

@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.myvue.com/cinema/bromley/whats-on",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Two on the main foyer level, one with a hoist, and one on the Screen 9 level",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "We have two disabled toilets on the main foyer level, one of which has a hoist machine, as well as one on the screen 9 level.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/bromley/whats-on"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,9 +26,18 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Vue: assistance dogs welcome in all venues",
+    "sources": [
+      {
+        "chain_wide": true,
+        "checked_on": "2026-11-22",
+        "quote": "We welcome assistance dogs into all our venues.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/bromley/whats-on"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -39,19 +56,35 @@
   "hearing_assist_counters": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Loops at all counters; a lowered counter",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "There are hearing loops at all of the counters, where food, drinks and tickets can be purchased, and pre-purchased tickets can be collected.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/bromley/whats-on"
+      }
+    ],
+    "status": "yes"
   },
   "id": "myvue.com-bromley",
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "A customer lift to all levels",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "All of our levels can be accessed by our customer lift.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/bromley/whats-on"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "The page says there is lift access to all screens but not that the way to each wheelchair space is step-free, so the screens' step-free access is left unknown. The listings name one screen \"EPIC\" and none \"1\"; the page doesn't say which screen is the EPIC, so there's no alias.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,7 +92,521 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "At the front, in the middle",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "We have two wheelchair bays per screen, each at the front of the screen in the middle.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/bromley/whats-on"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 1: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/bromley/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "At the front, in the middle",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "We have two wheelchair bays per screen, each at the front of the screen in the middle.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/bromley/whats-on"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 2: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/bromley/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "At the front, in the middle",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "We have two wheelchair bays per screen, each at the front of the screen in the middle.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/bromley/whats-on"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 3: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/bromley/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 4",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "At the front, in the middle",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "We have two wheelchair bays per screen, each at the front of the screen in the middle.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/bromley/whats-on"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 4: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/bromley/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 5",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "At the front, in the middle",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "We have two wheelchair bays per screen, each at the front of the screen in the middle.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/bromley/whats-on"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 5: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/bromley/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 6",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "At the front, in the middle",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "We have two wheelchair bays per screen, each at the front of the screen in the middle.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/bromley/whats-on"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 6: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/bromley/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 7",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "At the front, in the middle",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "We have two wheelchair bays per screen, each at the front of the screen in the middle.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/bromley/whats-on"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 7: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/bromley/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 8",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "At the front, in the middle",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "We have two wheelchair bays per screen, each at the front of the screen in the middle.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/bromley/whats-on"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 8: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/bromley/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 9",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "At the front, in the middle",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "We have two wheelchair bays per screen, each at the front of the screen in the middle.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/bromley/whats-on"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Screen 9: 2 wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/bromley/whats-on"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,

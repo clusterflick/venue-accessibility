@@ -19,16 +19,8 @@
     "conflict": null,
     "last_found": null,
     "note": null,
-    "sources": [
-      {
-        "checked_on": "2026-11-20",
-        "quote": null,
-        "source_last_updated": null,
-        "tier": 2,
-        "url": "https://www.accessable.co.uk/london-borough-of-newham/access-guides/vue"
-      }
-    ],
-    "status": "yes"
+    "sources": [],
+    "status": "unknown"
   },
   "changing_places": {
     "conflict": null,
@@ -64,16 +56,8 @@
     "conflict": null,
     "last_found": null,
     "note": null,
-    "sources": [
-      {
-        "checked_on": "2026-11-20",
-        "quote": null,
-        "source_last_updated": null,
-        "tier": 2,
-        "url": "https://www.accessable.co.uk/london-borough-of-newham/access-guides/vue"
-      }
-    ],
-    "status": "yes"
+    "sources": [],
+    "status": "unknown"
   },
   "notes": "AccessAble: lift to some screens, ramps to Screens 11–17, spaces front and back. Screen count may be out of date.",
   "origin": "Desk-research seed of 2026-11-20, unverified: no quotes were captured",

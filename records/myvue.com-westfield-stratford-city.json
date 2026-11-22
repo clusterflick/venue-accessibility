@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.myvue.com/cinema/westfield-stratford-city/whats-on",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "In the foyer and next to many of the screens",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "There's step-free access to the wheelchair spaces and adjoining seats, and accessible toilets in the foyer and adjacent to many of the screens.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/westfield-stratford-city/whats-on"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,9 +26,18 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Vue: assistance dogs welcome in all venues",
+    "sources": [
+      {
+        "chain_wide": true,
+        "checked_on": "2026-11-22",
+        "quote": "We welcome assistance dogs into all our venues.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/westfield-stratford-city/whats-on"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -39,19 +56,35 @@
   "hearing_assist_counters": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Loops at all counters; a lowered counter",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "There are hearing loops at all of the counters, where food, drinks and tickets can be purchased, and pre-purchased tickets can be collected.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/westfield-stratford-city/whats-on"
+      }
+    ],
+    "status": "yes"
   },
   "id": "myvue.com-westfield-stratford-city",
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "From all levels of the shopping centre",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "The venue is accessible from all levels of the shopping centre by lift and escalator.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/westfield-stratford-city/whats-on"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "The page says there is wheelchair access in all screens and step-free access to the wheelchair spaces, but doesn't list the screens or their wheelchair spaces.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -63,8 +96,16 @@
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Wheelchair access throughout and in all screens",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Vue Westfield Stratford City has wheelchair access throughout the venue and in all screens.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/westfield-stratford-city/whats-on"
+      }
+    ],
+    "status": "yes"
   }
 }

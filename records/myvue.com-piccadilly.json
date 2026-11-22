@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.myvue.com/cinema/piccadilly/whats-on",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Near Screen 3",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "There's step-free access to the wheelchair spaces and adjoining seats, and an accessible toilet near screen three.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/piccadilly/whats-on"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,9 +26,18 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Vue: assistance dogs welcome in all venues",
+    "sources": [
+      {
+        "chain_wide": true,
+        "checked_on": "2026-11-22",
+        "quote": "We welcome assistance dogs into all our venues.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/piccadilly/whats-on"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -32,26 +49,50 @@
   "entrance_step_free": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Level access",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "The venue has level access.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accesscard.online/find-a-provider/vue-cinema-london-piccadilly/vue-cinema-london-piccadilly/"
+      }
+    ],
+    "status": "yes"
   },
   "hearing_assist_counters": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Loops at all counters; a lowered counter",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "There are hearing loops at all of the counters, where food, drinks and tickets can be purchased, and pre-purchased tickets can be collected.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/piccadilly/whats-on"
+      }
+    ],
+    "status": "yes"
   },
   "id": "myvue.com-piccadilly",
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "From the box office to the screens in the basement",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "A lift then takes customers to the screens in the basement.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/piccadilly/whats-on"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "The page doesn't list the screens or their wheelchair spaces; it names only Screen 3, which has no wheelchair access.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +100,70 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "No wheelchair access",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "Vue Piccadilly has wheelchair access throughout the venue and in all screens apart from screen 3.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.myvue.com/cinema/piccadilly/whats-on"
+          }
+        ],
+        "status": "no"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Wheelchair access throughout, except Screen 3",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Vue Piccadilly has wheelchair access throughout the venue and in all screens apart from screen 3.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.myvue.com/cinema/piccadilly/whats-on"
+      }
+    ],
+    "status": "yes"
   }
 }

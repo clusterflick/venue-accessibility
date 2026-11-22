@@ -71,4 +71,78 @@ describe("fetchSourceText", () => {
       }),
     ).resolves.toBe("Step-free access to both");
   });
+
+  const NEXT_PAGE = `<html><body><p>Now showing</p><script id="__NEXT_DATA__" type="application/json">${JSON.stringify(
+    {
+      props: {
+        pageProps: {
+          layoutData: {
+            sitecore: {
+              context: {
+                cinema: {
+                  accessibilityInformation: { value: "<p>Welcome.</p>" },
+                  accessibilityFeatures: {
+                    targetItems: [
+                      {
+                        accessibilityFeatureName: { value: "Access" },
+                        accessibilityFeatureDescription: {
+                          value: "<p>Step-free throughout.</p>",
+                        },
+                      },
+                    ],
+                  },
+                },
+              },
+            },
+          },
+        },
+      },
+    },
+  )}</script></body></html>`;
+
+  it("reads the access copy text_from names, out of the page's data", async () => {
+    respond(NEXT_PAGE, "text/html");
+    await expect(
+      fetchSourceText({
+        url: "https://example.com/venue",
+        text_from: "vue-accessibility",
+      }),
+    ).resolves.toBe("Welcome. Access Step-free throughout.");
+  });
+
+  it("narrows text_from's copy with text_between", async () => {
+    respond(NEXT_PAGE, "text/html");
+    await expect(
+      fetchSourceText({
+        url: "https://example.com/venue",
+        text_from: "vue-accessibility",
+        text_between: ["Access", "throughout"],
+      }),
+    ).resolves.toBe("Access Step-free");
+  });
+
+  it("refuses a selector and text_from together", async () => {
+    respond(NEXT_PAGE, "text/html");
+    await expect(
+      fetchSourceText({
+        url: "https://example.com/venue",
+        selector: "main",
+        text_from: "vue-accessibility",
+      }),
+    ).rejects.toThrow(
+      "https://example.com/venue has both a selector and text_from",
+    );
+  });
+
+  it("refuses text_from for a PDF", async () => {
+    respond(PDF, "application/pdf");
+    await expect(
+      fetchSourceText({
+        url: "https://example.com/access.pdf",
+        text_from: "vue-accessibility",
+      }),
+    ).rejects.toThrow(
+      "https://example.com/access.pdf is a PDF, so can't take text_from",
+    );
+  });
 });

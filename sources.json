@@ -355,14 +355,58 @@
       "url": "https://www.ica.art/visual-story-guide"
     }
   ],
+  "myvue.com-bromley": [
+    {
+      "text_from": "vue-accessibility",
+      "tier": 1,
+      "url": "https://www.myvue.com/cinema/bromley/whats-on"
+    }
+  ],
+  "myvue.com-croydon-purley-way": [
+    {
+      "text_from": "vue-accessibility",
+      "tier": 1,
+      "url": "https://www.myvue.com/cinema/croydon-purley-way/whats-on"
+    }
+  ],
+  "myvue.com-dagenham": [
+    {
+      "text_from": "vue-accessibility",
+      "tier": 1,
+      "url": "https://www.myvue.com/cinema/dagenham/whats-on"
+    }
+  ],
+  "myvue.com-eltham": [
+    {
+      "text_from": "vue-accessibility",
+      "tier": 1,
+      "url": "https://www.myvue.com/cinema/eltham/whats-on"
+    }
+  ],
+  "myvue.com-finchley-road": [
+    {
+      "text_from": "vue-accessibility",
+      "tier": 1,
+      "url": "https://www.myvue.com/cinema/finchley-road/whats-on"
+    }
+  ],
   "myvue.com-fulham-broadway": [
     {
+      "text_from": "vue-accessibility",
       "tier": 1,
       "url": "https://www.myvue.com/cinema/fulham-broadway/whats-on"
     }
   ],
+  "myvue.com-harrow": [
+    {
+      "text_from": "vue-accessibility",
+      "tier": 1,
+      "url": "https://www.myvue.com/cinema/harrow/whats-on"
+    }
+  ],
   "myvue.com-islington": [
     {
+      "text_from": "vue-accessibility",
       "tier": 1,
       "url": "https://www.myvue.com/cinema/islington/whats-on"
     }
@@ -373,24 +417,57 @@
       "url": "https://www.accessable.co.uk/leicester-square/access-guides/vue-cinema-london-west-end"
     },
     {
+      "text_from": "vue-accessibility",
       "tier": 1,
       "url": "https://www.myvue.com/cinema/leicester-square/whats-on"
+    }
+  ],
+  "myvue.com-north-finchley": [
+    {
+      "text_from": "vue-accessibility",
+      "tier": 1,
+      "url": "https://www.myvue.com/cinema/north-finchley/whats-on"
     }
   ],
   "myvue.com-piccadilly": [
     {
       "tier": 2,
       "url": "https://www.accesscard.online/find-a-provider/vue-cinema-london-piccadilly/vue-cinema-london-piccadilly/"
+    },
+    {
+      "text_from": "vue-accessibility",
+      "tier": 1,
+      "url": "https://www.myvue.com/cinema/piccadilly/whats-on"
+    }
+  ],
+  "myvue.com-romford": [
+    {
+      "text_from": "vue-accessibility",
+      "tier": 1,
+      "url": "https://www.myvue.com/cinema/romford/whats-on"
+    }
+  ],
+  "myvue.com-westfield": [
+    {
+      "text_from": "vue-accessibility",
+      "tier": 1,
+      "url": "https://www.myvue.com/cinema/westfield/whats-on"
     }
   ],
   "myvue.com-westfield-stratford-city": [
     {
       "tier": 2,
       "url": "https://www.accessable.co.uk/london-borough-of-newham/access-guides/vue"
+    },
+    {
+      "text_from": "vue-accessibility",
+      "tier": 1,
+      "url": "https://www.myvue.com/cinema/westfield-stratford-city/whats-on"
     }
   ],
   "myvue.com-wood-green": [
     {
+      "text_from": "vue-accessibility",
       "tier": 1,
       "url": "https://www.myvue.com/cinema/wood-green/whats-on"
     }
