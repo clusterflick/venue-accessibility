@@ -92,9 +92,7 @@
   },
   "screens": [
     {
-      "aliases": [
-        "The Cinema in the Arches"
-      ],
+      "aliases": ["The Cinema in the Arches"],
       "hearing_assist": {
         "conflict": null,
         "last_found": null,
@@ -167,9 +165,7 @@
       }
     },
     {
-      "aliases": [
-        "The Cinema in The Power Station"
-      ],
+      "aliases": ["The Cinema in The Power Station"],
       "hearing_assist": {
         "conflict": null,
         "last_found": null,
