@@ -259,6 +259,46 @@
     "fetched_on": "2026-11-23",
     "hash": "a08b4cc462016e8850bebbec66f2f846781e65b5f90cc3081b1c541c1fa2077c"
   },
+  "https://www.curzon.com/venues/aldgate/ {\"selector\":\".cinema-page__tabs__information-tab\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "dc79ed314ffbdc8a5f8a70666f6deb174fa2a2794227af77b7ea7f30cffd031f"
+  },
+  "https://www.curzon.com/venues/bloomsbury/ {\"selector\":\".cinema-page__tabs__information-tab\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "95b904415c954d28f31111c79eccecc895aa69bd0aef7f32da0989f31c6d9aa7"
+  },
+  "https://www.curzon.com/venues/camden/ {\"selector\":\".cinema-page__tabs__information-tab\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "cdaf547c47706a0c867cd985bb6b9873ccb2b3601c130d87310689aef2fc9eb8"
+  },
+  "https://www.curzon.com/venues/hoxton/ {\"selector\":\".cinema-page__tabs__information-tab\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "33cd3410617354bbfd59819f3f06762fd701cefc7e59cb867da7ff1d1c17ba85"
+  },
+  "https://www.curzon.com/venues/kingston/ {\"selector\":\".cinema-page__tabs__information-tab\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "218a978c0b8866a9de1c98dee8ab06312860d28231d063ed8756237efe26dceb"
+  },
+  "https://www.curzon.com/venues/mayfair/ {\"selector\":\".cinema-page__tabs__information-tab\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "bc508a0f4c41bbf679ee7252fc822f451a3691d457a9e197a51f3bd85367282f"
+  },
+  "https://www.curzon.com/venues/richmond/ {\"selector\":\".cinema-page__tabs__information-tab\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "0da0c4afc23827f68d4e90d92be7ef3506d408730165d34cce66e88ca8e15805"
+  },
+  "https://www.curzon.com/venues/soho/ {\"selector\":\".cinema-page__tabs__information-tab\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "15827b8c549117c3ae5117bca6bba73bba6a54170b405ba515347b5a879bc818"
+  },
+  "https://www.curzon.com/venues/victoria/ {\"selector\":\".cinema-page__tabs__information-tab\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "2848792bdad587f438549ea131a3307503e88009298798f14ca715634875e18d"
+  },
+  "https://www.curzon.com/venues/wimbledon/ {\"selector\":\".cinema-page__tabs__information-tab\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "951fb2fbe453c1ace4cfb3af686253f57cebf75ebdfd36a6cb47b6c5db079d6e"
+  },
   "https://www.davidleancinema.org.uk/access-guide/": {
     "fetched_on": "2026-11-23",
     "hash": "8d6f6c24b44f155664edf2346f9e424295dd340fb41e4f3a53b85c5a9182ce19"

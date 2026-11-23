@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.curzon.com/venues/mayfair/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
     "note": null,
-    "sources": [],
-    "status": "unknown"
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is a wheelchair-accessible bathroom.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.curzon.com/venues/mayfair/"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -32,9 +40,17 @@
   "entrance_step_free": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "A stairlift; not for powered wheelchairs",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Wheelchair access is provided on entrance to the building via a stairlift, which is subject to weight restrictions and is unsuitable for powered wheelchairs.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.curzon.com/venues/mayfair/"
+      }
+    ],
+    "status": "partial"
   },
   "hearing_assist_counters": {
     "conflict": null,
@@ -47,11 +63,26 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "A foyer lift (225kg) and a lift to Screen 1",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Screen 1 is accessed via another dedicated lift.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.curzon.com/venues/mayfair/"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "The foyer lift has a maximum weight limit of 225 kg.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.curzon.com/venues/mayfair/"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "From the venue page's Information tab. Screen 2's entry lists no wheelchair spaces, so they're left unknown.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +90,134 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": "The Royal Boxes have no step-free access.",
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By the entrance stairlift, then its own lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Wheelchair access is provided on entrance to the building via a stairlift, which is subject to weight restrictions and is unsuitable for powered wheelchairs.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/mayfair/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 1 is accessed via another dedicated lift.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/mayfair/"
+          }
+        ],
+        "status": "partial"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 1 307 seats, including 32 premium Pullman seats, 2 Royal Boxes (4 seats each), 2 wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/mayfair/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Up two flights of stairs",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is no step-free access to the Royal Boxes or Screen 2, which are up two flights of stairs.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/mayfair/"
+          }
+        ],
+        "status": "no"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "By a stairlift at the entrance, unsuitable for powered wheelchairs",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Wheelchair access is provided on entrance to the building via a stairlift, which is subject to weight restrictions and is unsuitable for powered wheelchairs.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.curzon.com/venues/mayfair/"
+      }
+    ],
+    "status": "partial"
   }
 }

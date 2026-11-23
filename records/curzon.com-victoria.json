@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.curzon.com/venues/victoria/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
     "note": null,
-    "sources": [],
-    "status": "unknown"
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is a wheelchair-accessible bathroom.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.curzon.com/venues/victoria/"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -47,11 +55,19 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "500kg limit",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "The lift has a maximum weight limit of 500 kg.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.curzon.com/venues/victoria/"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "From the venue page's Information tab. It says hearing-assist headsets are available on request, without naming screens.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +75,306 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "All screens are accessible by lift, each screen has one wheelchair space.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/victoria/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 1 47 seats, 1 wheelchair space",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/victoria/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "All screens are accessible by lift, each screen has one wheelchair space.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/victoria/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 2 69 seats, 1 wheelchair space",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/victoria/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "All screens are accessible by lift, each screen has one wheelchair space.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/victoria/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 3 29 seats, 1 wheelchair space",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/victoria/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 4",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "All screens are accessible by lift, each screen has one wheelchair space.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/victoria/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 4 53 seats, 1 wheelchair space",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/victoria/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 5",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "All screens are accessible by lift, each screen has one wheelchair space.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/victoria/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 5 40 seats, 1 wheelchair space",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/victoria/"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "By lift to every screen",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "All screens are accessible by lift, each screen has one wheelchair space.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.curzon.com/venues/victoria/"
+      }
+    ],
+    "status": "yes"
   }
 }

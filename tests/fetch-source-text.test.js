@@ -76,6 +76,46 @@ describe("fetchSourceText", () => {
     );
   });
 
+  it("clicks open a tab in the browser before reading the page", async () => {
+    const calls = [];
+    const browserPage = {
+      locator: (selector) => ({
+        first: () => ({
+          waitFor: async () => calls.push(["waitFor", selector]),
+          click: async () => calls.push(["click", selector]),
+        }),
+      }),
+      waitForSelector: async (selector) => calls.push(["open", selector]),
+      waitForLoadState: async () => {},
+      content: async () =>
+        '<html><body><div data-key="information_tab" aria-selected="true"></div><p>Each screen has two wheelchair spaces</p></body></html>',
+    };
+    const getPage = jest.fn((url, cacheKey, callback) => callback(browserPage));
+    await expect(
+      fetchSourceText(
+        {
+          url: "https://example.com/venue/",
+          escalate: '[data-key="information_tab"][aria-selected="true"]',
+          click: '[data-key="information_tab"]',
+        },
+        { getPage, pace: async () => {} },
+      ),
+    ).resolves.toBe("Each screen has two wheelchair spaces");
+    expect(calls).toEqual([
+      ["waitFor", '[data-key="information_tab"]'],
+      ["click", '[data-key="information_tab"]'],
+      ["open", '[data-key="information_tab"][aria-selected="true"]'],
+    ]);
+  });
+
+  it("needs escalate to click", async () => {
+    await expect(
+      fetchSourceText({ url: "https://example.com/venue/", click: "button" }),
+    ).rejects.toThrow(
+      "https://example.com/venue/ has click without escalate, which it needs",
+    );
+  });
+
   it("needs a session to escalate", async () => {
     await expect(
       fetchSourceText({ url: "https://example.com/access", escalate: "main" }),
