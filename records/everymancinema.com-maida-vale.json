@@ -55,6 +55,13 @@
         "source_last_updated": null,
         "tier": 1,
         "url": "https://www.everymancinema.com/venues-list/x0lwi-everyman-maida-vale/"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is lift access to Screen 1, however no disabled access to Screen 2.",
+        "source_last_updated": "2025-04-15",
+        "tier": 1,
+        "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282535-maida-vale-accessibility-guide"
       }
     ],
     "status": "yes"
@@ -97,6 +104,13 @@
             "source_last_updated": null,
             "tier": 1,
             "url": "https://www.everymancinema.com/venues-list/x0lwi-everyman-maida-vale/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is lift access to Screen 1, however no disabled access to Screen 2.",
+            "source_last_updated": "2025-04-15",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282535-maida-vale-accessibility-guide"
           }
         ],
         "status": "yes"

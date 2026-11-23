@@ -4,9 +4,17 @@
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Shared",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is access via lift to Screens 1, 2 & 3 and shared accessible toilet all with level access to Screen 4.",
+        "source_last_updated": "2025-04-15",
+        "tier": 1,
+        "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282534-king-s-cross-accessibility-guide"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -55,11 +63,18 @@
         "source_last_updated": null,
         "tier": 1,
         "url": "https://www.everymancinema.com/venues-list/x0x5p-everyman-kings-cross/"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is access via lift to Screens 1, 2 & 3 and shared accessible toilet all with level access to Screen 4.",
+        "source_last_updated": "2025-04-15",
+        "tier": 1,
+        "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282534-king-s-cross-accessibility-guide"
       }
     ],
     "status": "yes"
   },
-  "notes": "Everyman's accessibility guide for King's Cross (modified April 2025) also describes a Screen 4 with two wheelchair positions and level access; the venue page lists three screens.",
+  "notes": null,
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -105,6 +120,13 @@
             "source_last_updated": null,
             "tier": 1,
             "url": "https://www.everymancinema.com/venues-list/x0x5p-everyman-kings-cross/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is access via lift to Screens 1, 2 & 3 and shared accessible toilet all with level access to Screen 4.",
+            "source_last_updated": "2025-04-15",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282534-king-s-cross-accessibility-guide"
           }
         ],
         "status": "yes"
@@ -128,6 +150,13 @@
             "source_last_updated": null,
             "tier": 1,
             "url": "https://www.everymancinema.com/venues-list/x0x5p-everyman-kings-cross/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is one removable seat for wheelchair in each Screen 1, 2 & 3 and there are two wheelchair positions provided in Screen 4.",
+            "source_last_updated": "2025-04-15",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282534-king-s-cross-accessibility-guide"
           }
         ],
         "status": "yes"
@@ -170,6 +199,13 @@
             "source_last_updated": null,
             "tier": 1,
             "url": "https://www.everymancinema.com/venues-list/x0x5p-everyman-kings-cross/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is access via lift to Screens 1, 2 & 3 and shared accessible toilet all with level access to Screen 4.",
+            "source_last_updated": "2025-04-15",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282534-king-s-cross-accessibility-guide"
           }
         ],
         "status": "yes"
@@ -193,6 +229,13 @@
             "source_last_updated": null,
             "tier": 1,
             "url": "https://www.everymancinema.com/venues-list/x0x5p-everyman-kings-cross/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is one removable seat for wheelchair in each Screen 1, 2 & 3 and there are two wheelchair positions provided in Screen 4.",
+            "source_last_updated": "2025-04-15",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282534-king-s-cross-accessibility-guide"
           }
         ],
         "status": "yes"
@@ -235,6 +278,13 @@
             "source_last_updated": null,
             "tier": 1,
             "url": "https://www.everymancinema.com/venues-list/x0x5p-everyman-kings-cross/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is access via lift to Screens 1, 2 & 3 and shared accessible toilet all with level access to Screen 4.",
+            "source_last_updated": "2025-04-15",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282534-king-s-cross-accessibility-guide"
           }
         ],
         "status": "yes"
@@ -258,6 +308,70 @@
             "source_last_updated": null,
             "tier": 1,
             "url": "https://www.everymancinema.com/venues-list/x0x5p-everyman-kings-cross/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is one removable seat for wheelchair in each Screen 1, 2 & 3 and there are two wheelchair positions provided in Screen 4.",
+            "source_last_updated": "2025-04-15",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282534-king-s-cross-accessibility-guide"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 4",
+      "notes": "Only Everyman's accessibility guide describes a Screen 4; the venue page lists three screens, and the listings for 23-29 November 2026 name only 1, 2 and 3.",
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Level access",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is access via lift to Screens 1, 2 & 3 and shared accessible toilet all with level access to Screen 4.",
+            "source_last_updated": "2025-04-15",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282534-king-s-cross-accessibility-guide"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "there are two wheelchair positions provided in Screen 4.",
+            "source_last_updated": "2025-04-15",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282534-king-s-cross-accessibility-guide"
           }
         ],
         "status": "yes"
