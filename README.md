@@ -295,7 +295,13 @@ template: Picturehouse's carries the venue's film carousel, and Cineworld's and
 Everyman's the week's dates, any of which would change the hash every day.
 Everyman's venue pages are narrowed to the text between "Next 7 days" and "Sign
 up to our newsletter", and Tate's and the Science Museum IMAX's to their access
-sections. A selector that
+sections. Smaller sites do the same in other ways, each narrowed to its access
+copy: Forest's and Genesis's menus list the films showing, Act One's its
+seasons, the ICA's has a date picker, the Barbican's and the Hammond's list
+upcoming events, EartH's footer link and Kiln's cookie notice come and go
+between loads. Gravity Forms' honeypot field, whose label is picked at random
+on each load (EartH and Alexandra Palace have one), is left out of every page's
+text. A selector that
 doesn't match exactly one element throws, since the template has changed.
 
 `text_between` is for pages with no element a selector can hold onto, such as

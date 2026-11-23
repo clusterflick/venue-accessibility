@@ -25,6 +25,16 @@ describe("getPageText", () => {
     expect(text).not.toContain(".x{}");
   });
 
+  it("leaves out a Gravity Forms honeypot, whose label changes on each load", () => {
+    const form = (label) => `<html><body><p>Level access</p><form>
+      <div class="gfield gfield--type-honeypot gform_validation_container">
+        <label>${label}</label><input type="text">
+        <div>This field is for validation purposes and should be left unchanged.</div>
+      </div><label>Email*</label></form></body></html>`;
+    expect(getPageText(form("URL"))).toBe("Level access Email*");
+    expect(getPageText(form("Comments"))).toBe(getPageText(form("URL")));
+  });
+
   it("separates text that block elements and <br> kept apart", () => {
     expect(getPageText(PAGE)).toContain(
       "Screen 1 No. of seats: 341 No. of wheelchair spaces: 6",
