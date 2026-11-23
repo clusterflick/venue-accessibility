@@ -1,19 +1,35 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.jw3.org.uk/accessibility-fmq7",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "On every floor",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "We have step free access via lifts to all levels of the building, and accessible toilets on every floor.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.jw3.org.uk/accessibility-fmq7"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Drop-off at the step-free doors on Lymington Road, lower ground floor",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "And if visitors with mobility issues are being driven to JW3 by another driver (including cabs), you can pull into our Lymington Road entrance to be dropped off right by the step-free doors on our lower ground floor.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.jw3.org.uk/accessibility-fmq7"
+      }
+    ],
+    "status": "yes"
   },
   "assistance_dogs": {
     "conflict": null,
@@ -32,9 +48,17 @@
   "entrance_step_free": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Level from Finchley Road",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "The main entrance to JW3 has level access from the Finchley Road, and our Box Office and Café/Bar have accessible serving points.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.jw3.org.uk/accessibility-fmq7"
+      }
+    ],
+    "status": "yes"
   },
   "hearing_assist_counters": {
     "conflict": null,
@@ -47,11 +71,19 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "To every floor",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "We have step free access via lifts to all levels of the building, and accessible toilets on every floor.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.jw3.org.uk/accessibility-fmq7"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "The listings name no screen, so which of the two a screening is in isn't known.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +91,158 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Hearing loop (T setting)",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "For your convenience, the JW3 Cinema and Howard Hall have an advanced technology hearing loop, just set your hearing aid to Channel T for the full benefits.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.jw3.org.uk/accessibility-fmq7"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "JW3 Cinema",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "We have step free access via lifts to all levels of the building, and accessible toilets on every floor.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.jw3.org.uk/accessibility-fmq7"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": "Limited; book ahead with the Box Office",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "We have a limited number of spaces for wheelchair users within the JW3 Cinema and Howard Hall, including a raised viewing area for unseated performances (e.g. some music gigs).",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.jw3.org.uk/accessibility-fmq7"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Hearing loop (T setting)",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "For your convenience, the JW3 Cinema and Howard Hall have an advanced technology hearing loop, just set your hearing aid to Channel T for the full benefits.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.jw3.org.uk/accessibility-fmq7"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Howard Hall",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "We have step free access via lifts to all levels of the building, and accessible toilets on every floor.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.jw3.org.uk/accessibility-fmq7"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": "Limited; book ahead with the Box Office",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "We have a limited number of spaces for wheelchair users within the JW3 Cinema and Howard Hall, including a raised viewing area for unseated performances (e.g. some music gigs).",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.jw3.org.uk/accessibility-fmq7"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Level from Finchley Road; lifts to every floor",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "The main entrance to JW3 has level access from the Finchley Road, and our Box Office and Café/Bar have accessible serving points.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.jw3.org.uk/accessibility-fmq7"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "We have step free access via lifts to all levels of the building, and accessible toilets on every floor.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.jw3.org.uk/accessibility-fmq7"
+      }
+    ],
+    "status": "yes"
   }
 }

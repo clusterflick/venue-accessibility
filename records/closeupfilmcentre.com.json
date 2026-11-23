@@ -1,6 +1,6 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.closeupfilmcentre.com/footer/about/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
@@ -51,7 +51,7 @@
     "sources": [],
     "status": "unknown"
   },
-  "notes": null,
+  "notes": "The About page says only this of access; the listings name no screen.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,7 +59,65 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Theatre",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Fully accessible for wheelchairs",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "the theatre is fully accessible for two wheelchairs",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.closeupfilmcentre.com/footer/about/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "the theatre is fully accessible for two wheelchairs",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.closeupfilmcentre.com/footer/about/"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,

@@ -226,14 +226,15 @@ November 2026.
 | Everyman     | 16     | `everymanmedia.freshdesk.com/…/<id>-<venue>-accessibility-guide`                | Freshdesk answers a plain fetch. Article ids still need discovering for 13 venues.                                                                                                                                                                                                                                                                             |
 | Curzon       | 10     | `curzon.com/venues/<slug>/`, its Information tab                                | Cloudflare challenges a plain fetch, so each page escalates (23 November 2026). The venue's details (each screen's seats and wheelchair spaces, and an Accessibility paragraph) only appear once the Information tab is clicked, so each source also has `click`.                                                                                              |
 | Cineworld    | 12     | `cineworld.co.uk/cinemas/<id>`                                                  | 403 from a cloud container. From home, all 12 answer 200 with the real page; each has a short "Disabled Access" answer in its FAQ, now reviewed into the records. Its access copy has no stable element (the class names are regenerated with each build of the site), so `text_between` narrows each page to its FAQ, leaving out the week's dates around it. |
-| Others       | 70     | Their own access pages; AccessAble as backup                                    | Close-Up, BFI's whatson pages (2) and the Hackney Local Offer refused a plain fetch from both: from home, a Cloudflare "Just a moment..." challenge on each. The rest of the seed's sources answered                                                                                                                                                           |
+| Others       | 70     | Their own access pages; AccessAble as backup                                    | Close-Up, BFI's whatson pages (2) and the Hackney Local Offer refused a plain fetch (Cloudflare), as did the Clapham Grand, Southbank Centre, JW3 and the Royal Albert Hall (Imperva); all now escalate. BFI IMAX's old access page now redirects to BFI Southbank's, so it has its own. The rest answered a plain fetch                                       |
 
-So a home connection gets Cineworld and Vue with a plain fetch. ODEON's site,
-AccessAble and Curzon come through with escalation (see `escalate` and `click`
-below). Close-Up, BFI's whatson pages and the Hackney Local Offer still refuse a plain
-fetch and aren't escalated yet. AccessAble's old `/venues/<slug>` addresses in
-the seed (Arthouse, the Cinema Museum, Genesis, Regent Street) now redirect to
-its home page, so they fail until their guides' current addresses are found.
+So a home connection gets Cineworld and Vue with a plain fetch, and everything
+else that refused one comes through with escalation (see `escalate` and `click`
+below): ODEON's site, AccessAble, Curzon, BFI, Close-Up, the Hackney Local
+Offer, the Clapham Grand, Southbank Centre, JW3 and the Royal Albert Hall.
+AccessAble moved the seed's `/venues/<slug>` guides; Arthouse, the Cinema Museum
+and Regent Street's are at their new addresses, found with AccessAble's own
+search, and Genesis no longer has one.
 
 ## Screens and the listings
 
