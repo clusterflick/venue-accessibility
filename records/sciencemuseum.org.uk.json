@@ -1,12 +1,27 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.sciencemuseum.org.uk/visit/accessibility",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "On every level, and by the IMAX",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Accessible toilets are available on all levels of the museum.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.sciencemuseum.org.uk/visit/accessibility"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Yes, accessible toilets are located near the IMAX concessions area and outside the main auditorium.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.sciencemuseum.org.uk/imax-cinema"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,16 +33,32 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Trained assistance animals; pets aren't admitted",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Working guide and assistance animals are welcome at the museum.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.sciencemuseum.org.uk/visit/accessibility"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Level 0, next to the Hans Rausing Lecture Theatre; RADAR key",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Changing Places Toilet on L0 next to the Hans Rausing Lecture Theatre.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.sciencemuseum.org.uk/visit/accessibility"
+      }
+    ],
+    "status": "yes"
   },
   "entrance_step_free": {
     "conflict": null,
@@ -39,32 +70,151 @@
   "hearing_assist_counters": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Every ticket and information desk",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Hearing loops are fitted at all ticket and information desks.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.sciencemuseum.org.uk/visit/accessibility"
+      }
+    ],
+    "status": "yes"
   },
   "id": "sciencemuseum.org.uk",
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "See the museum map for step-free routes",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "For step free routes across the museum check the museum map or ask a member of staff.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.sciencemuseum.org.uk/visit/accessibility"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "The majority of lifts have audio announcements and Braille labelling on the buttons.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.sciencemuseum.org.uk/visit/accessibility"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "The galleries' mezzanines in Making the Modern World and Flight have no step-free access for now.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Throughout the museum, on the map",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "If you need a calm place during your visit, quiet spaces are available throughout the museum.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.sciencemuseum.org.uk/visit/accessibility"
+      }
+    ],
+    "status": "yes"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Hearing loops and five assistive listening headsets; ask at the IMAX desk",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Yes, we do have hearing loops available.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.sciencemuseum.org.uk/imax-cinema"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "We have five assistive listening headsets for the IMAX: The Ronson Theatre.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.sciencemuseum.org.uk/visit/accessibility"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "IMAX: The Ronson Theatre",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Yes, there is step free access to the auditorium.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.sciencemuseum.org.uk/imax-cinema"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 4,
+        "last_found": null,
+        "note": "Book by phone",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Yes, there are four spaces available for wheelchair users.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.sciencemuseum.org.uk/imax-cinema"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "To the IMAX; staff escort you to your seat",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Yes, there is step free access to the auditorium.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.sciencemuseum.org.uk/imax-cinema"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Please ask at our IMAX ticket desk and a staff member will escort you to your seats.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.sciencemuseum.org.uk/imax-cinema"
+      }
+    ],
+    "status": "yes"
   }
 }

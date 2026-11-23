@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.eventimapollo.com/venue-info/access-requirements/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Two at the back of the stalls, by the left platform; RADAR key",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There are two accessible toilets located at the rear of the stalls",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.eventimapollo.com/venue-info/access-requirements/"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,9 +26,17 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Welcome, but not always in the auditorium; ask ahead",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Assistance Dogs are welcome in our venue, however they might not always be able to stay in the auditorium depending on the event format and the space available",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.eventimapollo.com/venue-info/access-requirements/"
+      }
+    ],
+    "status": "partial"
   },
   "changing_places": {
     "conflict": null,
@@ -32,9 +48,17 @@
   "entrance_step_free": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "A ramp at the front entrance, beside 2 steps",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is an access ramp at the front entrance of the building, or 2 steps from the street into the venue.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.eventimapollo.com/venue-info/access-requirements/"
+      }
+    ],
+    "status": "yes"
   },
   "hearing_assist_counters": {
     "conflict": null,
@@ -47,11 +71,19 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "At least 40 steps to the circle seats",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "stalls seats are all step-free, whereas there are a minimum of 40 steps up to circle seats as there is no lift.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.eventimapollo.com/venue-info/access-requirements/"
+      }
+    ],
+    "status": "no"
   },
-  "notes": null,
+  "notes": "The platforms' capacity is given in access ticket holders, not wheelchair spaces, so no count is recorded. Standing in the stalls or circle can block views. The listings name no screen.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +91,108 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "A loop across the auditorium, with headphones and neck loops for a £10 deposit",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The venue has an upgraded hearing loop system that covers the whole auditorium.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.eventimapollo.com/venue-info/access-requirements/"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Auditorium",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Back corners of the stalls",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Our two accessible platforms are located in the rear corners of the stalls area and have step-free access from the street.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.eventimapollo.com/venue-info/access-requirements/"
+          }
+        ],
+        "status": "yes",
+        "value": "rear"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "The stalls and the access platforms",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Box Office, accessible platforms and toilets and all stalls seats are also completely step-free from the street.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.eventimapollo.com/venue-info/access-requirements/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Our two accessible platforms are located in the rear corners of the stalls area and have step-free access from the street.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.eventimapollo.com/venue-info/access-requirements/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": "Two platforms for up to 8 access ticket holders and their companions; book with the venue",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Our two accessible platforms are located in the rear corners of the stalls area and have step-free access from the street.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.eventimapollo.com/venue-info/access-requirements/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The platforms can accommodate up to 8 access ticket holders plus their companions, so 16 people in total.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.eventimapollo.com/venue-info/access-requirements/"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "To the stalls, platforms, box office and toilets; not the circle",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Box Office, accessible platforms and toilets and all stalls seats are also completely step-free from the street.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.eventimapollo.com/venue-info/access-requirements/"
+      }
+    ],
+    "status": "yes"
   }
 }
