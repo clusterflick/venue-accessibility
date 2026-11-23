@@ -261,6 +261,16 @@ the seed has one "Cinema" but the listings number them; and BFI IMAX ("IMAX" and
 "BFI IMAX"). Listings also name rooms that aren't screens (Rio's "Ludski", BFI's
 "Blue Room"), so a listing screen with no record is unknown, never "no".
 
+A screen entry can stand for a whole building, but only when the listings name
+nothing narrower than the building and the access page states each fact for
+every screen in it, so the entry says no more than the page does. The Cinema in
+the Power Station is the case: its listings say only "The Cinema in The Power
+Station" or "The Cinema in the Arches", both buildings number their screens
+from 1, and the page says "All screens are accessible" for each building and
+where the wheelchair spaces are. So the record has one entry per building,
+named as the page names it ("The Arches", "The Power Station"), with the
+listings' name as its alias and a note saying it stands for every screen.
+
 The first filter, "has at least one step-free screen with a wheelchair space",
 needs none of this, and is the one to build first.
 
