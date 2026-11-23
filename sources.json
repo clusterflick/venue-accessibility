@@ -1,6 +1,7 @@
 {
   "actonecinema.co.uk": [
     {
+      "text_between": ["Where is ActOne?", "Stay in the loop"],
       "tier": 1,
       "url": "https://actonecinema.co.uk/ActOneCinema.dll/Page?p=4899&m=m&sp=6389"
     }
@@ -27,6 +28,10 @@
   ],
   "barbican.org.uk": [
     {
+      "text_between": [
+        "Accessing our venues Cinema 1",
+        "Relaxed Screenings Here"
+      ],
       "tier": 1,
       "url": "https://www.barbican.org.uk/your-visit/accessibility/accessible-events"
     }
@@ -243,6 +248,7 @@
   ],
   "earthackney.co.uk": [
     {
+      "text_between": ["Access We know that", "Sign up to our mailing list"],
       "tier": 1,
       "url": "https://earthackney.co.uk/access/"
     }
@@ -402,12 +408,20 @@
   ],
   "forestcinema.co.uk": [
     {
+      "text_between": [
+        "FAQ FAQ WHAT TIME DOES THE CINEMA OPEN?",
+        "Join the conversation"
+      ],
       "tier": 1,
       "url": "https://www.forestcinema.co.uk/faq"
     }
   ],
   "genesiscinema.co.uk": [
     {
+      "text_between": [
+        "Access Needs ACCESS NEEDS DISCOUNTS",
+        "Join the conversation"
+      ],
       "tier": 1,
       "url": "https://www.genesiscinema.co.uk/access-needs"
     },
@@ -426,6 +440,10 @@
       "url": "https://www.ica.art/media/06329.pdf"
     },
     {
+      "text_between": [
+        "This Visual Story Guide uses pictures",
+        "↑ Back to top"
+      ],
       "tier": 1,
       "url": "https://www.ica.art/visual-story-guide"
     }
@@ -438,6 +456,10 @@
   ],
   "kilntheatre.com": [
     {
+      "text_between": [
+        "For general safety information click here",
+        "Newsletter Sign Up"
+      ],
       "tier": 1,
       "url": "https://kilntheatre.com/your-visit/access/"
     }
@@ -826,6 +848,7 @@
   ],
   "thehammondtheatre.co.uk": [
     {
+      "text_between": ["VISITOR INFORMATION YOUR VISIT", "What else is on?"],
       "tier": 1,
       "url": "https://www.thehammondtheatre.co.uk/visitor-information"
     }
