@@ -18,6 +18,8 @@
       "url": "https://www.arthousecrouchend.co.uk/general-information/"
     },
     {
+      "escalate": ".c-accessGuide",
+      "selector": ".c-accessGuide",
       "tier": 2,
       "url": "https://www.accessable.co.uk/venues/arthouse-crouch-end"
     },
@@ -86,6 +88,8 @@
       "url": "https://cinemamuseum.org.uk/visit/"
     },
     {
+      "escalate": ".c-accessGuide",
+      "selector": ".c-accessGuide",
       "tier": 2,
       "url": "https://www.accessable.co.uk/venues/cinema-museum"
     }
@@ -430,6 +434,8 @@
       "url": "https://www.genesiscinema.co.uk/articleimages/private%20hire%20guide%20-%20july%202026_compressed.pdf"
     },
     {
+      "escalate": ".c-accessGuide",
+      "selector": ".c-accessGuide",
       "tier": 2,
       "url": "https://www.accessable.co.uk/venues/genesis-cinema"
     }
@@ -534,6 +540,8 @@
   ],
   "myvue.com-leicester-square": [
     {
+      "escalate": ".c-accessGuide",
+      "selector": ".c-accessGuide",
       "tier": 2,
       "url": "https://www.accessable.co.uk/leicester-square/access-guides/vue-cinema-london-west-end"
     },
@@ -577,6 +585,8 @@
   ],
   "myvue.com-westfield-stratford-city": [
     {
+      "escalate": ".c-accessGuide",
+      "selector": ".c-accessGuide",
       "tier": 2,
       "url": "https://www.accessable.co.uk/london-borough-of-newham/access-guides/vue"
     },
@@ -593,28 +603,258 @@
       "url": "https://www.myvue.com/cinema/wood-green/whats-on"
     }
   ],
+  "odeon.co.uk-acton": [
+    {
+      "escalate": ".header-container",
+      "text_from": "odeon-cinema-guide",
+      "tier": 1,
+      "url": "https://www.odeon.co.uk/cinemas/acton/"
+    }
+  ],
+  "odeon.co.uk-beckenham": [
+    {
+      "escalate": ".header-container",
+      "text_from": "odeon-cinema-guide",
+      "tier": 1,
+      "url": "https://www.odeon.co.uk/cinemas/beckenham/"
+    },
+    {
+      "escalate": ".c-accessGuide",
+      "selector": ".c-accessGuide",
+      "tier": 2,
+      "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-beckenham"
+    }
+  ],
+  "odeon.co.uk-greenwich": [
+    {
+      "escalate": ".header-container",
+      "text_from": "odeon-cinema-guide",
+      "tier": 1,
+      "url": "https://www.odeon.co.uk/cinemas/greenwich/"
+    },
+    {
+      "escalate": ".c-accessGuide",
+      "selector": ".c-accessGuide",
+      "tier": 2,
+      "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+    }
+  ],
   "odeon.co.uk-haymarket": [
     {
+      "escalate": ".header-container",
+      "text_from": "odeon-cinema-guide",
+      "tier": 1,
+      "url": "https://www.odeon.co.uk/cinemas/london-haymarket/"
+    },
+    {
+      "escalate": ".c-accessGuide",
+      "selector": ".c-accessGuide",
       "tier": 2,
       "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-london-haymarket"
     }
   ],
+  "odeon.co.uk-holloway": [
+    {
+      "escalate": ".header-container",
+      "text_from": "odeon-cinema-guide",
+      "tier": 1,
+      "url": "https://www.odeon.co.uk/cinemas/holloway/"
+    },
+    {
+      "escalate": ".c-accessGuide",
+      "selector": ".c-accessGuide",
+      "tier": 2,
+      "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-holloway"
+    }
+  ],
+  "odeon.co.uk-islington": [
+    {
+      "escalate": ".header-container",
+      "text_from": "odeon-cinema-guide",
+      "tier": 1,
+      "url": "https://www.odeon.co.uk/cinemas/islington/"
+    },
+    {
+      "escalate": ".c-accessGuide",
+      "selector": ".c-accessGuide",
+      "tier": 2,
+      "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-dine-islington"
+    }
+  ],
+  "odeon.co.uk-kingston": [
+    {
+      "escalate": ".header-container",
+      "text_from": "odeon-cinema-guide",
+      "tier": 1,
+      "url": "https://www.odeon.co.uk/cinemas/kingston/"
+    },
+    {
+      "escalate": ".c-accessGuide",
+      "selector": ".c-accessGuide",
+      "tier": 2,
+      "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-kingston"
+    }
+  ],
   "odeon.co.uk-lee-valley": [
     {
+      "escalate": ".header-container",
+      "text_from": "odeon-cinema-guide",
+      "tier": 1,
+      "url": "https://www.odeon.co.uk/cinemas/lee-valley/"
+    },
+    {
+      "escalate": ".c-accessGuide",
+      "selector": ".c-accessGuide",
       "tier": 2,
       "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-lee-valley"
     }
   ],
   "odeon.co.uk-leicester-square": [
     {
+      "escalate": ".header-container",
+      "text_from": "odeon-cinema-guide",
+      "tier": 1,
+      "url": "https://www.odeon.co.uk/cinemas/london-leicester-square/"
+    },
+    {
+      "escalate": ".c-accessGuide",
+      "selector": ".c-accessGuide",
       "tier": 2,
       "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-london-leicester-square"
     }
   ],
+  "odeon.co.uk-orpington": [
+    {
+      "escalate": ".header-container",
+      "text_from": "odeon-cinema-guide",
+      "tier": 1,
+      "url": "https://www.odeon.co.uk/cinemas/orpington/"
+    },
+    {
+      "escalate": ".c-accessGuide",
+      "selector": ".c-accessGuide",
+      "tier": 2,
+      "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-orpington"
+    }
+  ],
+  "odeon.co.uk-putney": [
+    {
+      "escalate": ".header-container",
+      "text_from": "odeon-cinema-guide",
+      "tier": 1,
+      "url": "https://www.odeon.co.uk/cinemas/putney/"
+    },
+    {
+      "escalate": ".c-accessGuide",
+      "selector": ".c-accessGuide",
+      "tier": 2,
+      "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-putney"
+    }
+  ],
+  "odeon.co.uk-richmond": [
+    {
+      "escalate": ".header-container",
+      "text_from": "odeon-cinema-guide",
+      "tier": 1,
+      "url": "https://www.odeon.co.uk/cinemas/richmond/"
+    },
+    {
+      "escalate": ".c-accessGuide",
+      "selector": ".c-accessGuide",
+      "tier": 2,
+      "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-richmond"
+    }
+  ],
+  "odeon.co.uk-south-woodford": [
+    {
+      "escalate": ".header-container",
+      "text_from": "odeon-cinema-guide",
+      "tier": 1,
+      "url": "https://www.odeon.co.uk/cinemas/south-woodford/"
+    },
+    {
+      "escalate": ".c-accessGuide",
+      "selector": ".c-accessGuide",
+      "tier": 2,
+      "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford"
+    }
+  ],
+  "odeon.co.uk-streatham": [
+    {
+      "escalate": ".header-container",
+      "text_from": "odeon-cinema-guide",
+      "tier": 1,
+      "url": "https://www.odeon.co.uk/cinemas/streatham/"
+    },
+    {
+      "escalate": ".c-accessGuide",
+      "selector": ".c-accessGuide",
+      "tier": 2,
+      "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-streatham"
+    }
+  ],
+  "odeon.co.uk-swiss-cottage": [
+    {
+      "escalate": ".header-container",
+      "text_from": "odeon-cinema-guide",
+      "tier": 1,
+      "url": "https://www.odeon.co.uk/cinemas/swiss-cottage/"
+    },
+    {
+      "escalate": ".c-accessGuide",
+      "selector": ".c-accessGuide",
+      "tier": 2,
+      "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+    }
+  ],
+  "odeon.co.uk-tottenham-court-road": [
+    {
+      "escalate": ".header-container",
+      "text_from": "odeon-cinema-guide",
+      "tier": 1,
+      "url": "https://www.odeon.co.uk/cinemas/london-tottenham-court-road/"
+    },
+    {
+      "escalate": ".c-accessGuide",
+      "selector": ".c-accessGuide",
+      "tier": 2,
+      "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-london-tottenham-court-road"
+    }
+  ],
   "odeon.co.uk-uxbridge": [
     {
+      "escalate": ".header-container",
+      "text_from": "odeon-cinema-guide",
+      "tier": 1,
+      "url": "https://www.odeon.co.uk/cinemas/uxbridge/"
+    },
+    {
+      "escalate": ".c-accessGuide",
+      "selector": ".c-accessGuide",
       "tier": 2,
       "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-uxbridge"
+    }
+  ],
+  "odeon.co.uk-west-end": [
+    {
+      "escalate": ".header-container",
+      "text_from": "odeon-cinema-guide",
+      "tier": 1,
+      "url": "https://www.odeon.co.uk/cinemas/london-west-end/"
+    }
+  ],
+  "odeon.co.uk-wimbledon": [
+    {
+      "escalate": ".header-container",
+      "text_from": "odeon-cinema-guide",
+      "tier": 1,
+      "url": "https://www.odeon.co.uk/cinemas/wimbledon/"
+    },
+    {
+      "escalate": ".c-accessGuide",
+      "selector": ".c-accessGuide",
+      "tier": 2,
+      "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
     }
   ],
   "olympiccinema.com": [
@@ -633,6 +873,8 @@
       "url": "https://www.euansguide.com/venues/phoenix-cinema-london-2195"
     },
     {
+      "escalate": ".c-accessGuide",
+      "selector": ".c-accessGuide",
       "tier": 2,
       "url": "https://www.accessable.co.uk/london-borough-of-haringey/access-guides/phoenix-cinema"
     }
@@ -736,6 +978,8 @@
       "url": "https://www.regentstreetcinema.com/access/"
     },
     {
+      "escalate": ".c-accessGuide",
+      "selector": ".c-accessGuide",
       "tier": 2,
       "url": "https://www.accessable.co.uk/venues/regent-street-cinema"
     }

@@ -10,12 +10,18 @@
 //
 // A page that fails is recorded and the rest carry on; the run fails at the
 // end, once the pages that did come back are written.
+//
+// Sources with `escalate` go through a Camoufox browser when the site refuses
+// a plain fetch: see fetchEscalated in lib/fetch-sources.js.
 
 const path = require("node:path");
 const fs = require("node:fs").promises;
 const { readJSON, writeJSON } = require("scripts/common/utils");
 const { readSources, PAGE_HASHES_PATH } = require("../lib/data");
 const { fetchSources } = require("../lib/fetch-sources");
+const {
+  withCamoufoxSession,
+} = require("scripts/common/get-page-with-camoufox");
 
 const PAGES_DIRECTORY = path.join(process.cwd(), "fetched-pages");
 
@@ -35,11 +41,13 @@ const PAGES_DIRECTORY = path.join(process.cwd(), "fetched-pages");
     `Fetching ${total} sources for ${Object.keys(sources).length} venues`,
   );
 
-  const { pages, hashes, changed, failures } = await fetchSources({
-    sources,
-    previousHashes,
-    today,
-  });
+  // The browser launches only when a source with `escalate` is first refused,
+  // so a run with none launches nothing. The day cache is off: this run is
+  // here to notice a page changing, which a cached copy would hide.
+  const { pages, hashes, changed, failures } = await withCamoufoxSession(
+    (getPage) => fetchSources({ sources, previousHashes, today, getPage }),
+    { disableCache: true },
+  );
 
   await fs.mkdir(PAGES_DIRECTORY, { recursive: true });
   for (const page of pages) {

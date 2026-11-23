@@ -41,6 +41,49 @@ describe("fetchSourceText", () => {
     ).rejects.toThrow("answered a bot challenge");
   });
 
+  it("fetches a source that escalates through the session's getPage", async () => {
+    // A plain fetch answers with Cloudflare's challenge, so getPageEscalating
+    // hands the page to the browser, here a stand-in for Camoufox.
+    jest.spyOn(global, "fetch").mockResolvedValue(
+      new Response(
+        "<html><head><title>Just a moment...</title></head></html>",
+        {
+          status: 403,
+          headers: { "content-type": "text/html", "cf-mitigated": "challenge" },
+        },
+      ),
+    );
+    const browserPage = {
+      waitForSelector: jest.fn(async () => {}),
+      waitForLoadState: jest.fn(async () => {}),
+      content: async () =>
+        '<html><body><div class="header-container"></div><p>Lift to every screen</p></body></html>',
+    };
+    const getPage = jest.fn((url, cacheKey, callback, options) =>
+      options.withoutBrowser(url).then((html) => html ?? callback(browserPage)),
+    );
+    await expect(
+      fetchSourceText(
+        { url: "https://example.com/access", escalate: ".header-container" },
+        { getPage, pace: async () => {} },
+      ),
+    ).resolves.toBe("Lift to every screen");
+    expect(browserPage.waitForSelector).toHaveBeenCalledWith(
+      ".header-container",
+      {
+        state: "attached",
+      },
+    );
+  });
+
+  it("needs a session to escalate", async () => {
+    await expect(
+      fetchSourceText({ url: "https://example.com/access", escalate: "main" }),
+    ).rejects.toThrow(
+      "https://example.com/access escalates, so needs a browser session's getPage",
+    );
+  });
+
   it("reads a PDF's text, so quotes from an access guide can be checked", async () => {
     respond(PDF, "application/pdf");
     await expect(

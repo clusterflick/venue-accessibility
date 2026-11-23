@@ -49,4 +49,25 @@ describe("committed data", () => {
       "example.com https://example.com/: unknown source keys text_betwen",
     );
   });
+
+  it("needs escalate to name the selector the real page carries", async () => {
+    const fs = require("node:fs");
+    const os = require("node:os");
+    const path = require("node:path");
+    const file = path.join(
+      fs.mkdtempSync(path.join(os.tmpdir(), "sources-")),
+      "sources.json",
+    );
+    fs.writeFileSync(
+      file,
+      JSON.stringify({
+        "example.com": [
+          { tier: 1, url: "https://example.com/", escalate: true },
+        ],
+      }),
+    );
+    await expect(readSources(file)).rejects.toThrow(
+      "example.com https://example.com/: escalate should be the selector only the real page carries",
+    );
+  });
 });
