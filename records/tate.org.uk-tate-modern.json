@@ -1,33 +1,72 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.tate.org.uk/visit/tate-modern",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "On every floor",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Fully accessible toilets are located on every floor on the concourses.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.tate.org.uk/visit/tate-modern"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "South Entrance of the Blavatnik Building, with RADAR-key lifts down to the Turbine Hall",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Once you have parked, enter via the South Entrance of the Blavatnik Building across the level terrace, approximately 30 - 60 metres from the parking spaces.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.tate.org.uk/visit/tate-modern"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Two RADAR Key operated lifts link the South Entrance on Level 1 and the Ticket desks in the Turbine Hall.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.tate.org.uk/visit/tate-modern"
+      }
+    ],
+    "status": "yes"
   },
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
     "note": null,
-    "sources": [],
-    "status": "unknown"
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "We welcome guide dogs, hearing dogs and assistance dogs in the gallery.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.tate.org.uk/visit/tate-modern"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Level 0, Natalie Bell Building; RADAR key",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "A Changing Places toilet is available on Level 0 of the Natalie Bell Building.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.tate.org.uk/visit/tate-modern"
+      }
+    ],
+    "status": "yes"
   },
   "entrance_step_free": {
     "conflict": null,
@@ -39,32 +78,78 @@
   "hearing_assist_counters": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Ticket desks",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "The ticket desks are fitted with a hearing loop.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.tate.org.uk/visit/tate-modern"
+      }
+    ],
+    "status": "yes"
   },
   "id": "tate.org.uk-tate-modern",
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "In both buildings, on every floor",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There are four lifts in the Natalie Bell Building, by the main stairs on each floor.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.tate.org.uk/visit/tate-modern"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There are eight lifts in the Blavatnik Building, situated by the main stairs on each floor",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.tate.org.uk/visit/tate-modern"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "The page says nothing about the rooms films are shown in, and the listings name no screen.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Two, on Levels 2 and 4 of the Natalie Bell Building",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "We have two quiet rooms available",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.tate.org.uk/visit/tate-modern"
+      }
+    ],
+    "status": "yes"
   },
   "screens": [],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Across the level terrace to the South Entrance, then by lift",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Once you have parked, enter via the South Entrance of the Blavatnik Building across the level terrace, approximately 30 - 60 metres from the parking spaces.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.tate.org.uk/visit/tate-modern"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Two RADAR Key operated lifts link the South Entrance on Level 1 and the Ticket desks in the Turbine Hall.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.tate.org.uk/visit/tate-modern"
+      }
+    ],
+    "status": "yes"
   }
 }

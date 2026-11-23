@@ -285,13 +285,23 @@ afterwards, with the pages that did come back already written to
 
 A bot challenge that answers 200 counts as failed, so it is never hashed as
 the page: one whose title or text begins "Just a moment...", "Attention
-Required!" or "Please wait while your request is being verified..." (the
-Clapham Grand's host gives `fetch-pages` the last, though not every client).
+Required!", "Please wait while your request is being verified..." (the
+Clapham Grand's host gives `fetch-pages` this one, though not every client) or
+"Request unsuccessful. Incapsula incident ID" (the Royal Albert Hall's).
 
 The hash is over the text, and only the access copy where a selector or
 `text_between` is given, because chain pages wrap that copy in the site
-template: Picturehouse's carries the venue's film carousel, and Cineworld's the
-week's dates, either of which would change the hash every day. A selector that
+template: Picturehouse's carries the venue's film carousel, and Cineworld's and
+Everyman's the week's dates, any of which would change the hash every day.
+Everyman's venue pages are narrowed to the text between "Next 7 days" and "Sign
+up to our newsletter", and Tate's and the Science Museum IMAX's to their access
+sections. Smaller sites do the same in other ways, each narrowed to its access
+copy: Forest's and Genesis's menus list the films showing, Act One's its
+seasons, the ICA's has a date picker, the Barbican's and the Hammond's list
+upcoming events, EartH's footer link and Kiln's cookie notice come and go
+between loads. Gravity Forms' honeypot field, whose label is picked at random
+on each load (EartH and Alexandra Palace have one), is left out of every page's
+text. A selector that
 doesn't match exactly one element throws, since the template has changed.
 
 `text_between` is for pages with no element a selector can hold onto, such as

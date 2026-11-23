@@ -1,8 +1,15 @@
 {
   "actonecinema.co.uk": [
     {
+      "text_between": ["Where is ActOne?", "Stay in the loop"],
       "tier": 1,
       "url": "https://actonecinema.co.uk/ActOneCinema.dll/Page?p=4899&m=m&sp=6389"
+    }
+  ],
+  "alexandrapalace.com": [
+    {
+      "tier": 1,
+      "url": "https://www.alexandrapalace.com/visitor-information/accessibility/"
     }
   ],
   "arthousecrouchend.co.uk": [
@@ -21,6 +28,10 @@
   ],
   "barbican.org.uk": [
     {
+      "text_between": [
+        "Accessing our venues Cinema 1",
+        "Relaxed Screenings Here"
+      ],
       "tier": 1,
       "url": "https://www.barbican.org.uk/your-visit/accessibility/accessible-events"
     }
@@ -45,6 +56,12 @@
     {
       "tier": 1,
       "url": "https://cadoganhall.com/your-visit/access-information/"
+    }
+  ],
+  "cafeoto.co.uk": [
+    {
+      "tier": 1,
+      "url": "https://www.cafeoto.co.uk/info/"
     }
   ],
   "castlesidcup.com": [
@@ -231,6 +248,7 @@
   ],
   "earthackney.co.uk": [
     {
+      "text_between": ["Access We know that", "Sign up to our mailing list"],
       "tier": 1,
       "url": "https://earthackney.co.uk/access/"
     }
@@ -257,8 +275,15 @@
       "url": "https://www.electriccinema.co.uk/white-city/booking-info/"
     }
   ],
+  "eventimapollo.com": [
+    {
+      "tier": 1,
+      "url": "https://www.eventimapollo.com/venue-info/access-requirements/"
+    }
+  ],
   "everymancinema.com-baker-street": [
     {
+      "text_between": ["Next 7 days", "Sign up to our newsletter"],
       "tier": 1,
       "url": "https://www.everymancinema.com/venues-list/x0712-everyman-baker-street/"
     }
@@ -275,18 +300,21 @@
   ],
   "everymancinema.com-belsize-park": [
     {
+      "text_between": ["Next 7 days", "Sign up to our newsletter"],
       "tier": 1,
       "url": "https://www.everymancinema.com/venues-list/x077p-everyman-belsize-park/"
     }
   ],
   "everymancinema.com-borough-yards": [
     {
+      "text_between": ["Next 7 days", "Sign up to our newsletter"],
       "tier": 1,
       "url": "https://www.everymancinema.com/venues-list/g011i-everyman-borough-yards/"
     }
   ],
   "everymancinema.com-brentford": [
     {
+      "text_between": ["Next 7 days", "Sign up to our newsletter"],
       "tier": 1,
       "url": "https://www.everymancinema.com/venues-list/g049a-everyman-brentford/"
     }
@@ -303,24 +331,28 @@
   ],
   "everymancinema.com-canary-wharf": [
     {
+      "text_between": ["Next 7 days", "Sign up to our newsletter"],
       "tier": 1,
       "url": "https://www.everymancinema.com/venues-list/x0vpb-everyman-canary-wharf/"
     }
   ],
   "everymancinema.com-chelsea": [
     {
+      "text_between": ["Next 7 days", "Sign up to our newsletter"],
       "tier": 1,
       "url": "https://www.everymancinema.com/venues-list/x078x-everyman-chelsea/"
     }
   ],
   "everymancinema.com-crystal-palace": [
     {
+      "text_between": ["Next 7 days", "Sign up to our newsletter"],
       "tier": 1,
       "url": "https://www.everymancinema.com/venues-list/x11dr-everyman-crystal-palace/"
     }
   ],
   "everymancinema.com-hampstead": [
     {
+      "text_between": ["Next 7 days", "Sign up to our newsletter"],
       "tier": 1,
       "url": "https://www.everymancinema.com/venues-list/x06zw-everyman-hampstead/"
     },
@@ -331,12 +363,14 @@
   ],
   "everymancinema.com-kings-cross": [
     {
+      "text_between": ["Next 7 days", "Sign up to our newsletter"],
       "tier": 1,
       "url": "https://www.everymancinema.com/venues-list/x0x5p-everyman-kings-cross/"
     }
   ],
   "everymancinema.com-maida-vale": [
     {
+      "text_between": ["Next 7 days", "Sign up to our newsletter"],
       "tier": 1,
       "url": "https://www.everymancinema.com/venues-list/x0lwi-everyman-maida-vale/"
     }
@@ -353,30 +387,41 @@
   ],
   "everymancinema.com-screen-on-the-green": [
     {
+      "text_between": ["Next 7 days", "Sign up to our newsletter"],
       "tier": 1,
       "url": "https://www.everymancinema.com/venues-list/x077o-everyman-screen-on-the-green/"
     }
   ],
   "everymancinema.com-stratford-international": [
     {
+      "text_between": ["Next 7 days", "Sign up to our newsletter"],
       "tier": 1,
       "url": "https://www.everymancinema.com/venues-list/g029x-everyman-stratford-international/"
     }
   ],
   "everymancinema.com-the-whiteley": [
     {
+      "text_between": ["Next 7 days", "Sign up to our newsletter"],
       "tier": 1,
       "url": "https://www.everymancinema.com/venues-list/g05d7-everyman-at-the-whiteley/"
     }
   ],
   "forestcinema.co.uk": [
     {
+      "text_between": [
+        "FAQ FAQ WHAT TIME DOES THE CINEMA OPEN?",
+        "Join the conversation"
+      ],
       "tier": 1,
       "url": "https://www.forestcinema.co.uk/faq"
     }
   ],
   "genesiscinema.co.uk": [
     {
+      "text_between": [
+        "Access Needs ACCESS NEEDS DISCOUNTS",
+        "Join the conversation"
+      ],
       "tier": 1,
       "url": "https://www.genesiscinema.co.uk/access-needs"
     },
@@ -395,6 +440,10 @@
       "url": "https://www.ica.art/media/06329.pdf"
     },
     {
+      "text_between": [
+        "This Visual Story Guide uses pictures",
+        "↑ Back to top"
+      ],
       "tier": 1,
       "url": "https://www.ica.art/visual-story-guide"
     }
@@ -407,6 +456,10 @@
   ],
   "kilntheatre.com": [
     {
+      "text_between": [
+        "For general safety information click here",
+        "Newsletter Sign Up"
+      ],
       "tier": 1,
       "url": "https://kilntheatre.com/your-visit/access/"
     }
@@ -709,6 +762,40 @@
       "url": "https://riversidestudios.co.uk/plan-your-visit/accessibility/"
     }
   ],
+  "sciencemuseum.org.uk": [
+    {
+      "tier": 1,
+      "url": "https://www.sciencemuseum.org.uk/visit/accessibility"
+    },
+    {
+      "text_between": [
+        "Accessibility Is there step-free access",
+        "About the IMAX cinema What to expect"
+      ],
+      "tier": 1,
+      "url": "https://www.sciencemuseum.org.uk/imax-cinema"
+    }
+  ],
+  "tate.org.uk-tate-britain": [
+    {
+      "text_between": [
+        "Accessible car parking There are",
+        "We want to make sure that all our galleries are welcoming"
+      ],
+      "tier": 1,
+      "url": "https://www.tate.org.uk/visit/tate-britain"
+    }
+  ],
+  "tate.org.uk-tate-modern": [
+    {
+      "text_between": [
+        "Accessible car parking There are",
+        "We want to make sure that all our galleries are welcoming"
+      ],
+      "tier": 1,
+      "url": "https://www.tate.org.uk/visit/tate-modern"
+    }
+  ],
   "thearzner.com": [
     {
       "tier": 1,
@@ -761,6 +848,7 @@
   ],
   "thehammondtheatre.co.uk": [
     {
+      "text_between": ["VISITOR INFORMATION YOUR VISIT", "What else is on?"],
       "tier": 1,
       "url": "https://www.thehammondtheatre.co.uk/visitor-information"
     }
@@ -769,6 +857,12 @@
     {
       "tier": 1,
       "url": "https://thelexicinema.co.uk/TheLexiCinema.dll/Page?p=4&m=m&sp=3"
+    }
+  ],
+  "unionchapel.org.uk": [
+    {
+      "tier": 1,
+      "url": "https://unionchapel.org.uk/venue/accessibility"
     }
   ],
   "wiltons.org.uk": [

@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.alexandrapalace.com/visitor-information/accessibility/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Two on the Theatre's ground floor, step-free",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "The entrance to the bathrooms is via the Theatre foyer where we have two accessible bathrooms on the ground floor with step-free access.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.alexandrapalace.com/visitor-information/accessibility/"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,53 +26,204 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "With a dog-minding service; tell them ahead",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Alexandra Palace welcomes assistance dogs on site and will offer a professional minding service whilst you enjoy the event, if applicable.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.alexandrapalace.com/visitor-information/accessibility/"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "At the East Lightwell entrance; ask Visitor Services to be taken there",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "We have a state-of-the-art Changing Places Facility, located in our East Lightwell entrance on our South Terrace.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.alexandrapalace.com/visitor-information/accessibility/"
+      }
+    ],
+    "status": "yes"
   },
   "entrance_step_free": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "The Theatre's main entrance, by a slope through the East Court",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "The main entrance to the theatre is through the East Court which has a step-free access slope.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.alexandrapalace.com/visitor-information/accessibility/"
+      }
+    ],
+    "status": "yes"
   },
   "hearing_assist_counters": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Visitor Services and box office",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "We have hearing loop services available at all Visitor Services and Box office service points.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.alexandrapalace.com/visitor-information/accessibility/"
+      }
+    ],
+    "status": "yes"
   },
   "id": "alexandrapalace.com",
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "From the Theatre foyer to Circle Right",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "We have a fully functioning lift that can take you from the foyer to Circle Right seating area.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.alexandrapalace.com/visitor-information/accessibility/"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "The venue's films are shown in the Theatre, whose listings name no screen; the page also covers the Great Hall and Ice Rink.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Ask Visitor Services",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "We have designated quiet spaces available on site.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.alexandrapalace.com/visitor-information/accessibility/"
+      }
+    ],
+    "status": "yes"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Assisted listening headsets on request",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Assisted listening headsets are available on request",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.alexandrapalace.com/visitor-information/accessibility/"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Theatre",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Stalls and Circle",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The Theatre has multiple spaces reserved for wheelchairs, these include four in the Stalls and one in the Circle.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.alexandrapalace.com/visitor-information/accessibility/"
+          }
+        ],
+        "status": "yes",
+        "value": "mixed"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "The stalls, front row to row K, are level; Circle Right by lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The Theatre foyer is totally step-free.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.alexandrapalace.com/visitor-information/accessibility/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Level access to stalls- front row to row K",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.alexandrapalace.com/visitor-information/accessibility/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "We have a fully functioning lift that can take you from the foyer to Circle Right seating area.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.alexandrapalace.com/visitor-information/accessibility/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 5,
+        "last_found": null,
+        "note": "Four in the Stalls and one in the Circle (D5, with D6 for a companion)",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The Theatre has multiple spaces reserved for wheelchairs, these include four in the Stalls and one in the Circle.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.alexandrapalace.com/visitor-information/accessibility/"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "To the Theatre, by a slope through the East Court",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "The main entrance to the theatre is through the East Court which has a step-free access slope.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.alexandrapalace.com/visitor-information/accessibility/"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "The Theatre foyer is totally step-free.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.alexandrapalace.com/visitor-information/accessibility/"
+      }
+    ],
+    "status": "yes"
   }
 }
