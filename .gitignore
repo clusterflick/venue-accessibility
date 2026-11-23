@@ -9,3 +9,7 @@ release/
 
 # Written by write-questions
 questions/
+
+# Written by the Camoufox session fetch-pages escalates through
+cache/
+playwright-failures/

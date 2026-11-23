@@ -1,4 +1,9 @@
-const { extractFrom, vueAccessibility } = require("../lib/page-extractors");
+const {
+  extractFrom,
+  odeonCinemaGuide,
+  readAssignedJson,
+  vueAccessibility,
+} = require("../lib/page-extractors");
 const { getPageText } = require("../lib/page-text");
 
 // Shaped like a Vue venue page: the markup has only the section headings, and
@@ -99,10 +104,109 @@ describe("extractFrom", () => {
 
   it("throws on a name it doesn't know", () => {
     expect(() => extractFrom("odeon", "<html></html>")).toThrow(
-      'Unknown text_from "odeon"; expected one of vue-accessibility',
+      'Unknown text_from "odeon"; expected one of odeon-cinema-guide, vue-accessibility',
     );
     expect(() => extractFrom("toString", "<html></html>")).toThrow(
       'Unknown text_from "toString"',
+    );
+  });
+});
+
+// Shaped like an ODEON venue page: the guide is in window.pageData, assigned in
+// a script that carries on with more code, beside a shared Accessibility tab.
+const odeonPage = (value) => `<html><body>
+  <div class="header-container"></div>
+  <script>
+    window.initialData = {"culture":"en-GB"};
+    window.pageData = ${JSON.stringify([{ key: "/cinemas/acton/", value }])};
+    (function () { if (window.pageData) { return "}" } })();
+  </script>
+  <script>var b = window.pageData; if (!b) {}</script>
+</body></html>`;
+
+const ACTON = {
+  name: "Acton",
+  cinemaGuide: [
+    {
+      tabTitle: "Cinema Info",
+      boxes: [
+        {
+          boxTitle: "ODEON Luxe Acton",
+          content: [{ title: "", text: "<p>We have 9 luxury screens.</p>" }],
+        },
+      ],
+    },
+    {
+      tabTitle: "Screens",
+      tabHeading: "ODEON Luxe Acton offers 9 screens",
+      boxes: [
+        {
+          boxTitle: "Screen 1 - iSense",
+          content: [
+            { title: "Seats", text: "138 Recliner seats\n2 Wheelchair spaces" },
+          ],
+        },
+      ],
+    },
+  ],
+  extensions: {
+    cinemaGuideTabs: [
+      {
+        tabTitle: "Accessibility",
+        boxesContent: [
+          {
+            boxTitle: "Services",
+            content: [
+              { title: "", text: "<p>Each screen has wheelchair spaces</p>" },
+            ],
+          },
+        ],
+        cinemasContent: [{ urlSegment: "acton" }, { urlSegment: "bath" }],
+      },
+    ],
+  },
+};
+
+describe("readAssignedJson", () => {
+  it("reads the assigned value as JSON, without running the script", () => {
+    expect(readAssignedJson(odeonPage(ACTON), "initialData")).toEqual({
+      culture: "en-GB",
+    });
+    expect(readAssignedJson(odeonPage(ACTON), "pageData")[0].key).toBe(
+      "/cinemas/acton/",
+    );
+  });
+
+  it("throws when the page doesn't assign it once", () => {
+    expect(() => readAssignedJson("<html></html>", "pageData")).toThrow(
+      "Expected one window.pageData assignment, found 0",
+    );
+  });
+});
+
+describe("odeonCinemaGuide", () => {
+  it("takes the venue's own guide, leaving out the chain's shared tabs", () => {
+    const text = getPageText(odeonCinemaGuide(odeonPage(ACTON)));
+    expect(text).toBe(
+      "Cinema Info ODEON Luxe Acton We have 9 luxury screens. " +
+        "Screens ODEON Luxe Acton offers 9 screens " +
+        "Screen 1 - iSense Seats 138 Recliner seats 2 Wheelchair spaces",
+    );
+    expect(text).not.toContain("Each screen has wheelchair spaces");
+  });
+
+  it("throws when the page has no cinema guide", () => {
+    expect(() => odeonCinemaGuide(odeonPage({ name: "Acton" }))).toThrow(
+      "Expected the page's cinemaGuide in window.pageData",
+    );
+  });
+
+  it("throws on a box without a title", () => {
+    const value = {
+      cinemaGuide: [{ tabTitle: "Screens", boxes: [{ content: [] }] }],
+    };
+    expect(() => odeonCinemaGuide(odeonPage(value))).toThrow(
+      'Box 0 of the "Screens" tab has no title or content',
     );
   });
 });

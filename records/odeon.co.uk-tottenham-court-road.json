@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.accessable.co.uk/odeon/access-guides/odeon-london-tottenham-court-road",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
     "note": null,
-    "sources": [],
-    "status": "unknown"
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is not an/are not accessible toilet(s) for public use.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-london-tottenham-court-road"
+      }
+    ],
+    "status": "no"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,9 +26,17 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "In the screens",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Assistance dogs are welcomed in the cinema screens.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-london-tottenham-court-road"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -33,25 +49,49 @@
     "conflict": null,
     "last_found": null,
     "note": null,
-    "sources": [],
-    "status": "unknown"
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is step-free access at this entrance.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-london-tottenham-court-road"
+      }
+    ],
+    "status": "yes"
   },
   "hearing_assist_counters": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Fixed loop at the counter",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is a hearing assistance system at the counter(s).",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-london-tottenham-court-road"
+      }
+    ],
+    "status": "yes"
   },
   "id": "odeon.co.uk-tottenham-court-road",
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Other floors by stairs",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Access to other floors/levels is via stairs.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-london-tottenham-court-road"
+      }
+    ],
+    "status": "no"
   },
-  "notes": null,
+  "notes": "ODEON's page has an Accessibility tab shared by many of its cinemas, so nothing is taken from it. The screens are below and above the foyer, reached by stairs.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +99,220 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screens 1-3 has/have stepped access.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-london-tottenham-court-road"
+          }
+        ],
+        "status": "no"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": "The survey's introduction says 2 screens have designated seating for disabled visitors; each screen's own section says it has none.",
+        "count": 0,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is no designated seating available in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-london-tottenham-court-road"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There are 2 screens with designated seating for disabled visitors.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-london-tottenham-court-road"
+          }
+        ],
+        "status": "no"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screens 1-3 has/have stepped access.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-london-tottenham-court-road"
+          }
+        ],
+        "status": "no"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": "The survey's introduction says 2 screens have designated seating for disabled visitors; each screen's own section says it has none.",
+        "count": 0,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is no designated seating available in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-london-tottenham-court-road"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There are 2 screens with designated seating for disabled visitors.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-london-tottenham-court-road"
+          }
+        ],
+        "status": "no"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screens 1-3 has/have stepped access.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-london-tottenham-court-road"
+          }
+        ],
+        "status": "no"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": "The survey's introduction says 2 screens have designated seating for disabled visitors; each screen's own section says it has none.",
+        "count": 0,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is no designated seating available in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-london-tottenham-court-road"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There are 2 screens with designated seating for disabled visitors.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-london-tottenham-court-road"
+          }
+        ],
+        "status": "no"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "A step-free entrance and foyer",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is step-free access at this entrance.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-london-tottenham-court-road"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is step-free access to the cinema foyer.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-london-tottenham-court-road"
+      }
+    ],
+    "status": "yes"
   }
 }

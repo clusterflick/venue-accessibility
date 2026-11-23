@@ -1,26 +1,50 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Foyer - Level 1; Level 2; Level 3; Level 4",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is step-free access into the accessible toilet.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "A separate accessible entrance",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is step-free access at this entrance.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+      }
+    ],
+    "status": "yes"
   },
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "In the screens",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Assistance dogs are welcomed in the cinema screens.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -33,25 +57,56 @@
     "conflict": null,
     "last_found": null,
     "note": null,
-    "sources": [],
-    "status": "unknown"
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is step-free access at this entrance.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+      }
+    ],
+    "status": "yes"
   },
   "hearing_assist_counters": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Fixed loop at the counter",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is a hearing assistance system at the counter(s).",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+      }
+    ],
+    "status": "yes"
   },
   "id": "odeon.co.uk-greenwich",
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Standard lift",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Lift (The Gallery Lift) Photos There is a lift for public use.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "The lift is a standard lift.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "ODEON's page has an Accessibility tab shared by many of its cinemas, so nothing is taken from it.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +114,1478 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row A (front row), in the middle of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row A (front row), in the middle of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By its own step-free entrance to the spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Step free access to the designated seating is via the screen 1 designated seating entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is ramped/sloped access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 6,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 1 Seats 92 Seats 32 Premier seats 6 Wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/greenwich/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 6 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row A (front row), in the middle of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row A (front row), in the middle of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By its own step-free entrance to the spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Step free access to the designated seating is via the screen 2 designated seating entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is ramped/sloped access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 6,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 2 Seats 114 Seats 32 Premier seats 6 Wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/greenwich/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 6 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row A (front row), in the middle of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row A (front row), in the middle of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By its own step-free entrance to the spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Step free access to the designated seating is via the screen 3 designated seating entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is ramped/sloped access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 6,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 3 Seats 122 Seats 44 Premier seats 6 Wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/greenwich/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 6 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 4",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row A (front row), in the middle of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row A (front row), in the middle of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By its own step-free entrance to the spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Step free access to the designated seating is via the screen 4 designated seating entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is ramped/sloped access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 6,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 4 Seats 143 Seats 42 Premier seats 6 Wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/greenwich/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 6 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 5",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row A (front row), in the middle of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row A (front row), in the middle of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By its own step-free entrance to the spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Step free access to the designated seating is via the screen 5 designated seating entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is ramped/sloped access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 6,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 5 Seats 143 Seats 42 Premier seats 6 Wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/greenwich/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 6 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 6",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row A (front row), in the middle of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row A (front row), in the middle of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By its own step-free entrance to the spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Step free access to the designated seating is via the screen 6 designated seating entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is ramped/sloped access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 6,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 6 Seats 118 Seats 44 Premier seats 6 Wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/greenwich/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 6 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 7",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row A (front row), in the middle of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row A (front row), in the middle of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By its own step-free entrance to the spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Step free access to the designated seating is via the screen 7 designated seating entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is ramped/sloped access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 6,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 7 Seats 114 Seats 32 Premier seats 6 Wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/greenwich/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 6 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 8",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row A (front row), in the middle of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row A (front row), in the middle of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By its own step-free entrance to the spaces",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Step free access to the designated seating is via the screen 8 designated seating entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is ramped/sloped access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 6,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 8 Seats 92 Seats 32 Premier seats 6 Wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/greenwich/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 6 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 9",
+      "notes": "ODEON's page calls it \"Screen 9 - IMAX With Laser\".",
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row A (front row), in the middle of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row A (front row), in the middle of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": "ODEON's page gives 6; AccessAble's survey gives 5.",
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 9 - IMAX With Laser Seats 108 Premier seats 172 Standard seats 6 Wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/greenwich/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 5 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 10",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row A (front row), in the middle of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row A (front row), in the middle of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 5,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 10 Seats 155 Seats 117 Premier seats 5 Wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/greenwich/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 5 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 11",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row A (front row), in the middle of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row A (front row), in the middle of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 5,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 11 Seats 174 Seats 136 Premier seats 5 Wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/greenwich/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 5 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 12",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row A (front row), in the middle of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row A (front row), in the middle of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 5,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 12 Seats 125 Seats 92 Premier seats 5 Wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/greenwich/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 5 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 13",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row A (front row), to the left of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row A (front row), to the left of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 13 Seats 34 Seats 12 Premier seats 2 Wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/greenwich/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 2 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 14",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row A (front row), to the right of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row A (front row), to the right of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 14 Seats 36 Seats 12 Premier seats 2 Wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/greenwich/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 2 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 15",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row AA (back row), to the right of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row AA (back row), to the right of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes",
+        "value": "rear"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 1 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 16",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row AA (back row), to the left of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row AA (back row), to the left of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes",
+        "value": "rear"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 1 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 17",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row AA (back row), to the left of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row AA (back row), to the left of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes",
+        "value": "rear"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 1 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 18",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row AA (back row), to the left of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row AA (back row), to the left of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes",
+        "value": "rear"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 1 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "A step-free entrance and foyer",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is step-free access at this entrance.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is step-free access to the cinema foyer.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich"
+      }
+    ],
+    "status": "yes"
   }
 }

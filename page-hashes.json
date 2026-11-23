@@ -95,6 +95,90 @@
     "fetched_on": "2026-11-23",
     "hash": "9340d90d30932512446112d02befb684c7d0d442e7f2e38fc44f3d7c178c83e9"
   },
+  "https://www.accessable.co.uk/leicester-square/access-guides/vue-cinema-london-west-end {\"selector\":\".c-accessGuide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "8b50d31b91eb727db6c0621ec7c776ce5a795babd3d288da6fce8a8c562ee90b"
+  },
+  "https://www.accessable.co.uk/london-borough-of-haringey/access-guides/phoenix-cinema {\"selector\":\".c-accessGuide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "aa05c203abfe3c45e298a7f0b8f307e0e04d144d307783e91ca36b07c87e77b8"
+  },
+  "https://www.accessable.co.uk/london-borough-of-newham/access-guides/vue {\"selector\":\".c-accessGuide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "30a2ff8e3235478823469fb8831dafbfae80db00278d2678abee3345afac6bbf"
+  },
+  "https://www.accessable.co.uk/odeon/access-guides/odeon-beckenham {\"selector\":\".c-accessGuide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "91d00385e51109c388ff2c7b6abe307c3227cb627a6916d24a74e411df6504ca"
+  },
+  "https://www.accessable.co.uk/odeon/access-guides/odeon-greenwich {\"selector\":\".c-accessGuide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "9a9248247a87c185cb2ba7f55826fe1b71e0ec8863738f106531492fe190b816"
+  },
+  "https://www.accessable.co.uk/odeon/access-guides/odeon-kingston {\"selector\":\".c-accessGuide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "e9bf7795bc08833867845c11ae4fa01e76087bf192084dbdb0253c7be1833b06"
+  },
+  "https://www.accessable.co.uk/odeon/access-guides/odeon-london-tottenham-court-road {\"selector\":\".c-accessGuide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "960dde16c3e3335a8c312cbd47f82d82203e8d020b8595f2d5ead5ee2b681961"
+  },
+  "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-dine-islington {\"selector\":\".c-accessGuide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "07486aa9483ef100c7e4177a1aca94077f87bc8f89a268c03e827d1894c4a1dc"
+  },
+  "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-holloway {\"selector\":\".c-accessGuide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "20b5e2230817d23dedcf3dfedd46d97986a8c23e8ec0dce3aec538c466fc360a"
+  },
+  "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-lee-valley {\"selector\":\".c-accessGuide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "1064b16599683339cdc0ec4601c39329083ac2c8a429e94c655a8831077df267"
+  },
+  "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-london-haymarket {\"selector\":\".c-accessGuide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "3062180b4b59bddf74680ac815233802d8778b2e8403891322dfdb770700e7d7"
+  },
+  "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-london-leicester-square {\"selector\":\".c-accessGuide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "083ca1d9c3278ded9666e23d247ecdc9025c0594835a82e181c33ddd285d54e7"
+  },
+  "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-putney {\"selector\":\".c-accessGuide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "497f9eb8e74fe41b979a9680a872d71addf3726099a228fbbfcb5a6e5d40adf1"
+  },
+  "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage {\"selector\":\".c-accessGuide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "3442804e6c9e615aec29d82ef9ad05eb91db9655048323b1083455c306a203c0"
+  },
+  "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-uxbridge {\"selector\":\".c-accessGuide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "bc55d731eca52082d2cea522231c0439c612ceb2d141295e0f5fdc76990b8ee6"
+  },
+  "https://www.accessable.co.uk/odeon/access-guides/odeon-orpington {\"selector\":\".c-accessGuide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "c47dd12809555c2b11c66fb6be12b264454b8aaafc8db574c00f947c54b24d13"
+  },
+  "https://www.accessable.co.uk/odeon/access-guides/odeon-richmond {\"selector\":\".c-accessGuide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "ff62ca393e8fe400e1713d2e10ee22f2ac1ee671e3061fc176a08ce2075a4b9b"
+  },
+  "https://www.accessable.co.uk/odeon/access-guides/odeon-richmond-studio {\"selector\":\".c-accessGuide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "2ca91917a7db97ecfd2f50064d2095bc80d5dfbd1c1eaaa040aa437d0e75d897"
+  },
+  "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford {\"selector\":\".c-accessGuide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "59fc7170f7090500ec6d38a4e53441c12cb3762578f3bdbf775402fdf8cde373"
+  },
+  "https://www.accessable.co.uk/odeon/access-guides/odeon-streatham {\"selector\":\".c-accessGuide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "f0858815c96778ce5283db7a673a1be86ff65d72899d6aeaa6ee100d3882021b"
+  },
+  "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon {\"selector\":\".c-accessGuide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "7cb5ec565c8b47cf05a2f5c25ba87e1c1688fdb4cce75d8fac8499252b610b86"
+  },
   "https://www.accesscard.online/find-a-provider/vue-cinema-london-piccadilly/vue-cinema-london-piccadilly/": {
     "fetched_on": "2026-11-23",
     "hash": "d0835ad54b7077285faaed73dbe6212d55bd8b3a9ccb4674bc1c64fcbdf05dd2"
@@ -170,6 +254,10 @@
   "https://www.cineworld.co.uk/cinemas/x0y86-cineworld-cinema-london-south-ruislip/ {\"text_between\":[\"Frequently asked questions\",\"Cineworld About us\"]}": {
     "fetched_on": "2026-11-23",
     "hash": "43aa62c6f178733547042891a0e3365d6bcdd929539b79a0cfd805d4aa828329"
+  },
+  "https://www.closeupfilmcentre.com/footer/about/": {
+    "fetched_on": "2026-11-23",
+    "hash": "a08b4cc462016e8850bebbec66f2f846781e65b5f90cc3081b1c541c1fa2077c"
   },
   "https://www.davidleancinema.org.uk/access-guide/": {
     "fetched_on": "2026-11-23",
@@ -342,6 +430,82 @@
   "https://www.myvue.com/cinema/wood-green/whats-on {\"text_from\":\"vue-accessibility\"}": {
     "fetched_on": "2026-11-23",
     "hash": "c30591357e929b06c53466bc57b85b123a6e63f7a397cacd6b72522030d81c0a"
+  },
+  "https://www.odeon.co.uk/cinemas/acton/ {\"text_from\":\"odeon-cinema-guide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "9541c2bfac5254b6489d1531e2a4288197d5615f648a8802fb3882e201d83957"
+  },
+  "https://www.odeon.co.uk/cinemas/beckenham/ {\"text_from\":\"odeon-cinema-guide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "af3780b49cdbb879d0e0a354ac766bf6f2ca29577a4785d8cba840f4afbc2689"
+  },
+  "https://www.odeon.co.uk/cinemas/greenwich/ {\"text_from\":\"odeon-cinema-guide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "f9adf9239549b5a12010708ba3e83aee2b33a7a49ba6a200c44fdd8a788299de"
+  },
+  "https://www.odeon.co.uk/cinemas/holloway/ {\"text_from\":\"odeon-cinema-guide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "a5c8938c627ca756228d2febfe8caaf446dc596d17f86e47c223f40efd12c4be"
+  },
+  "https://www.odeon.co.uk/cinemas/islington/ {\"text_from\":\"odeon-cinema-guide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "38c82484c65f4788a61f00ee122b6d5f592cef10611ef677796b053b03535da8"
+  },
+  "https://www.odeon.co.uk/cinemas/kingston/ {\"text_from\":\"odeon-cinema-guide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "73cb27affe8ab5a43f707c7ab3eefd7480b75bea6b07831495c69586a94f1132"
+  },
+  "https://www.odeon.co.uk/cinemas/lee-valley/ {\"text_from\":\"odeon-cinema-guide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "4d40b55575965c0990538dea4cc39d6262cdb775ee82ddabe98233a1f627ae48"
+  },
+  "https://www.odeon.co.uk/cinemas/london-haymarket/ {\"text_from\":\"odeon-cinema-guide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "ce5ff2fe284807b70721939560ea21c16fb30b823a7a8cca124208b7d7ac4efe"
+  },
+  "https://www.odeon.co.uk/cinemas/london-leicester-square/ {\"text_from\":\"odeon-cinema-guide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "abdbfe4505efc733d233eeac376de568b26db3290c21826b129d92bdb4346b02"
+  },
+  "https://www.odeon.co.uk/cinemas/london-tottenham-court-road/ {\"text_from\":\"odeon-cinema-guide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "57577884666da3cddf860382273537ce453ab5d77ba058b28bfc8a261f05bc97"
+  },
+  "https://www.odeon.co.uk/cinemas/london-west-end/ {\"text_from\":\"odeon-cinema-guide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "9ff546341991efa86e0860f02abc57f98d0b90adee3a8a551b48f8e383530dce"
+  },
+  "https://www.odeon.co.uk/cinemas/orpington/ {\"text_from\":\"odeon-cinema-guide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "758511a7e60bc7e0ef7a49dd9f4fad608e6c55537832947f439e3a80104ba595"
+  },
+  "https://www.odeon.co.uk/cinemas/putney/ {\"text_from\":\"odeon-cinema-guide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "4ef3475626481ab030e405b5c2597dbcef38c49df97d3b12f70919c4f916ed1c"
+  },
+  "https://www.odeon.co.uk/cinemas/richmond/ {\"text_from\":\"odeon-cinema-guide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "e072475db75971ffb202966b9232a45863d3f533040fcf54c09aafa2b45378ba"
+  },
+  "https://www.odeon.co.uk/cinemas/south-woodford/ {\"text_from\":\"odeon-cinema-guide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "d9ce19194a0483d12b7d39807c912859d0f53a2475e40019a3f955ca9bb7f738"
+  },
+  "https://www.odeon.co.uk/cinemas/streatham/ {\"text_from\":\"odeon-cinema-guide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "d7969e036150d6763eb1f2465830391c6946eeac2aa0971d663caf7c9bbeccc3"
+  },
+  "https://www.odeon.co.uk/cinemas/swiss-cottage/ {\"text_from\":\"odeon-cinema-guide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "16bd2d6d94bffb4c5f54456cbba4bbd8895296bbb859f635e550871ffe5baf6a"
+  },
+  "https://www.odeon.co.uk/cinemas/uxbridge/ {\"text_from\":\"odeon-cinema-guide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "2131f08d1ec08c14ca2cdf79d1151bc1dd6be837e78b469f8e3cdf9d630c9ca6"
+  },
+  "https://www.odeon.co.uk/cinemas/wimbledon/ {\"text_from\":\"odeon-cinema-guide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "55abe26e5f7a32c16d8cd87bcfe8825eeccbdb74d67c06f0965fc757809df54d"
   },
   "https://www.olympicstudios.com/pages/accessibility": {
     "fetched_on": "2026-11-23",

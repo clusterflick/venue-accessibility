@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-uxbridge",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Two, along the screens corridor",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There are 2 toilets with adaptations.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-uxbridge"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,16 +26,32 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "In the screens; a water bowl is available",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Assistance dogs are welcomed in the cinema screens.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-uxbridge"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Towards the rear of the screens corridor, by Screen 9; RADAR key",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "The Changing Places toilet facilities are located towards the rear of the cinema, along the screens corridor.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-uxbridge"
+      }
+    ],
+    "status": "yes"
   },
   "entrance_step_free": {
     "conflict": null,
@@ -39,9 +63,24 @@
   "hearing_assist_counters": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "At the food and drink counter, where tickets are sold; not signed",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Cinema tickets can be purchased from the food and drink counter.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-uxbridge"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is a fixed hearing assistance system which is not clearly signed.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-uxbridge"
+      }
+    ],
+    "status": "yes"
   },
   "id": "odeon.co.uk-uxbridge",
   "lift": {
@@ -51,7 +90,7 @@
     "sources": [],
     "status": "unknown"
   },
-  "notes": null,
+  "notes": "AccessAble surveyed Screens 1 to 3 in detail; the wheelchair-space counts for every screen are from ODEON's own page. ODEON's page has an Accessibility tab shared by many of its cinemas, so nothing is taken from it.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +98,535 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": "ODEON's page calls it \"Screen 1 - ISENSE\".",
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Areas with step-free level access include screens 1, 2, 3, 4, 5, 6, 7, 8 and 9.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-uxbridge"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The most accessible route to the designated seating has step-free level access.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-uxbridge"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": "In in the middle of Row B",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 1 - ISENSE Seats 117 Recliner seats 2 Wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/uxbridge/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There are 2 designated spaces for wheelchair users.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-uxbridge"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 2",
+      "notes": "ODEON's page calls it \"Screen 2 - IMAX\".",
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Areas with step-free level access include screens 1, 2, 3, 4, 5, 6, 7, 8 and 9.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-uxbridge"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The most accessible route to the designated seating has step-free level access.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-uxbridge"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": "In in the middle of Row A",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 2 - IMAX Seats 140 Recliner seats 2 Wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/uxbridge/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There are 2 designated spaces for wheelchair users.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-uxbridge"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By slight ramps or slopes",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Areas with step-free level access include screens 1, 2, 3, 4, 5, 6, 7, 8 and 9.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-uxbridge"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The most accessible route to the designated seating has slight ramps or slopes.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-uxbridge"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": "In in the middle of Row A",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 3 Seats 86 Recliner seats 6 VIP Beds 2 Wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/uxbridge/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There are 2 designated spaces for wheelchair users.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-uxbridge"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 4",
+      "notes": "AccessAble lists the screen among the cinema's step-free areas but didn't survey the route to its wheelchair spaces.",
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 4 Seats 85 Recliner seats 6 VIP Beds 2 Wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/uxbridge/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 5",
+      "notes": "AccessAble lists the screen among the cinema's step-free areas but didn't survey the route to its wheelchair spaces.",
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 5 Seats 52 Recliner seats 2 Wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/uxbridge/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 6",
+      "notes": "AccessAble lists the screen among the cinema's step-free areas but didn't survey the route to its wheelchair spaces.",
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 6 Seats 71 Recliner seats 2 Wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/uxbridge/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 7",
+      "notes": "AccessAble lists the screen among the cinema's step-free areas but didn't survey the route to its wheelchair spaces.",
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 7 Seats 83 Recliner seats 2 Wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/uxbridge/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 8",
+      "notes": "AccessAble lists the screen among the cinema's step-free areas but didn't survey the route to its wheelchair spaces.",
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 8 Seats 71 Recliner seats 2 Wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/uxbridge/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 9",
+      "notes": "AccessAble lists the screen among the cinema's step-free areas but didn't survey the route to its wheelchair spaces.",
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 9 Seats 85 Recliner Seats 2 Wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/uxbridge/"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Level throughout",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is step-free level access at the most accessible entrance.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-uxbridge"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is step-free level access throughout.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-uxbridge"
+      }
+    ],
+    "status": "yes"
   }
 }
