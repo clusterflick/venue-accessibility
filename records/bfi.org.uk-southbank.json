@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://whatson.bfi.org.uk/Online/article/access-around-bfi-southbank",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "In the NFT1, main and NFT2 foyers, the Riverfront Balcony Bar, and more",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Wheelchair accessible and ambulant toilets are in the:",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://whatson.bfi.org.uk/Online/article/access-around-bfi-southbank"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,9 +26,17 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Guide dogs and assistance animals, in the screens too",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "We welcome guide dogs (and assistance animals) at BFI Southbank and can accommodate them in our screens and other spaces.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://whatson.bfi.org.uk/Online/article/access-around-bfi-southbank"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -39,25 +55,56 @@
   "hearing_assist_counters": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Box office, shop and library",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "We also have induction loops at the box office, the BFI shop and the library.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://whatson.bfi.org.uk/Online/article/accessible-films-screenings-and-events-southbank"
+      }
+    ],
+    "status": "yes"
   },
   "id": "bfi.org.uk-southbank",
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "To every floor; 340kg, scooters up to 880mm by 1330mm",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "BFI Southbank is a multi-level building with lifts available to access each floor.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://whatson.bfi.org.uk/Online/article/access-around-bfi-southbank"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "The maximum weight for the lifts is 340kg.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://whatson.bfi.org.uk/Online/article/access-around-bfi-southbank"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": "Only NFT1 is covered, from the venue hire page; the other screens aren't reviewed yet.",
+  "notes": "The screens are from BFI's accessible screenings page, and NFT1 also from its venue hire page. The seed recorded a conflict over hearing loops with an AccessAble guide that isn't a source here, so it isn't carried over.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "The Mezzanine above the box office, and the Reuben Library",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "If the venue gets too busy or overwhelming, you can use a quiet space.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://whatson.bfi.org.uk/Online/article/access-around-bfi-southbank"
+      }
+    ],
+    "status": "yes"
   },
   "screens": [
     {
@@ -72,6 +119,13 @@
             "source_last_updated": null,
             "tier": 1,
             "url": "https://www.bfi.org.uk/venue-hire/hiring-bfi-southbank/nft1"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "An induction loop is available in all our screens.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://whatson.bfi.org.uk/Online/article/accessible-films-screenings-and-events-southbank"
           }
         ],
         "status": "yes"
@@ -89,6 +143,13 @@
             "source_last_updated": null,
             "tier": 1,
             "url": "https://www.bfi.org.uk/venue-hire/hiring-bfi-southbank/nft1"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "NFT1 has four wheelchair spaces - two at the back and two at the front of the cinema.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://whatson.bfi.org.uk/Online/article/accessible-films-screenings-and-events-southbank"
           }
         ],
         "status": "yes",
@@ -97,9 +158,17 @@
       "step_free": {
         "conflict": null,
         "last_found": null,
-        "note": null,
-        "sources": [],
-        "status": "unknown"
+        "note": "To the spaces in rows N and A, from the BFI Riverfront entrance; other rows are stepped",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to these wheelchair spaces (rows N and A).",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://whatson.bfi.org.uk/Online/article/accessible-films-screenings-and-events-southbank"
+          }
+        ],
+        "status": "yes"
       },
       "transfer_seating": {
         "conflict": null,
@@ -120,6 +189,232 @@
             "source_last_updated": null,
             "tier": 1,
             "url": "https://www.bfi.org.uk/venue-hire/hiring-bfi-southbank/nft1"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "NFT1 has four wheelchair spaces - two at the back and two at the front of the cinema.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://whatson.bfi.org.uk/Online/article/accessible-films-screenings-and-events-southbank"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Induction loop",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "An induction loop is available in all our screens.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://whatson.bfi.org.uk/Online/article/accessible-films-screenings-and-events-southbank"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "NFT2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Front",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There are two wheelchair spaces at the front of the cinema.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://whatson.bfi.org.uk/Online/article/accessible-films-screenings-and-events-southbank"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Every row but M and N at the back",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There's step-free access to all rows, except rows M and N at the rear of the cinema.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://whatson.bfi.org.uk/Online/article/accessible-films-screenings-and-events-southbank"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There are two wheelchair spaces at the front of the cinema.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://whatson.bfi.org.uk/Online/article/accessible-films-screenings-and-events-southbank"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Induction loop",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "An induction loop is available in all our screens.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://whatson.bfi.org.uk/Online/article/accessible-films-screenings-and-events-southbank"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "NFT3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Front, row A",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "NFT3 has one wheelchair space in row A at the front of the cinema, with step-free access.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://whatson.bfi.org.uk/Online/article/accessible-films-screenings-and-events-southbank"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "From the main entrance on Theatre Avenue",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "NFT3 has one wheelchair space in row A at the front of the cinema, with step-free access.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://whatson.bfi.org.uk/Online/article/accessible-films-screenings-and-events-southbank"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": "Row A",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "NFT3 has one wheelchair space in row A at the front of the cinema, with step-free access.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://whatson.bfi.org.uk/Online/article/accessible-films-screenings-and-events-southbank"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Induction loop",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "An induction loop is available in all our screens.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://whatson.bfi.org.uk/Online/article/accessible-films-screenings-and-events-southbank"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "NFT4",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Front",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "NFT4 has one wheelchair space at the front of the cinema.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://whatson.bfi.org.uk/Online/article/accessible-films-screenings-and-events-southbank"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Rows A and B only",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There's only step-free access to rows A and B.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://whatson.bfi.org.uk/Online/article/accessible-films-screenings-and-events-southbank"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "NFT4 has one wheelchair space at the front of the cinema.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://whatson.bfi.org.uk/Online/article/accessible-films-screenings-and-events-southbank"
           }
         ],
         "status": "yes"
@@ -129,8 +424,16 @@
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Every screen by lift or step-free, depending on the entrance",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "All our screens are accessible by lift or step-free depending on which entrance you use.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://whatson.bfi.org.uk/Online/article/access-around-bfi-southbank"
+      }
+    ],
+    "status": "yes"
   }
 }

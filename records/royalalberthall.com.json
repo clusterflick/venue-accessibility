@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.royalalberthall.com/visit/accessibility-at-the-hall/when-youre-here",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Unisex, wheelchair accessible; locations in the Access Guide",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "The Accessible toilets shown in the table are unisex wheelchair accessible, which all have grab rails installed according to Building Regulations Standards where feasible.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.royalalberthall.com/visit/accessibility-at-the-hall/when-youre-here"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,16 +26,32 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Tell the Box Office when booking; dog-sitting by arrangement",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "The Royal Albert Hall welcomes Assistance Dogs that support Disabled people, as per the Equality Act 2010.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.royalalberthall.com/visit/accessibility-at-the-hall/when-youre-here"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Not yet; the Access Guide names the nearest",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "We do not currently have a Changing Places Toilet in the building, but are actively working towards installing one within our Estate Plan.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.royalalberthall.com/visit/accessibility-at-the-hall/when-youre-here"
+      }
+    ],
+    "status": "no"
   },
   "entrance_step_free": {
     "conflict": null,
@@ -48,10 +72,18 @@
     "conflict": null,
     "last_found": null,
     "note": null,
-    "sources": [],
-    "status": "unknown"
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Our lifts have automatic doors, Braille and/or tactile numbering and voice announcements.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.royalalberthall.com/visit/accessibility-at-the-hall/when-youre-here"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "The Hall's detailed access information, including step-free seating, is in a downloadable Access Guide not fetched here. Other entrances than the ramped doors have steps.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +91,78 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": "Wireless receivers with headphones or neck loops; reserve with the Box Office",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The Hall's main auditorium is equipped with a wireless digital assisted listening system that uses radio frequencies.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.royalalberthall.com/visit/accessibility-at-the-hall/when-youre-here"
+          }
+        ],
+        "status": "yes"
+      },
+      "name": "Auditorium",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": "Number not given; booked through the Box Office",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Due to the building's age and Grade I Listing, it is not currently possible for wheelchair users to remain in their wheelchair in all areas; however, a choice of locations is available throughout the auditorium.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.royalalberthall.com/visit/accessibility-at-the-hall/when-youre-here"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Ramped access at Doors 1, 3, 8, 9 and 12",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Ramped access is via Doors 1, 3, 8, 9 and 12.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.royalalberthall.com/visit/accessibility-at-the-hall/when-youre-here"
+      }
+    ],
+    "status": "yes"
   }
 }

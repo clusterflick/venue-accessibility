@@ -6,6 +6,16 @@
       "url": "https://actonecinema.co.uk/ActOneCinema.dll/Page?p=4899&m=m&sp=6389"
     }
   ],
+  "adventurecinema.co.uk-kew-gardens": [
+    {
+      "text_between": [
+        "Accessibility Accessibility at Kew Gardens",
+        "Getting Here Where is Kew Gardens?"
+      ],
+      "tier": 1,
+      "url": "https://adventurecinema.co.uk/venues/kew-gardens/"
+    }
+  ],
   "alexandrapalace.com": [
     {
       "tier": 1,
@@ -21,7 +31,7 @@
       "escalate": ".c-accessGuide",
       "selector": ".c-accessGuide",
       "tier": 2,
-      "url": "https://www.accessable.co.uk/venues/arthouse-crouch-end"
+      "url": "https://www.accessable.co.uk/london-borough-of-haringey/access-guides/arthouse-crouch-end"
     },
     {
       "tier": 3,
@@ -40,12 +50,31 @@
   ],
   "bfi.org.uk-imax": [
     {
+      "escalate": "#content",
+      "text_between": [
+        "Find out what accessible facilities",
+        "Add a promo code"
+      ],
       "tier": 1,
-      "url": "https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=access-information"
+      "url": "https://whatson.bfi.org.uk/imax/Online/article/access-around-bfi-imax"
     }
   ],
   "bfi.org.uk-southbank": [
     {
+      "escalate": "#content",
+      "text_between": [
+        "Find out what accessible facilities",
+        "Add a promo code"
+      ],
+      "tier": 1,
+      "url": "https://whatson.bfi.org.uk/Online/article/access-around-bfi-southbank"
+    },
+    {
+      "escalate": "#content",
+      "text_between": [
+        "Find out what types of access screenings",
+        "Add a promo code"
+      ],
       "tier": 1,
       "url": "https://whatson.bfi.org.uk/Online/article/accessible-films-screenings-and-events-southbank"
     },
@@ -91,7 +120,7 @@
       "escalate": ".c-accessGuide",
       "selector": ".c-accessGuide",
       "tier": 2,
-      "url": "https://www.accessable.co.uk/venues/cinema-museum"
+      "url": "https://www.accessable.co.uk/london-borough-of-lambeth/access-guides/cinema-museum"
     }
   ],
   "cineworld.co.uk-bexleyheath": [
@@ -178,8 +207,24 @@
       "url": "https://www.cineworld.co.uk/cinemas/x06xs-cineworld-cinema-london-wood-green/"
     }
   ],
+  "claphamgrand.com": [
+    {
+      "escalate": "#mainSiteContent",
+      "text_between": [
+        "Accessibility Email:",
+        "THE CLAPHAM GRAND CLAPHAM JUNCTION"
+      ],
+      "tier": 1,
+      "url": "https://claphamgrand.com/accessibility/"
+    }
+  ],
   "closeupfilmcentre.com": [
     {
+      "escalate": ".nav_wrap",
+      "text_between": [
+        "About Close-Up makes film culture",
+        "Close-Up Film Centre 97 Sclater Street"
+      ],
       "tier": 1,
       "url": "https://www.closeupfilmcentre.com/footer/about/"
     }
@@ -462,12 +507,6 @@
     {
       "tier": 1,
       "url": "https://www.genesiscinema.co.uk/articleimages/private%20hire%20guide%20-%20july%202026_compressed.pdf"
-    },
-    {
-      "escalate": ".c-accessGuide",
-      "selector": ".c-accessGuide",
-      "tier": 2,
-      "url": "https://www.accessable.co.uk/venues/genesis-cinema"
     }
   ],
   "ica.art": [
@@ -488,6 +527,14 @@
     {
       "tier": 1,
       "url": "https://www.institut-francais.org.uk/visit-contact-us/"
+    }
+  ],
+  "jw3.org.uk": [
+    {
+      "escalate": "#content",
+      "selector": "main",
+      "tier": 1,
+      "url": "https://www.jw3.org.uk/accessibility-fmq7"
     }
   ],
   "kilntheatre.com": [
@@ -1017,7 +1064,7 @@
       "escalate": ".c-accessGuide",
       "selector": ".c-accessGuide",
       "tier": 2,
-      "url": "https://www.accessable.co.uk/venues/regent-street-cinema"
+      "url": "https://www.accessable.co.uk/university-of-westminster/regent-street-campus/access-guides/regent-street-cinema-london"
     }
   ],
   "richmix.org.uk": [
@@ -1032,6 +1079,8 @@
       "url": "https://riocinema.org.uk/Rio.dll/Page?p=20275&m=m&sp=32430"
     },
     {
+      "escalate": "#service_page",
+      "selector": "#page-content-main",
       "tier": 2,
       "url": "https://www.hackneylocaloffer.co.uk/kb5/hackney/localoffer/service.page?id=4tzNt0cTcZY"
     }
@@ -1040,6 +1089,17 @@
     {
       "tier": 1,
       "url": "https://riversidestudios.co.uk/plan-your-visit/accessibility/"
+    }
+  ],
+  "royalalberthall.com": [
+    {
+      "escalate": "#page-content",
+      "text_between": [
+        "Getting Around The Royal Albert Hall has many entrances",
+        "Cloakrooms for Coats and Belongings"
+      ],
+      "tier": 1,
+      "url": "https://www.royalalberthall.com/visit/accessibility-at-the-hall/when-youre-here"
     }
   ],
   "sciencemuseum.org.uk": [
@@ -1054,6 +1114,14 @@
       ],
       "tier": 1,
       "url": "https://www.sciencemuseum.org.uk/imax-cinema"
+    }
+  ],
+  "southbankcentre.co.uk": [
+    {
+      "escalate": "#main-content",
+      "selector": "#main-content",
+      "tier": 1,
+      "url": "https://www.southbankcentre.co.uk/visit-us/access/"
     }
   ],
   "tate.org.uk-tate-britain": [
