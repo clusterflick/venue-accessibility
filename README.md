@@ -379,6 +379,14 @@ Finsbury Park's page conflicts with itself but isn't recorded as a conflict.
 Picturehouse Central's does too: Screen 2 has "No. of wheelchair spaces: 2" and
 lists three seats.
 
+ODEON's own page and AccessAble's surveys disagree on wheelchair-space counts
+at Greenwich Screen 9 (6 vs 5), every Islington screen (1 vs 2), Kingston
+Screens 2 (4 vs 5), 4 (1 vs 2) and 12 (0 vs 2), Wimbledon Screen 1 (2 vs 3) and
+Richmond Screen 7 (1, against a survey that gives it no designated seating).
+AccessAble's Tottenham Court Road survey contradicts itself: its introduction
+says two screens have designated seating, each screen's section says none.
+AccessAble shows no survey date, so these can't be weighed by age.
+
 Time-sensitive: the Garden Cinema's Screen 3 platform lift was out of service
 when checked, the Castle's lift planning appeal is pending, and Greenwich
 Picturehouse's Screen 5 currently has no step-free access. Cineworld Wood
