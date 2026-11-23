@@ -365,12 +365,18 @@
       "text_between": ["Next 7 days", "Sign up to our newsletter"],
       "tier": 1,
       "url": "https://www.everymancinema.com/venues-list/x0712-everyman-baker-street/"
+    },
+    {
+      "selector": ".fw-content--single-article",
+      "tier": 1,
+      "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282522-baker-street-accessibility-guide"
     }
   ],
   "everymancinema.com-barnet": [
     {
       "tier": 1,
-      "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282523-barnet-accessibility-guide"
+      "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282523-barnet-accessibility-guide",
+      "selector": ".fw-content--single-article"
     },
     {
       "tier": 1,
@@ -382,6 +388,11 @@
       "text_between": ["Next 7 days", "Sign up to our newsletter"],
       "tier": 1,
       "url": "https://www.everymancinema.com/venues-list/x077p-everyman-belsize-park/"
+    },
+    {
+      "selector": ".fw-content--single-article",
+      "tier": 1,
+      "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282524-belsize-park-accessibility-guide"
     }
   ],
   "everymancinema.com-borough-yards": [
@@ -389,6 +400,11 @@
       "text_between": ["Next 7 days", "Sign up to our newsletter"],
       "tier": 1,
       "url": "https://www.everymancinema.com/venues-list/g011i-everyman-borough-yards/"
+    },
+    {
+      "selector": ".fw-content--single-article",
+      "tier": 1,
+      "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282525-borough-yards-accessibility-guide"
     }
   ],
   "everymancinema.com-brentford": [
@@ -396,12 +412,18 @@
       "text_between": ["Next 7 days", "Sign up to our newsletter"],
       "tier": 1,
       "url": "https://www.everymancinema.com/venues-list/g049a-everyman-brentford/"
+    },
+    {
+      "selector": ".fw-content--single-article",
+      "tier": 1,
+      "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282526-brentford-accessibility-guide"
     }
   ],
   "everymancinema.com-broadgate": [
     {
       "tier": 1,
-      "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282528-broadgate-accessibility-guide"
+      "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282528-broadgate-accessibility-guide",
+      "selector": ".fw-content--single-article"
     },
     {
       "tier": 1,
@@ -413,6 +435,11 @@
       "text_between": ["Next 7 days", "Sign up to our newsletter"],
       "tier": 1,
       "url": "https://www.everymancinema.com/venues-list/x0vpb-everyman-canary-wharf/"
+    },
+    {
+      "selector": ".fw-content--single-article",
+      "tier": 1,
+      "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282529-canary-wharf-accessibility-guide"
     }
   ],
   "everymancinema.com-chelsea": [
@@ -420,6 +447,11 @@
       "text_between": ["Next 7 days", "Sign up to our newsletter"],
       "tier": 1,
       "url": "https://www.everymancinema.com/venues-list/x078x-everyman-chelsea/"
+    },
+    {
+      "selector": ".fw-content--single-article",
+      "tier": 1,
+      "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282530-chelsea-accessibility-guide"
     }
   ],
   "everymancinema.com-crystal-palace": [
@@ -427,6 +459,11 @@
       "text_between": ["Next 7 days", "Sign up to our newsletter"],
       "tier": 1,
       "url": "https://www.everymancinema.com/venues-list/x11dr-everyman-crystal-palace/"
+    },
+    {
+      "selector": ".fw-content--single-article",
+      "tier": 1,
+      "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282532-crystal-palace-accessibility-guide"
     }
   ],
   "everymancinema.com-hampstead": [
@@ -434,6 +471,11 @@
       "text_between": ["Next 7 days", "Sign up to our newsletter"],
       "tier": 1,
       "url": "https://www.everymancinema.com/venues-list/x06zw-everyman-hampstead/"
+    },
+    {
+      "selector": ".fw-content--single-article",
+      "tier": 1,
+      "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282533-hampstead-accessibility-guide"
     },
     {
       "tier": 1,
@@ -445,6 +487,11 @@
       "text_between": ["Next 7 days", "Sign up to our newsletter"],
       "tier": 1,
       "url": "https://www.everymancinema.com/venues-list/x0x5p-everyman-kings-cross/"
+    },
+    {
+      "selector": ".fw-content--single-article",
+      "tier": 1,
+      "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282534-king-s-cross-accessibility-guide"
     }
   ],
   "everymancinema.com-maida-vale": [
@@ -452,12 +499,18 @@
       "text_between": ["Next 7 days", "Sign up to our newsletter"],
       "tier": 1,
       "url": "https://www.everymancinema.com/venues-list/x0lwi-everyman-maida-vale/"
+    },
+    {
+      "selector": ".fw-content--single-article",
+      "tier": 1,
+      "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282535-maida-vale-accessibility-guide"
     }
   ],
   "everymancinema.com-muswell-hill": [
     {
       "tier": 1,
-      "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282536-muswell-hill-accessibility-guide"
+      "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282536-muswell-hill-accessibility-guide",
+      "selector": ".fw-content--single-article"
     },
     {
       "tier": 1,
@@ -469,6 +522,11 @@
       "text_between": ["Next 7 days", "Sign up to our newsletter"],
       "tier": 1,
       "url": "https://www.everymancinema.com/venues-list/x077o-everyman-screen-on-the-green/"
+    },
+    {
+      "selector": ".fw-content--single-article",
+      "tier": 1,
+      "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282537-screen-on-the-green-accessibility-guide"
     }
   ],
   "everymancinema.com-stratford-international": [
@@ -476,6 +534,11 @@
       "text_between": ["Next 7 days", "Sign up to our newsletter"],
       "tier": 1,
       "url": "https://www.everymancinema.com/venues-list/g029x-everyman-stratford-international/"
+    },
+    {
+      "selector": ".fw-content--single-article",
+      "tier": 1,
+      "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282538-stratford-international-accessibility-guide"
     }
   ],
   "everymancinema.com-the-whiteley": [

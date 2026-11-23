@@ -43,17 +43,65 @@
     "fetched_on": "2026-11-23",
     "hash": "51d164acdafe943955e08e7248515ac3af908cd9a8fc1bd67c5eaf2bbae7df4a"
   },
-  "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282523-barnet-accessibility-guide": {
+  "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282522-baker-street-accessibility-guide {\"selector\":\".fw-content--single-article\"}": {
     "fetched_on": "2026-11-23",
-    "hash": "10b63f09ca7b65f0ca3797cedb03e44ad94a1f478d0e38dbc4bbefa849c59ac1"
+    "hash": "036aff0ec568cc6926e7c969700d21588e99d76f935562e7721bea2e9c0e0f22"
   },
-  "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282528-broadgate-accessibility-guide": {
+  "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282523-barnet-accessibility-guide {\"selector\":\".fw-content--single-article\"}": {
     "fetched_on": "2026-11-23",
-    "hash": "95468337f42e4f08c2197b968460f24015dcc35a4f7468c9428c95d081f4b16a"
+    "hash": "f294eddb6c6d6a550e25798f0b39b7197d11b8ffb32c7d794118f06ede50e187"
   },
-  "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282536-muswell-hill-accessibility-guide": {
+  "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282524-belsize-park-accessibility-guide {\"selector\":\".fw-content--single-article\"}": {
     "fetched_on": "2026-11-23",
-    "hash": "616912da1a8e0a0d6246c8b4cb8fe120e4b2a4c37b8ec9e3cddd31b24561edcb"
+    "hash": "ce747e89899b6a93ac9bc66857e31cbd924e7fd63df7ac5d18b696dce2fac55a"
+  },
+  "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282525-borough-yards-accessibility-guide {\"selector\":\".fw-content--single-article\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "1718e0e11365fe5d4133c406075a17549e20410cfd8c30a398dc2db88622365b"
+  },
+  "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282526-brentford-accessibility-guide {\"selector\":\".fw-content--single-article\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "982ffb3998e5cee0740b47563b9d08cc53f98122a88b1ca0f2509fee9cd7b15b"
+  },
+  "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282528-broadgate-accessibility-guide {\"selector\":\".fw-content--single-article\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "99d091f19c0a1ed3247fd92317434a88dfc20b7780007d420bc6ed73bd0a63d7"
+  },
+  "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282529-canary-wharf-accessibility-guide {\"selector\":\".fw-content--single-article\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "a30f8fde3528dc6520c17bbfa146564dccada589246dfad8253a19b71e4c9fef"
+  },
+  "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282530-chelsea-accessibility-guide {\"selector\":\".fw-content--single-article\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "854d22a87b53caca831205992da8e001e1961f387ee5eba28dd3ec0edee9aaaa"
+  },
+  "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282532-crystal-palace-accessibility-guide {\"selector\":\".fw-content--single-article\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "231d4f90cac3d8494088ac7d87b0100410c930b91bf93e053339eaa129ce3654"
+  },
+  "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282533-hampstead-accessibility-guide {\"selector\":\".fw-content--single-article\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "ad745064515ebbc557b7fe29d5815932e479f06102de911b87d358f79976288f"
+  },
+  "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282534-king-s-cross-accessibility-guide {\"selector\":\".fw-content--single-article\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "d3e54c2b0fe97eabed8186d5a2623acabbedb7100cdef5b9ae81a22dbdb77bc9"
+  },
+  "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282535-maida-vale-accessibility-guide {\"selector\":\".fw-content--single-article\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "896cd46fb0a20d362d86277ab34b8876c76e7970ec6ddd1668ded2da4f76e6e2"
+  },
+  "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282536-muswell-hill-accessibility-guide {\"selector\":\".fw-content--single-article\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "0674fb157c7d93e8cf888c2a742413963dbe4c83f5b1f38a9022d74bc922290a"
+  },
+  "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282537-screen-on-the-green-accessibility-guide {\"selector\":\".fw-content--single-article\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "89804b73315d5acd778c42dce288d73ce2e4d05b3160d7bfe3766487c6e6f78d"
+  },
+  "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282538-stratford-international-accessibility-guide {\"selector\":\".fw-content--single-article\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "e606557b3b368aaea82cab139b1c3532825290ad87cdfc16271a6e95e1865aaa"
   },
   "https://kilntheatre.com/your-visit/access/ {\"text_between\":[\"For general safety information click here\",\"Newsletter Sign Up\"]}": {
     "fetched_on": "2026-11-23",
@@ -286,10 +334,6 @@
   "https://www.cineworld.co.uk/cinemas/x0y86-cineworld-cinema-london-south-ruislip/ {\"text_between\":[\"Frequently asked questions\",\"Cineworld About us\"]}": {
     "fetched_on": "2026-11-23",
     "hash": "43aa62c6f178733547042891a0e3365d6bcdd929539b79a0cfd805d4aa828329"
-  },
-  "https://www.closeupfilmcentre.com/footer/about/": {
-    "fetched_on": "2026-11-23",
-    "hash": "a08b4cc462016e8850bebbec66f2f846781e65b5f90cc3081b1c541c1fa2077c"
   },
   "https://www.closeupfilmcentre.com/footer/about/ {\"text_between\":[\"About Close-Up makes film culture\",\"Close-Up Film Centre 97 Sclater Street\"]}": {
     "fetched_on": "2026-11-23",
