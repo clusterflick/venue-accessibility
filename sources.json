@@ -763,6 +763,12 @@
       "selector": ".c-accessGuide",
       "tier": 2,
       "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-richmond"
+    },
+    {
+      "escalate": ".c-accessGuide",
+      "selector": ".c-accessGuide",
+      "tier": 2,
+      "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-richmond-studio"
     }
   ],
   "odeon.co.uk-south-woodford": [

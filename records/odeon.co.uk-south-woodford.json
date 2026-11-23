@@ -1,26 +1,50 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Foyer",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is step-free access into the accessible toilet.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "A separate accessible entrance",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is ramped/sloped access at this entrance.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford"
+      }
+    ],
+    "status": "yes"
   },
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "In the screens",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Assistance dogs are welcomed in the cinema screens.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -32,26 +56,50 @@
   "entrance_step_free": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "By ramp or slope",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is ramped/sloped access at this entrance.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford"
+      }
+    ],
+    "status": "yes"
   },
   "hearing_assist_counters": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Fixed loop at the counter",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is a hearing assistance system at the counter(s).",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford"
+      }
+    ],
+    "status": "yes"
   },
   "id": "odeon.co.uk-south-woodford",
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Other floors by stairs",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Access to other floors/levels is via stairs.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford"
+      }
+    ],
+    "status": "no"
   },
-  "notes": null,
+  "notes": "ODEON's page has an Accessibility tab shared by many of its cinemas, so nothing is taken from it.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +107,469 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By ramp or slope",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is ramped/sloped access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 1 Seats 205 Seats 65 Premier seats 2 Wheelchair Spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/south-woodford/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 2 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By ramp or slope",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is ramped/sloped access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 2 Seats 156 Seats 27 Premier seats 2 Wheelchair Spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/south-woodford/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 2 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By ramp or slope",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is ramped/sloped access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 3 Seats 109 Seats 24 Premier seats 2 Wheelchair Spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/south-woodford/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 2 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 4",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screens 4, 5, 6 and 7 has/have stepped access.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford"
+          }
+        ],
+        "status": "no"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 0,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is no designated seating for this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford"
+          }
+        ],
+        "status": "no"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 5",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screens 4, 5, 6 and 7 has/have stepped access.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford"
+          }
+        ],
+        "status": "no"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 0,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is no designated seating for this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford"
+          }
+        ],
+        "status": "no"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 6",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screens 4, 5, 6 and 7 has/have stepped access.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford"
+          }
+        ],
+        "status": "no"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 0,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is no designated seating for this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford"
+          }
+        ],
+        "status": "no"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 7",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screens 4, 5, 6 and 7 has/have stepped access.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford"
+          }
+        ],
+        "status": "no"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 0,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is no designated seating for this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford"
+          }
+        ],
+        "status": "no"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "By ramp or slope, then a step-free foyer",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is ramped/sloped access at this entrance.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is step-free access to the cinema foyer.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford"
+      }
+    ],
+    "status": "yes"
   }
 }

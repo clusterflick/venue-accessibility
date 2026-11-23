@@ -163,6 +163,10 @@
     "fetched_on": "2026-11-23",
     "hash": "ff62ca393e8fe400e1713d2e10ee22f2ac1ee671e3061fc176a08ce2075a4b9b"
   },
+  "https://www.accessable.co.uk/odeon/access-guides/odeon-richmond-studio {\"selector\":\".c-accessGuide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "2ca91917a7db97ecfd2f50064d2095bc80d5dfbd1c1eaaa040aa437d0e75d897"
+  },
   "https://www.accessable.co.uk/odeon/access-guides/odeon-south-woodford {\"selector\":\".c-accessGuide\"}": {
     "fetched_on": "2026-11-23",
     "hash": "59fc7170f7090500ec6d38a4e53441c12cb3762578f3bdbf775402fdf8cde373"
@@ -250,6 +254,10 @@
   "https://www.cineworld.co.uk/cinemas/x0y86-cineworld-cinema-london-south-ruislip/ {\"text_between\":[\"Frequently asked questions\",\"Cineworld About us\"]}": {
     "fetched_on": "2026-11-23",
     "hash": "43aa62c6f178733547042891a0e3365d6bcdd929539b79a0cfd805d4aa828329"
+  },
+  "https://www.closeupfilmcentre.com/footer/about/": {
+    "fetched_on": "2026-11-23",
+    "hash": "a08b4cc462016e8850bebbec66f2f846781e65b5f90cc3081b1c541c1fa2077c"
   },
   "https://www.davidleancinema.org.uk/access-guide/": {
     "fetched_on": "2026-11-23",

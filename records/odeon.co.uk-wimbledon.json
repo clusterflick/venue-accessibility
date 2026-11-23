@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Next to Screen 5; Screen 7",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is step-free access into the accessible toilet.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,9 +26,17 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "In the screens",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Assistance dogs are welcomed in the cinema screens.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -39,19 +55,42 @@
   "hearing_assist_counters": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Fixed loop at the counter",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is a hearing assistance system at the counter(s).",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+      }
+    ],
+    "status": "yes"
   },
   "id": "odeon.co.uk-wimbledon",
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Standard lift, out of order when surveyed",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Lift (Out of Order) Photos There is a lift for public use.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "The lift is a standard lift.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "ODEON's page has an Accessibility tab shared by many of its cinemas, so nothing is taken from it.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +98,960 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": "ODEON's page gives 2; AccessAble's survey gives 3.",
+        "count": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 1 Seats 199 Seats 28 Premier seats 2 Wheelchair Spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/wimbledon/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 3 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 4,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 2 Seats 201 Seats 24 Premier seats 4 Wheelchair Spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/wimbledon/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 4 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row B at the front of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row B at the front of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By ramp or slope",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is ramped/sloped access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 3,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 3 Seats 217 Seats 27 Premier seats 3 Wheelchair Spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/wimbledon/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 3 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 4",
+      "notes": "ODEON's page calls it \"Screen 4 - IMAX\".",
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row C at the front of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row C at the front of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By ramp or slope",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is ramped/sloped access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 4,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 4 - IMAX Seats 115 Premier seats 204 Standard seats 4 Wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/wimbledon/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 4 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 5",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row B at the front of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row B at the front of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By ramp or slope",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is ramped/sloped access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 5 Seats 203 Seats 32 Premier seats 2 Wheelchair Spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/wimbledon/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 2 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 6",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row K at the rear of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row K at the rear of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes",
+        "value": "rear"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 6 Seats 171 Seats 28 Premier seats 2 Wheelchair Spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/wimbledon/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 2 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 7",
+      "notes": "ODEON's page calls it \"Screen 7 - XL\".",
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row D at the front of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row D at the front of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By ramp or slope",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is ramped/sloped access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 4,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 7 - XL Seats 376 Seats 42 Premier seats 4 Wheelchair Spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/wimbledon/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 4 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 8",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row J, at the rear of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row J, at the rear of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes",
+        "value": "rear"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 8 Seats 188 Seats 30 Premier seats 2 Wheelchair Spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/wimbledon/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 2 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 9",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row D at the front of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row D at the front of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By ramp or slope",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is ramped/sloped access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 3,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 9 Seats 253 Seats 48 Premier seats 3 Wheelchair Spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/wimbledon/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 3 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 10",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row K at the rear of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row K at the rear of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes",
+        "value": "rear"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 10 Seats 170 Seats 28 Premier seats 2 Wheelchair Spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/wimbledon/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 2 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 11",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row B at the front of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row B at the front of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By ramp or slope",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is ramped/sloped access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 4,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 11 Seats 232 Seats 32 Premier seats 4 Wheelchair Spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/wimbledon/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 4 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 12",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row B at the front of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row B at the front of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes",
+        "value": "front"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By ramp or slope",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is ramped/sloped access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 12 Seats 213 Seats 27 Premier seats 2 Wheelchair Spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/wimbledon/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 2 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "A step-free entrance and foyer",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is step-free access at this entrance.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is step-free access to the cinema foyer.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon"
+      }
+    ],
+    "status": "yes"
   }
 }

@@ -1,26 +1,50 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Costa; Foyer; Second Floor",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is step-free access into the accessible toilet.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "A separate accessible entrance",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is step-free access at this entrance.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+      }
+    ],
+    "status": "yes"
   },
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "In the screens",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Assistance dogs are welcomed in the cinema screens.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -32,26 +56,57 @@
   "entrance_step_free": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Steps",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is stepped access at this entrance.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+      }
+    ],
+    "status": "no"
   },
   "hearing_assist_counters": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Fixed loop at the counter",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is a hearing assistance system at the counter(s).",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+      }
+    ],
+    "status": "yes"
   },
   "id": "odeon.co.uk-swiss-cottage",
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Platform lift and standard lift",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Lift (Screen 3) Photos There is a lift for public use.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "The lift is a platform lift.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "ODEON's page has an Accessibility tab shared by many of its cinemas, so nothing is taken from it.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +114,430 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": "ODEON's page calls it \"Screen 1 - IMAX\".",
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "at the rear of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located at the rear of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+          }
+        ],
+        "status": "yes",
+        "value": "rear"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By its accessible entrance on the second floor, from the lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "This information is for the entrance located on the second floor, to the right as you exit the lift.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 4,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 1 - IMAX Seats 184 Recliner seats 4 Wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/swiss-cottage/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 4 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 2",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row F at the rear of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row F at the rear of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+          }
+        ],
+        "status": "yes",
+        "value": "rear"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By ramp or slope",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is ramped/sloped access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 2 Seats 66 Recliner Seats 2 Wheelchair Spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/swiss-cottage/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 2 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 3",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row E at the rear of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row E at the rear of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+          }
+        ],
+        "status": "yes",
+        "value": "rear"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By a platform lift that staff operate",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is level access via lift or stepped access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "A member of staff is required to operate the lift.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 3 Seats 44 Recliner Seats 1 Wheelchair Space",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/swiss-cottage/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 1 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 4",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row D at the rear of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row D at the rear of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+          }
+        ],
+        "status": "yes",
+        "value": "rear"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 4 Seats 44 Recliner Seats 1 Wheelchair Space",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/swiss-cottage/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 1 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 5",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": "in Row D at the rear of the screen",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The designated seating area(s) is/are located in Row D at the rear of the screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+          }
+        ],
+        "status": "yes",
+        "value": "rear"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access at this entrance.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is step-free access to the designated seating area(s).",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 5 Seats 44 Recliner Seats 1 Wheelchair Space",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.odeon.co.uk/cinemas/swiss-cottage/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "There is/are 1 designated space(s) for wheelchair users in this screen.",
+            "source_last_updated": null,
+            "tier": 2,
+            "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "A step-free entrance and foyer",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is step-free access at this entrance.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is step-free access to the cinema foyer.",
+        "source_last_updated": null,
+        "tier": 2,
+        "url": "https://www.accessable.co.uk/odeon/access-guides/odeon-luxe-swiss-cottage"
+      }
+    ],
+    "status": "yes"
   }
 }
