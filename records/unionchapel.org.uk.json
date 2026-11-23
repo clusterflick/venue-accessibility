@@ -1,19 +1,42 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://unionchapel.org.uk/venue/accessibility",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "One, on the ground floor, beside the stage",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is one wheelchair accessible toilet located on the ground floor, accessed from the right hand side of the stage in the Chapel.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://unionchapel.org.uk/venue/accessibility"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Ground level, at the back; advised for powered wheelchairs, with a staff escort",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "We also have an alternative entrance which is ground level.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://unionchapel.org.uk/venue/accessibility"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "It is safest for electric wheelchair users to gain access via the rear of the Chapel.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://unionchapel.org.uk/venue/accessibility"
+      }
+    ],
+    "status": "yes"
   },
   "assistance_dogs": {
     "conflict": null,
@@ -32,9 +55,17 @@
   "entrance_step_free": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Three steps; staff put out a ramp",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Access to the Chapel is via the main entrance has three stone steps to the doors of the Chapel. We can ensure there is a ramp ready for entry with door staff on hand for any assistance if this is suitable for your requirements.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://unionchapel.org.uk/venue/accessibility"
+      }
+    ],
+    "status": "partial"
   },
   "hearing_assist_counters": {
     "conflict": null,
@@ -47,11 +78,19 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "A stair/platform lift to the bar only, 300kg",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Step free access to the bar is available with a stair/platform lift.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://unionchapel.org.uk/venue/accessibility"
+      }
+    ],
+    "status": "partial"
   },
-  "notes": null,
+  "notes": "The page says wheelchair spaces are booked online with a Nimbus Access Card, and that there's an induction loop (ask ahead), without giving a number of spaces or saying which room the loop serves. The listings name no screen.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -63,8 +102,23 @@
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "By a ramp at the main entrance, or a ground-level entrance at the back",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Access to the Chapel is via the main entrance has three stone steps to the doors of the Chapel. We can ensure there is a ramp ready for entry with door staff on hand for any assistance if this is suitable for your requirements.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://unionchapel.org.uk/venue/accessibility"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "We also have an alternative entrance which is ground level.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://unionchapel.org.uk/venue/accessibility"
+      }
+    ],
+    "status": "yes"
   }
 }

@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.tate.org.uk/visit/tate-britain",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "On the lower floor",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Accessible and standard toilets, along with baby changing facilities are located on the Lower Floor.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.tate.org.uk/visit/tate-britain"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -19,22 +27,53 @@
     "conflict": null,
     "last_found": null,
     "note": null,
-    "sources": [],
-    "status": "unknown"
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "We welcome guide dogs, hearing dogs and assistance dogs in the gallery.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.tate.org.uk/visit/tate-britain"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "On the lower floor; RADAR key from the John Islip Street reception",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "A Changing Places toilet is also located on the Lower Floor",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.tate.org.uk/visit/tate-britain"
+      }
+    ],
+    "status": "yes"
   },
   "entrance_step_free": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "The Manton entrance, by ramp; the Millbank entrance is closed until 2027",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "The Millbank entrance will be closed until 2027 for the construction of the Clore Garden. Please use the Manton Entrance on Atterbury Street.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.tate.org.uk/visit/tate-britain"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is a ramp down to the Manton entrance with central handrails.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.tate.org.uk/visit/tate-britain"
+      }
+    ],
+    "status": "yes"
   },
   "hearing_assist_counters": {
     "conflict": null,
@@ -47,24 +86,55 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "From the lower floor to the main floor, and to the upper floor",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "A large lift near the Manton Entrance gives access up to the gallery areas on the main floor.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.tate.org.uk/visit/tate-britain"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "The page says the Auditorium and the Manton Studio have hearing loops, and says nothing of wheelchair spaces in them. The listings name no screen, so which room a screening is in isn't known.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "On the main floor, next to the Play Studio",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "A quiet room is available to use on the main floor, adjacent to the Play Studio.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.tate.org.uk/visit/tate-britain"
+      }
+    ],
+    "status": "yes"
   },
   "screens": [],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "By ramp to the Manton entrance, on Atterbury Street",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is a ramp down to the Manton entrance with central handrails.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.tate.org.uk/visit/tate-britain"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "The Manton entrance has automatic sliding doors.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.tate.org.uk/visit/tate-britain"
+      }
+    ],
+    "status": "yes"
   }
 }
