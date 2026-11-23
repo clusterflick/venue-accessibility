@@ -1,26 +1,50 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://claphamgrand.com/accessibility/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Step-free from the access area in the stalls",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There are good site lines to the stage with step free entry to our access toilet, which is located within the gender neutral toilet block.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://claphamgrand.com/accessibility/"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "A ramp at the side of the venue on Severus Road",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "We can provide ramped access into our venue at the side of the venue on Severus Road.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://claphamgrand.com/accessibility/"
+      }
+    ],
+    "status": "yes"
   },
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Trained assistance dogs; tell them ahead",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Trained assistance dogs are welcome in our venue.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://claphamgrand.com/accessibility/"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -51,20 +75,43 @@
     "sources": [],
     "status": "unknown"
   },
-  "notes": null,
+  "notes": "The access area is in the stalls, on the left facing the stage; most events are run by promoters who hire the venue. The listings name no screen.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Usually available; ask ahead",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "although we usually have things in place such as quiet rooms",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://claphamgrand.com/accessibility/"
+      }
+    ],
+    "status": "partial"
   },
   "screens": [],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "By ramp at the side, on Severus Road; not to the circles",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "We can provide ramped access into our venue at the side of the venue on Severus Road.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://claphamgrand.com/accessibility/"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Unfortunately we do not have step free access to the circle or upper circle of the venue, and the bar in the stalls is located 5 steps up from our access area.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://claphamgrand.com/accessibility/"
+      }
+    ],
+    "status": "yes"
   }
 }

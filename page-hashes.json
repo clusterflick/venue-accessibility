@@ -3,6 +3,10 @@
     "fetched_on": "2026-11-23",
     "hash": "0adba0aa762c6a985ad12b499cc3cab177fd014a02b4f48b733739172382cbc3"
   },
+  "https://adventurecinema.co.uk/venues/kew-gardens/ {\"text_between\":[\"Accessibility Accessibility at Kew Gardens\",\"Getting Here Where is Kew Gardens?\"]}": {
+    "fetched_on": "2026-11-23",
+    "hash": "dc1bcb3f1000e2264073507af6abfea69ad0d2215eabb69a68177f6046452c3f"
+  },
   "https://c5cf388c-5f07-41dc-890e-cd64e84183d0.usrfiles.com/ugd/c5cf38_bae527db1c5d4287ae769b7b849afc33.pdf": {
     "fetched_on": "2026-11-23",
     "hash": "61e79a25f5cbae89493fe55672039467d572386d2c1b80db1ed057fc8feb2cb6"
@@ -22,6 +26,10 @@
   "https://cinemamuseum.org.uk/visit/": {
     "fetched_on": "2026-11-23",
     "hash": "03d4f8d1b88e41efd67965b22b533df2dbe0f9b794cd2447d4b903c5d2f592ff"
+  },
+  "https://claphamgrand.com/accessibility/ {\"text_between\":[\"Accessibility Email:\",\"THE CLAPHAM GRAND CLAPHAM JUNCTION\"]}": {
+    "fetched_on": "2026-11-23",
+    "hash": "d4929bece5ab12eda4e0ee1868ee9152751a8df6f876960ce8c09f13071c8765"
   },
   "https://earthackney.co.uk/access/ {\"text_between\":[\"Access We know that\",\"Sign up to our mailing list\"]}": {
     "fetched_on": "2026-11-23",
@@ -91,6 +99,18 @@
     "fetched_on": "2026-11-23",
     "hash": "d2c3476a947497e397ad76450266997dd809b453014975dd612dbff6ba715c1b"
   },
+  "https://whatson.bfi.org.uk/Online/article/access-around-bfi-southbank {\"text_between\":[\"Find out what accessible facilities\",\"Add a promo code\"]}": {
+    "fetched_on": "2026-11-23",
+    "hash": "6f7add814da7258c99ee03dec048e4ef9878d28868faeb3309f86c931e31d105"
+  },
+  "https://whatson.bfi.org.uk/Online/article/accessible-films-screenings-and-events-southbank {\"text_between\":[\"Find out what types of access screenings\",\"Add a promo code\"]}": {
+    "fetched_on": "2026-11-23",
+    "hash": "f8a14aa94baeb8b2add23b88f4a5e927e0117e99dbdc587549938a7e3e07e9ad"
+  },
+  "https://whatson.bfi.org.uk/imax/Online/article/access-around-bfi-imax {\"text_between\":[\"Find out what accessible facilities\",\"Add a promo code\"]}": {
+    "fetched_on": "2026-11-23",
+    "hash": "08ade7728f5761e8e4545ed3a8e384bc3fd69e82fc4e4a6cc734b4ae17b1c462"
+  },
   "https://wiltons.org.uk/visit-us/accessibility/": {
     "fetched_on": "2026-11-23",
     "hash": "9340d90d30932512446112d02befb684c7d0d442e7f2e38fc44f3d7c178c83e9"
@@ -99,9 +119,17 @@
     "fetched_on": "2026-11-23",
     "hash": "8b50d31b91eb727db6c0621ec7c776ce5a795babd3d288da6fce8a8c562ee90b"
   },
+  "https://www.accessable.co.uk/london-borough-of-haringey/access-guides/arthouse-crouch-end {\"selector\":\".c-accessGuide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "4ff68980eb39fc41c0e11e2dfa7b3dedc5b9b41001221f3f9534c68975e728b5"
+  },
   "https://www.accessable.co.uk/london-borough-of-haringey/access-guides/phoenix-cinema {\"selector\":\".c-accessGuide\"}": {
     "fetched_on": "2026-11-23",
     "hash": "aa05c203abfe3c45e298a7f0b8f307e0e04d144d307783e91ca36b07c87e77b8"
+  },
+  "https://www.accessable.co.uk/london-borough-of-lambeth/access-guides/cinema-museum {\"selector\":\".c-accessGuide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "72cda271e8fedc38cba17380d7983618313b5c4e049a568cd6c2657c001b4042"
   },
   "https://www.accessable.co.uk/london-borough-of-newham/access-guides/vue {\"selector\":\".c-accessGuide\"}": {
     "fetched_on": "2026-11-23",
@@ -178,6 +206,10 @@
   "https://www.accessable.co.uk/odeon/access-guides/odeon-wimbledon {\"selector\":\".c-accessGuide\"}": {
     "fetched_on": "2026-11-23",
     "hash": "7cb5ec565c8b47cf05a2f5c25ba87e1c1688fdb4cce75d8fac8499252b610b86"
+  },
+  "https://www.accessable.co.uk/university-of-westminster/regent-street-campus/access-guides/regent-street-cinema-london {\"selector\":\".c-accessGuide\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "6a122d8e63f7cb151436e2326e759e7ce09868fbed246d0739ae0fc7d84f1edf"
   },
   "https://www.accesscard.online/find-a-provider/vue-cinema-london-piccadilly/vue-cinema-london-piccadilly/": {
     "fetched_on": "2026-11-23",
@@ -258,6 +290,10 @@
   "https://www.closeupfilmcentre.com/footer/about/": {
     "fetched_on": "2026-11-23",
     "hash": "a08b4cc462016e8850bebbec66f2f846781e65b5f90cc3081b1c541c1fa2077c"
+  },
+  "https://www.closeupfilmcentre.com/footer/about/ {\"text_between\":[\"About Close-Up makes film culture\",\"Close-Up Film Centre 97 Sclater Street\"]}": {
+    "fetched_on": "2026-11-23",
+    "hash": "f4e0c88415aa8a67452e795031d7c31a857a3e6aa6a4fbc356bf0c4086debd55"
   },
   "https://www.curzon.com/venues/aldgate/ {\"selector\":\".cinema-page__tabs__information-tab\"}": {
     "fetched_on": "2026-11-23",
@@ -395,6 +431,10 @@
     "fetched_on": "2026-11-23",
     "hash": "0ce54e0b8665d03f13fcdf56bae0b61adef538211e031aa3b093cceab397cf59"
   },
+  "https://www.hackneylocaloffer.co.uk/kb5/hackney/localoffer/service.page?id=4tzNt0cTcZY {\"selector\":\"#page-content-main\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "4fe7ca56129c87d8b3d6f9788f4683836124b9d2f1295f3f8df15504d3a91d9a"
+  },
   "https://www.ica.art/media/06329.pdf": {
     "fetched_on": "2026-11-23",
     "hash": "7f8736fbbf252ca5ddc78dc2816de7f1b32e9a181a303e8c3f503093e717dd21"
@@ -406,6 +446,10 @@
   "https://www.institut-francais.org.uk/visit-contact-us/": {
     "fetched_on": "2026-11-23",
     "hash": "d95f6dd6442ce15d735856f081a358898c9370098a635a119524aad130944917"
+  },
+  "https://www.jw3.org.uk/accessibility-fmq7 {\"selector\":\"main\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "e2427126f22461d3c66797789bd6cd2db19c9d67c2cc06dee1a484b0f687bac2"
   },
   "https://www.lumiereromford.com/find-us-and-accessibility": {
     "fetched_on": "2026-11-23",
@@ -615,6 +659,10 @@
     "fetched_on": "2026-11-23",
     "hash": "5a63f2e95d50fa9edb787bda5d3d426df30ac08ae1ffb9b298a4135fce49b9ad"
   },
+  "https://www.royalalberthall.com/visit/accessibility-at-the-hall/when-youre-here {\"text_between\":[\"Getting Around The Royal Albert Hall has many entrances\",\"Cloakrooms for Coats and Belongings\"]}": {
+    "fetched_on": "2026-11-23",
+    "hash": "cbb52e695cc1f992b4e7b8e64e5cae55fa12635c64d77a6bab582464465bce90"
+  },
   "https://www.sciencemuseum.org.uk/imax-cinema {\"text_between\":[\"Accessibility Is there step-free access\",\"About the IMAX cinema What to expect\"]}": {
     "fetched_on": "2026-11-23",
     "hash": "fafdb9ea3603256df6e3ac0265ffdecb904a6425024a86751d96b455c003c79b"
@@ -622,6 +670,10 @@
   "https://www.sciencemuseum.org.uk/visit/accessibility": {
     "fetched_on": "2026-11-23",
     "hash": "1227010c3953a27f4068e038db96ab54011d83135cc267e050c7b8c05f566dd0"
+  },
+  "https://www.southbankcentre.co.uk/visit-us/access/ {\"selector\":\"#main-content\"}": {
+    "fetched_on": "2026-11-23",
+    "hash": "bacf2d85421da333b643d0354cf3422ec302d02a5b5ce1b73694bf9ae1312930"
   },
   "https://www.tate.org.uk/visit/tate-britain {\"text_between\":[\"Accessible car parking There are\",\"We want to make sure that all our galleries are welcoming\"]}": {
     "fetched_on": "2026-11-23",

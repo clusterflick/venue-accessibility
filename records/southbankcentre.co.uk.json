@@ -1,33 +1,65 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.southbankcentre.co.uk/visit-us/access/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "On every level of the Royal Festival Hall and Queen Elizabeth Hall, and in the Hayward Gallery Foyer",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There are accessible toilets on every level of the Royal Festival Hall, the Queen Elizabeth Hall and in the Hayward Gallery Foyer.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.southbankcentre.co.uk/visit-us/access/"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "The external lift near the Artists' Entrance on Belvedere Road, to Level 2 of the Royal Festival Hall",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "For level access to the Royal Festival Hall from the Queen Elizabeth Hall slip road or Belvedere Road, please use the external lift near the Artists' Entrance on Southbank Centre Square, Belvedere Road, to Level 2.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.southbankcentre.co.uk/visit-us/access/"
+      }
+    ],
+    "status": "yes"
   },
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "In the venues too; say when booking",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Assistance dogs are welcome in the buildings and may be taken into our venues - please tell us when booking to ensure your seat has enough space",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.southbankcentre.co.uk/visit-us/access/"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Level 1, Royal Festival Hall; key from the Level 2 Welcome Desk",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "A Changing Places toilet is located on Level 1, Royal Festival Hall, next to the Singing Glass Lift, for the exclusive use of disabled people who need personal assistance to use the toilet.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.southbankcentre.co.uk/visit-us/access/"
+      }
+    ],
+    "status": "yes"
   },
   "entrance_step_free": {
     "conflict": null,
@@ -47,11 +79,26 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Some of the Royal Festival Hall's are out of service while they're refurbished; the Hayward Gallery's is out of order",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "We're refurbishing the lifts in the Royal Festival Hall.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.southbankcentre.co.uk/visit-us/access/"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "The lift to the Hayward Gallery is currently out of order.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.southbankcentre.co.uk/visit-us/access/"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "The page says sound enhancement systems are available in all its venues and gives wheelchair positions in the Royal Festival Hall and Queen Elizabeth Hall. The listings name no hall, so no screen is recorded.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -63,8 +110,16 @@
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Every performance space, with step-free routes by external lift",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "All of our performance and exhibition spaces at the Southbank Centre are accessible to all, as are our ticket offices and toilets, as well as our cafes, bars and restaurants.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.southbankcentre.co.uk/visit-us/access/"
+      }
+    ],
+    "status": "yes"
   }
 }

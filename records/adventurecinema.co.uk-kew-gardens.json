@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://adventurecinema.co.uk/venues/kew-gardens/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "On site",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "The event is held on flat ground with short grass and has accessible toilet facilities on-site.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://adventurecinema.co.uk/venues/kew-gardens/"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -51,7 +59,7 @@
     "sources": [],
     "status": "unknown"
   },
-  "notes": null,
+  "notes": "An outdoor screening. There's no parking or drop-off point on site.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -63,8 +71,16 @@
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Outdoors, on flat ground with short grass",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "The event is held on flat ground with short grass and has accessible toilet facilities on-site.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://adventurecinema.co.uk/venues/kew-gardens/"
+      }
+    ],
+    "status": "yes"
   }
 }

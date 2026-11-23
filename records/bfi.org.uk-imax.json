@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://whatson.bfi.org.uk/imax/Online/article/access-around-bfi-imax",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Five: ground floor, first floor and fourth floor (the wheelchair entrance to the auditorium)",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "We have five wheelchair accessible toilets in the IMAX:",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://whatson.bfi.org.uk/imax/Online/article/access-around-bfi-imax"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -18,9 +26,17 @@
   "assistance_dogs": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Guide dogs and assistance animals, in the screen with you",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "We welcome guide dogs (and assistance animals) at BFI IMAX.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://whatson.bfi.org.uk/imax/Online/article/access-around-bfi-imax"
+      }
+    ],
+    "status": "yes"
   },
   "changing_places": {
     "conflict": null,
@@ -47,11 +63,26 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "To every floor; 1000kg and 630kg",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "BFI IMAX is a multi-level building with lifts to each floor.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://whatson.bfi.org.uk/imax/Online/article/access-around-bfi-imax"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Our large lift has a maximum capacity of 1000kg, and our small lift has a maximum capacity of 630kg.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://whatson.bfi.org.uk/imax/Online/article/access-around-bfi-imax"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "The address the seed used for this venue's access page now redirects to BFI Southbank's, so this is the IMAX's own.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +90,79 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "aliases": ["BFI IMAX"],
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "IMAX",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift from the ground floor",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The screen is accessible from the ground floor lift.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://whatson.bfi.org.uk/imax/Online/article/access-around-bfi-imax"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": null,
+        "last_found": null,
+        "note": "Number not given; book by phone or email",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "If you book a wheelchair space, you'll be able to book a companion seat next to you.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://whatson.bfi.org.uk/imax/Online/article/access-around-bfi-imax"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "By lift to the screen",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "The screen is accessible from the ground floor lift.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://whatson.bfi.org.uk/imax/Online/article/access-around-bfi-imax"
+      }
+    ],
+    "status": "yes"
   }
 }
