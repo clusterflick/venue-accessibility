@@ -55,6 +55,13 @@
         "source_last_updated": null,
         "tier": 1,
         "url": "https://www.everymancinema.com/venues-list/x077p-everyman-belsize-park/"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Step-free access is available to the screen, with a lift from the bar area to the screen.",
+        "source_last_updated": "2025-04-15",
+        "tier": 1,
+        "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282524-belsize-park-accessibility-guide"
       }
     ],
     "status": "yes"
@@ -105,6 +112,13 @@
             "source_last_updated": null,
             "tier": 1,
             "url": "https://www.everymancinema.com/venues-list/x077p-everyman-belsize-park/"
+          },
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Step-free access is available to the screen, with a lift from the bar area to the screen.",
+            "source_last_updated": "2025-04-15",
+            "tier": 1,
+            "url": "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282524-belsize-park-accessibility-guide"
           }
         ],
         "status": "yes"
