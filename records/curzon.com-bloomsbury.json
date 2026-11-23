@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.curzon.com/venues/bloomsbury/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
     "note": null,
-    "sources": [],
-    "status": "unknown"
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is a wheelchair-accessible restroom.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.curzon.com/venues/bloomsbury/"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -47,11 +55,19 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "400kg limit",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "The lift has a maximum weight limit of 400 kg.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.curzon.com/venues/bloomsbury/"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "From the venue page's Information tab. It says hearing-assist headsets are available on request, without naming screens.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +75,363 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Lumiere Screen",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "All screens are accessible by lift, and each one has at least two wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/bloomsbury/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Lumiere and Plaza Screens 30 seats, 2 wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/bloomsbury/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Plaza Screen",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "All screens are accessible by lift, and each one has at least two wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/bloomsbury/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Lumiere and Plaza Screens 30 seats, 2 wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/bloomsbury/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Minema Screen",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "All screens are accessible by lift, and each one has at least two wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/bloomsbury/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Minema and Phoenix Screens 28 seats, 2 wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/bloomsbury/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Phoenix Screen",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "All screens are accessible by lift, and each one has at least two wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/bloomsbury/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Minema and Phoenix Screens 28 seats, 2 wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/bloomsbury/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Bertha Dochouse",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "All screens are accessible by lift, and each one has at least two wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/bloomsbury/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Bertha Dochouse 55 seats, 2 wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/bloomsbury/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Renoir Screen",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "By lift",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "All screens are accessible by lift, and each one has at least two wheelchair spaces.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/bloomsbury/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 3,
+        "last_found": null,
+        "note": "2 in the main auditorium (level -2) and 1 on the balcony (level -1)",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Renoir Screen 148 seats (139 in the main auditorium with 2 wheelchair spaces, 9 balcony seats with 1 wheelchair space)",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/bloomsbury/"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "By lift to every screen",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "All screens are accessible by lift, and each one has at least two wheelchair spaces.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.curzon.com/venues/bloomsbury/"
+      }
+    ],
+    "status": "yes"
   }
 }

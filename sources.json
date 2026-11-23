@@ -186,62 +186,92 @@
   ],
   "curzon.com-aldgate": [
     {
+      "click": "[data-key=\"information_tab\"]",
+      "escalate": ".cinema-page__tabs__information-tab",
+      "selector": ".cinema-page__tabs__information-tab",
       "tier": 1,
-      "url": "https://www.curzon.com/venues/aldgate"
+      "url": "https://www.curzon.com/venues/aldgate/"
     }
   ],
   "curzon.com-bloomsbury": [
     {
+      "click": "[data-key=\"information_tab\"]",
+      "escalate": ".cinema-page__tabs__information-tab",
+      "selector": ".cinema-page__tabs__information-tab",
       "tier": 1,
-      "url": "https://www.curzon.com/venues/bloomsbury"
+      "url": "https://www.curzon.com/venues/bloomsbury/"
     }
   ],
   "curzon.com-camden": [
     {
+      "click": "[data-key=\"information_tab\"]",
+      "escalate": ".cinema-page__tabs__information-tab",
+      "selector": ".cinema-page__tabs__information-tab",
       "tier": 1,
-      "url": "https://www.curzon.com/venues/camden"
+      "url": "https://www.curzon.com/venues/camden/"
     }
   ],
   "curzon.com-hoxton": [
     {
+      "click": "[data-key=\"information_tab\"]",
+      "escalate": ".cinema-page__tabs__information-tab",
+      "selector": ".cinema-page__tabs__information-tab",
       "tier": 1,
-      "url": "https://www.curzon.com/venues/hoxton"
+      "url": "https://www.curzon.com/venues/hoxton/"
     }
   ],
   "curzon.com-kingston": [
     {
+      "click": "[data-key=\"information_tab\"]",
+      "escalate": ".cinema-page__tabs__information-tab",
+      "selector": ".cinema-page__tabs__information-tab",
       "tier": 1,
-      "url": "https://www.curzon.com/venues/kingston"
+      "url": "https://www.curzon.com/venues/kingston/"
     }
   ],
   "curzon.com-mayfair": [
     {
+      "click": "[data-key=\"information_tab\"]",
+      "escalate": ".cinema-page__tabs__information-tab",
+      "selector": ".cinema-page__tabs__information-tab",
       "tier": 1,
-      "url": "https://www.curzon.com/venues/mayfair"
+      "url": "https://www.curzon.com/venues/mayfair/"
     }
   ],
   "curzon.com-richmond": [
     {
+      "click": "[data-key=\"information_tab\"]",
+      "escalate": ".cinema-page__tabs__information-tab",
+      "selector": ".cinema-page__tabs__information-tab",
       "tier": 1,
-      "url": "https://www.curzon.com/venues/richmond"
+      "url": "https://www.curzon.com/venues/richmond/"
     }
   ],
   "curzon.com-soho": [
     {
+      "click": "[data-key=\"information_tab\"]",
+      "escalate": ".cinema-page__tabs__information-tab",
+      "selector": ".cinema-page__tabs__information-tab",
       "tier": 1,
-      "url": "https://www.curzon.com/venues/soho"
+      "url": "https://www.curzon.com/venues/soho/"
     }
   ],
   "curzon.com-victoria": [
     {
+      "click": "[data-key=\"information_tab\"]",
+      "escalate": ".cinema-page__tabs__information-tab",
+      "selector": ".cinema-page__tabs__information-tab",
       "tier": 1,
-      "url": "https://www.curzon.com/venues/victoria"
+      "url": "https://www.curzon.com/venues/victoria/"
     }
   ],
   "curzon.com-wimbledon": [
     {
+      "click": "[data-key=\"information_tab\"]",
+      "escalate": ".cinema-page__tabs__information-tab",
+      "selector": ".cinema-page__tabs__information-tab",
       "tier": 1,
-      "url": "https://www.curzon.com/venues/wimbledon"
+      "url": "https://www.curzon.com/venues/wimbledon/"
     }
   ],
   "davidleancinema.org.uk": [
