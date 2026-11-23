@@ -26,12 +26,15 @@ async function readFetchedText() {
     if (e.code === "ENOENT") return null;
     throw e;
   }
-  const textByUrl = new Map();
+  // Keyed by venue as well as address: venues that share a page (Olympic's
+  // three cinemas) each fetch only their own part of it, and a venue's quotes
+  // must be in its own part.
+  const textByPage = new Map();
   for (const page of index.pages) {
     const { text } = await readJSON(path.join(PAGES_DIRECTORY, page.file));
-    textByUrl.set(page.url, text);
+    textByPage.set(`${page.venueId} ${page.url}`, text);
   }
-  return textByUrl;
+  return textByPage;
 }
 
 (async () => {
@@ -43,18 +46,18 @@ async function readFetchedText() {
     venues: getAllCinemaNames().map(getCinemaAttributes),
   });
 
-  const textByUrl = await readFetchedText();
-  if (textByUrl) {
+  const textByPage = await readFetchedText();
+  if (textByPage) {
     records.forEach((record) =>
-      findMissingQuotes(record, (url) => textByUrl.get(url)).forEach(
-        (problem) => errors.push(`${record.id}: ${problem}`),
-      ),
+      findMissingQuotes(record, (url) =>
+        textByPage.get(`${record.id} ${url}`),
+      ).forEach((problem) => errors.push(`${record.id}: ${problem}`)),
     );
   }
 
   console.log(
     `${records.length} records, ${candidates.length} candidates` +
-      (textByUrl ? "" : "; quotes not checked, no fetched-pages/"),
+      (textByPage ? "" : "; quotes not checked, no fetched-pages/"),
   );
   if (errors.length) {
     throw new Error(`${errors.length} problems:\n${errors.join("\n")}`);

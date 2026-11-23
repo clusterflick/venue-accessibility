@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.qmul.ac.uk/bloc/access/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "With a hoist, in the ArtsOne foyer",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Accessible toilet with hoist and no touch entry in ArtsOne foyer",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.qmul.ac.uk/bloc/access/"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -32,9 +40,24 @@
   "entrance_step_free": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "By ramp, with automatic doors",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Step-free access via ramp to main building doors and back doors",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.qmul.ac.uk/bloc/access/"
+      },
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Automatic doors with buttons for no push access.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.qmul.ac.uk/bloc/access/"
+      }
+    ],
+    "status": "yes"
   },
   "hearing_assist_counters": {
     "conflict": null,
@@ -47,24 +70,48 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "For wheelchairs, down to stage level",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Lift for wheelchairs down to stage level",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.qmul.ac.uk/bloc/access/"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "The page lists 4 wheelchair spaces (2 permanent at the back, and 2 more that can be added on the front row) and a hearing loop that supports audio description, without saying which of BLOC's spaces they're in. The listings name no screen.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Quiet rooms next to the venue; mention it in advance",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Quiet rooms and prayer rooms available next to venue (please mention in advance)",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.qmul.ac.uk/bloc/access/"
+      }
+    ],
+    "status": "yes"
   },
   "screens": [],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Ramps to the main and back doors",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "Step-free access via ramp to main building doors and back doors",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.qmul.ac.uk/bloc/access/"
+      }
+    ],
+    "status": "yes"
   }
 }

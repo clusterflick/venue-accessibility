@@ -22,6 +22,25 @@ describe("fetchSourceText", () => {
     ).resolves.toBe("Level access");
   });
 
+  it("fails on a bot challenge rather than taking it for the page", async () => {
+    respond(
+      "<html><head><title>Just a moment...</title></head><body><p>Enable JavaScript and cookies to continue</p></body></html>",
+      "text/html",
+    );
+    await expect(
+      fetchSourceText({ url: "https://example.com/access" }),
+    ).rejects.toThrow(
+      'https://example.com/access answered a bot challenge ("Just a moment...")',
+    );
+    respond(
+      "<html><body><p>Please wait while your request is being verified...</p></body></html>",
+      "text/html",
+    );
+    await expect(
+      fetchSourceText({ url: "https://example.com/access", selector: "main" }),
+    ).rejects.toThrow("answered a bot challenge");
+  });
+
   it("reads a PDF's text, so quotes from an access guide can be checked", async () => {
     respond(PDF, "application/pdf");
     await expect(

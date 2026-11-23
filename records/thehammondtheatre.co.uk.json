@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.thehammondtheatre.co.uk/visitor-information",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "In the foyer",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "These seats have step free access from the car park and an accessible toilet can be found in our foyer.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.thehammondtheatre.co.uk/visitor-information"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -51,7 +59,7 @@
     "sources": [],
     "status": "unknown"
   },
-  "notes": null,
+  "notes": "The page describes one auditorium; the listings give no screen.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +67,78 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Auditorium",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "From the car park",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "These seats have step free access from the car park and an accessible toilet can be found in our foyer.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.thehammondtheatre.co.uk/visitor-information"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": "With a companion space",
+        "sources": [
+          {
+            "checked_on": "2026-11-22",
+            "quote": "The Hammond Theatre auditorium has two wheelchair spaces plus space for one person accompanying the wheelchair user.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.thehammondtheatre.co.uk/visitor-information"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "From the car park",
+    "sources": [
+      {
+        "checked_on": "2026-11-22",
+        "quote": "These seats have step free access from the car park and an accessible toilet can be found in our foyer.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.thehammondtheatre.co.uk/visitor-information"
+      }
+    ],
+    "status": "yes"
   }
 }

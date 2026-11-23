@@ -3,6 +3,14 @@
     "fetched_on": "2026-11-22",
     "hash": "e1e76ced59949f3f8eea3685696651b83a30bc58f1c81bebe8fa50055928b5df"
   },
+  "https://c5cf388c-5f07-41dc-890e-cd64e84183d0.usrfiles.com/ugd/c5cf38_bae527db1c5d4287ae769b7b849afc33.pdf": {
+    "fetched_on": "2026-11-22",
+    "hash": "61e79a25f5cbae89493fe55672039467d572386d2c1b80db1ed057fc8feb2cb6"
+  },
+  "https://cadoganhall.com/your-visit/access-information/": {
+    "fetched_on": "2026-11-22",
+    "hash": "8cfc874ad63cf8f0e7a7caad42e5724511ffab02d31db7c1e6ca34c552ba096f"
+  },
   "https://castlesidcup.com/access/": {
     "fetched_on": "2026-11-22",
     "hash": "91a06d986d1456135ad6ab93fdca5099144aabad877c85f258db7fb543dd07e6"
@@ -14,6 +22,18 @@
   "https://cinemamuseum.org.uk/visit/": {
     "fetched_on": "2026-11-22",
     "hash": "03d4f8d1b88e41efd67965b22b533df2dbe0f9b794cd2447d4b903c5d2f592ff"
+  },
+  "https://earthackney.co.uk/access/": {
+    "fetched_on": "2026-11-22",
+    "hash": "f758a958f9c892eefc88317677cc8ca462dd361590ee604e761afb7b2f10aded"
+  },
+  "https://ebonylifeplacelondon.com/accessibility/": {
+    "fetched_on": "2026-11-22",
+    "hash": "b86aae6754287e8b754eab494f0b27193ac2e993f793198c450f2cdb307b356c"
+  },
+  "https://ebonylifeplacelondon.com/visit/": {
+    "fetched_on": "2026-11-22",
+    "hash": "51d164acdafe943955e08e7248515ac3af908cd9a8fc1bd67c5eaf2bbae7df4a"
   },
   "https://everymanmedia.freshdesk.com/support/solutions/articles/35000282523-barnet-accessibility-guide": {
     "fetched_on": "2026-11-22",
@@ -30,6 +50,10 @@
   "https://kilntheatre.com/your-visit/access/": {
     "fetched_on": "2026-11-22",
     "hash": "b4cf6540a814b7e53cc270d3f08b8e163411518a8953b1c8178334dbb905e335"
+  },
+  "https://mosaicrooms.org/visit-us-1": {
+    "fetched_on": "2026-11-22",
+    "hash": "35418db3c64d21439a1416099ff3795eb228e0086725cb0723d1988a21e74c79"
   },
   "https://princecharlescinema.com/accessibility/": {
     "fetched_on": "2026-11-22",
@@ -51,6 +75,10 @@
     "fetched_on": "2026-11-22",
     "hash": "d674d776429402b5c32cb3ebdfaed7771aa1f9741ad392595019c20bb41783b3"
   },
+  "https://thearzner.com/TheArzner.dll/Page?p=1066&m=m": {
+    "fetched_on": "2026-11-22",
+    "hash": "3d5b23c04523994e4d93180e07f009efa8be8d3cfd17c61945ea79fd1cd327b1"
+  },
   "https://thecastlecinema.com/access/": {
     "fetched_on": "2026-11-22",
     "hash": "d5d5d7248fe166c403bc248bfdcffc70c86dee3fe5eae8e54a613ddb06441c20"
@@ -58,6 +86,10 @@
   "https://thelexicinema.co.uk/TheLexiCinema.dll/Page?p=4&m=m&sp=3": {
     "fetched_on": "2026-11-22",
     "hash": "21cb32ff66845372d8b9eff55a93f73a92fa71ff10d219edda8d0fbc806f3f67"
+  },
+  "https://wiltons.org.uk/visit-us/accessibility/": {
+    "fetched_on": "2026-11-22",
+    "hash": "9340d90d30932512446112d02befb684c7d0d442e7f2e38fc44f3d7c178c83e9"
   },
   "https://www.accesscard.online/find-a-provider/vue-cinema-london-piccadilly/vue-cinema-london-piccadilly/": {
     "fetched_on": "2026-11-22",
@@ -79,51 +111,51 @@
     "fetched_on": "2026-11-22",
     "hash": "ec4069edae505c1ec69960969cd64d1d6318a9d66b4de1f4db564530e75b011b"
   },
-  "https://www.cineworld.co.uk/cinemas/g01a4-cineworld-cinema-london-hounslow/": {
+  "https://www.cineworld.co.uk/cinemas/g01a4-cineworld-cinema-london-hounslow/ {\"text_between\":[\"Frequently asked questions\",\"Cineworld About us\"]}": {
     "fetched_on": "2026-11-22",
     "hash": "2a0597a32021ba97e66dcfa5a010661e191675a03f8ef4caae3cafb8d7478d7b"
   },
-  "https://www.cineworld.co.uk/cinemas/x06v1-cineworld-cinema-london-leicester-square/": {
+  "https://www.cineworld.co.uk/cinemas/x06v1-cineworld-cinema-london-leicester-square/ {\"text_between\":[\"Frequently asked questions\",\"Cineworld About us\"]}": {
     "fetched_on": "2026-11-22",
     "hash": "a6c619fbe80b68989232c055eb9b95d4c30b794829e3ed692d51ce510c95db09"
   },
-  "https://www.cineworld.co.uk/cinemas/x06x0-cineworld-cinema-london-bexleyheath/": {
+  "https://www.cineworld.co.uk/cinemas/x06x0-cineworld-cinema-london-bexleyheath/ {\"text_between\":[\"Frequently asked questions\",\"Cineworld About us\"]}": {
     "fetched_on": "2026-11-22",
     "hash": "bc391aebdc12c7df343cd6fe9184f7ae0e466ff742f1bac33a7db7ea865e1df7"
   },
-  "https://www.cineworld.co.uk/cinemas/x06xb-cineworld-cinema-london-feltham/": {
+  "https://www.cineworld.co.uk/cinemas/x06xb-cineworld-cinema-london-feltham/ {\"text_between\":[\"Frequently asked questions\",\"Cineworld About us\"]}": {
     "fetched_on": "2026-11-22",
     "hash": "515ff813b273ad59b54711f85a644ab9f9e164d641bdd4e005a2c4e12e6614e2"
   },
-  "https://www.cineworld.co.uk/cinemas/x06xd-cineworld-cinema-london-ilford/": {
+  "https://www.cineworld.co.uk/cinemas/x06xd-cineworld-cinema-london-ilford/ {\"text_between\":[\"Frequently asked questions\",\"Cineworld About us\"]}": {
     "fetched_on": "2026-11-22",
     "hash": "1ad0c717f5a72eec06f35b8f3bcf02b1def397a18fa6bdb045763cc05380dde6"
   },
-  "https://www.cineworld.co.uk/cinemas/x06xs-cineworld-cinema-london-wood-green/": {
+  "https://www.cineworld.co.uk/cinemas/x06xs-cineworld-cinema-london-wood-green/ {\"text_between\":[\"Frequently asked questions\",\"Cineworld About us\"]}": {
     "fetched_on": "2026-11-22",
     "hash": "e66332c6e8ca466f4d2fdb716aa2fa49cc314e118cddfa6cb091cc463e89f4ed"
   },
-  "https://www.cineworld.co.uk/cinemas/x076w-cineworld-cinema-london-wandsworth/": {
+  "https://www.cineworld.co.uk/cinemas/x076w-cineworld-cinema-london-wandsworth/ {\"text_between\":[\"Frequently asked questions\",\"Cineworld About us\"]}": {
     "fetched_on": "2026-11-22",
     "hash": "3fec13441d50aee0be9152f4624b4ed57f2e2fecf129a25837e66954d1bace5e"
   },
-  "https://www.cineworld.co.uk/cinemas/x078z-cineworld-cinema-london-enfield/": {
+  "https://www.cineworld.co.uk/cinemas/x078z-cineworld-cinema-london-enfield/ {\"text_between\":[\"Frequently asked questions\",\"Cineworld About us\"]}": {
     "fetched_on": "2026-11-22",
     "hash": "6662471a454a3c1348655b113a72363b584b5a49a83c5864c7a1fc9b24100262"
   },
-  "https://www.cineworld.co.uk/cinemas/x0795-cineworld-cinema-london-west-india-quay/": {
+  "https://www.cineworld.co.uk/cinemas/x0795-cineworld-cinema-london-west-india-quay/ {\"text_between\":[\"Frequently asked questions\",\"Cineworld About us\"]}": {
     "fetched_on": "2026-11-22",
     "hash": "fbf328ea246bf384e537552879fed3de8d3e16a73a6bb801c2535b5a015e7c4e"
   },
-  "https://www.cineworld.co.uk/cinemas/x087g-cineworld-cinema-london-the-o2-greenwich/": {
+  "https://www.cineworld.co.uk/cinemas/x087g-cineworld-cinema-london-the-o2-greenwich/ {\"text_between\":[\"Frequently asked questions\",\"Cineworld About us\"]}": {
     "fetched_on": "2026-11-22",
     "hash": "4ed5eb1cdfd302ccc831ba3d88a0a54ee84016e5fe6b3481f4879e049bd6cd01"
   },
-  "https://www.cineworld.co.uk/cinemas/x0sra-cineworld-cinema-london-wembley/": {
+  "https://www.cineworld.co.uk/cinemas/x0sra-cineworld-cinema-london-wembley/ {\"text_between\":[\"Frequently asked questions\",\"Cineworld About us\"]}": {
     "fetched_on": "2026-11-22",
     "hash": "e8ff812897029c4662192c12fef73066f2c916dcd3ce018b0ac27f7a749c5e4b"
   },
-  "https://www.cineworld.co.uk/cinemas/x0y86-cineworld-cinema-london-south-ruislip/": {
+  "https://www.cineworld.co.uk/cinemas/x0y86-cineworld-cinema-london-south-ruislip/ {\"text_between\":[\"Frequently asked questions\",\"Cineworld About us\"]}": {
     "fetched_on": "2026-11-22",
     "hash": "43aa62c6f178733547042891a0e3365d6bcdd929539b79a0cfd805d4aa828329"
   },
@@ -235,63 +267,63 @@
     "fetched_on": "2026-11-22",
     "hash": "07874820130e558e89d5035f910c583aa214cf3ed6fadedb89859feecc49aeab"
   },
-  "https://www.myvue.com/cinema/bromley/whats-on": {
+  "https://www.myvue.com/cinema/bromley/whats-on {\"text_from\":\"vue-accessibility\"}": {
     "fetched_on": "2026-11-22",
     "hash": "6c93deeaa9f4812a39ea2a451cba0db866253883fb89e108720aca6bf8faf78b"
   },
-  "https://www.myvue.com/cinema/croydon-purley-way/whats-on": {
+  "https://www.myvue.com/cinema/croydon-purley-way/whats-on {\"text_from\":\"vue-accessibility\"}": {
     "fetched_on": "2026-11-22",
     "hash": "85ab9b2b4201c2ff581e6a4da5e2a3cee3d66cbef53dfe329ca9febb50a55fd3"
   },
-  "https://www.myvue.com/cinema/dagenham/whats-on": {
+  "https://www.myvue.com/cinema/dagenham/whats-on {\"text_from\":\"vue-accessibility\"}": {
     "fetched_on": "2026-11-22",
     "hash": "76df4b749762232728665b2b30d629636baddc0a6d2e9883d95141c3ac42b666"
   },
-  "https://www.myvue.com/cinema/eltham/whats-on": {
+  "https://www.myvue.com/cinema/eltham/whats-on {\"text_from\":\"vue-accessibility\"}": {
     "fetched_on": "2026-11-22",
     "hash": "50551ea3885a374e18332ce051c9b17f28b48a312f27d43edf519711b5179982"
   },
-  "https://www.myvue.com/cinema/finchley-road/whats-on": {
+  "https://www.myvue.com/cinema/finchley-road/whats-on {\"text_from\":\"vue-accessibility\"}": {
     "fetched_on": "2026-11-22",
     "hash": "822ec8200ba3590c87503e16d0cacb9a495a55b77c3be5125a1bda191bf0c347"
   },
-  "https://www.myvue.com/cinema/fulham-broadway/whats-on": {
+  "https://www.myvue.com/cinema/fulham-broadway/whats-on {\"text_from\":\"vue-accessibility\"}": {
     "fetched_on": "2026-11-22",
     "hash": "6fbc2dfca35319db6b40d56de8b23d5146b0c879286f0bd1c25772eb13b327df"
   },
-  "https://www.myvue.com/cinema/harrow/whats-on": {
+  "https://www.myvue.com/cinema/harrow/whats-on {\"text_from\":\"vue-accessibility\"}": {
     "fetched_on": "2026-11-22",
     "hash": "1769356b8e6b189f15cc67e4ad892dcff21b3fc5d0d1da733c9160b06c8586e3"
   },
-  "https://www.myvue.com/cinema/islington/whats-on": {
+  "https://www.myvue.com/cinema/islington/whats-on {\"text_from\":\"vue-accessibility\"}": {
     "fetched_on": "2026-11-22",
     "hash": "4f7ca52254ed251c77f4e14d5480681b80debdf7aa347ddf16862997e751fd93"
   },
-  "https://www.myvue.com/cinema/leicester-square/whats-on": {
+  "https://www.myvue.com/cinema/leicester-square/whats-on {\"text_from\":\"vue-accessibility\"}": {
     "fetched_on": "2026-11-22",
     "hash": "235c06e7fcaa7b9021c394fe9d2285f0b4ce499bd534aae3b2472a7475428d4a"
   },
-  "https://www.myvue.com/cinema/north-finchley/whats-on": {
+  "https://www.myvue.com/cinema/north-finchley/whats-on {\"text_from\":\"vue-accessibility\"}": {
     "fetched_on": "2026-11-22",
     "hash": "f2f3252a2a273e74a90b21a356213aac3de84965351d75c6b8806780e775203d"
   },
-  "https://www.myvue.com/cinema/piccadilly/whats-on": {
+  "https://www.myvue.com/cinema/piccadilly/whats-on {\"text_from\":\"vue-accessibility\"}": {
     "fetched_on": "2026-11-22",
     "hash": "3f40b900cc45cb2115f7081b60da666623919acc71978f5234310867d32643c9"
   },
-  "https://www.myvue.com/cinema/romford/whats-on": {
+  "https://www.myvue.com/cinema/romford/whats-on {\"text_from\":\"vue-accessibility\"}": {
     "fetched_on": "2026-11-22",
     "hash": "5d5982c9e6c93b7ff5ff97c6cf55676ec7cdd29901e53df96ba46449d3e66b31"
   },
-  "https://www.myvue.com/cinema/westfield-stratford-city/whats-on": {
+  "https://www.myvue.com/cinema/westfield-stratford-city/whats-on {\"text_from\":\"vue-accessibility\"}": {
     "fetched_on": "2026-11-22",
     "hash": "d3c5a106f6066b74156ec357ff4d804892b0340a317fcd3067ca2f5ac01e5b6b"
   },
-  "https://www.myvue.com/cinema/westfield/whats-on": {
+  "https://www.myvue.com/cinema/westfield/whats-on {\"text_from\":\"vue-accessibility\"}": {
     "fetched_on": "2026-11-22",
     "hash": "095e8825920f3bf78201e2b40e90634199775d7910d0eedf79f8c3a669ab3847"
   },
-  "https://www.myvue.com/cinema/wood-green/whats-on": {
+  "https://www.myvue.com/cinema/wood-green/whats-on {\"text_from\":\"vue-accessibility\"}": {
     "fetched_on": "2026-11-22",
     "hash": "c30591357e929b06c53466bc57b85b123a6e63f7a397cacd6b72522030d81c0a"
   },
@@ -299,53 +331,65 @@
     "fetched_on": "2026-11-22",
     "hash": "a7629fb72dfbad9dd4535feca262421a754b4ee5f7a6eedbff0bd4ed65341f4c"
   },
+  "https://www.olympicstudios.com/pages/accessibility {\"text_between\":[\"THE CINEMA AT SELFRIDGES Children & Babies\",\"A HUB OF ENTERTAINMENT\"]}": {
+    "fetched_on": "2026-11-22",
+    "hash": "06343769d48fc2432c3a614748c832c819e39d64dd9c0fc34dfb73e0b858f6cd"
+  },
+  "https://www.olympicstudios.com/pages/accessibility {\"text_between\":[\"THE CINEMA IN THE POWER STATION Children & Babies\",\"THE CINEMA AT SELFRIDGES Children & Babies\"]}": {
+    "fetched_on": "2026-11-22",
+    "hash": "c4fa15dcae96c48eb85b43aeaed1c198c004a359e6ce656dcd0afd422858e729"
+  },
   "https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Page?p=1600&m=m&sp=5432": {
     "fetched_on": "2026-11-22",
     "hash": "0aaf6a03394ce7fb9d2c6b5dda1c227fbb5f948be3f4fdc160893e5437548b81"
   },
-  "https://www.picturehouses.com/cinema/clapham-picturehouse/accessibility": {
+  "https://www.picturehouses.com/cinema/clapham-picturehouse/accessibility {\"selector\":\".cinimaAccessibility_div\"}": {
     "fetched_on": "2026-11-22",
     "hash": "8ab2d9f2c48b71676823e1e3d391d3d5107e2d3d0b611db2d40ee64bd91da879"
   },
-  "https://www.picturehouses.com/cinema/crouch-end-picturehouse/accessibility": {
+  "https://www.picturehouses.com/cinema/crouch-end-picturehouse/accessibility {\"selector\":\".cinimaAccessibility_div\"}": {
     "fetched_on": "2026-11-22",
     "hash": "083980e251933eba1994476959a893c09330e899c0e735cb5589e5cd686e2da5"
   },
-  "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility": {
+  "https://www.picturehouses.com/cinema/ealing-picturehouse/accessibility {\"selector\":\".cinimaAccessibility_div\"}": {
     "fetched_on": "2026-11-22",
     "hash": "ffcbe6768ae1d19e3e1640e829c275c6fc5b044679a12a50ec84e068bf6fc2f5"
   },
-  "https://www.picturehouses.com/cinema/east-dulwich/accessibility": {
+  "https://www.picturehouses.com/cinema/east-dulwich/accessibility {\"selector\":\".cinimaAccessibility_div\"}": {
     "fetched_on": "2026-11-22",
     "hash": "6a959e672f8c4ba3c644c46fe2bc4195ca1beed203a53d28aabccfa79d47bb1e"
   },
-  "https://www.picturehouses.com/cinema/finsbury-park/accessibility": {
+  "https://www.picturehouses.com/cinema/finsbury-park/accessibility {\"selector\":\".cinimaAccessibility_div\"}": {
     "fetched_on": "2026-11-22",
     "hash": "f0f54c9027d8e534d830eba377c624d29d4d07401dad72f2c736b1290741b59f"
   },
-  "https://www.picturehouses.com/cinema/greenwich-picturehouse/accessibility": {
+  "https://www.picturehouses.com/cinema/greenwich-picturehouse/accessibility {\"selector\":\".cinimaAccessibility_div\"}": {
     "fetched_on": "2026-11-22",
     "hash": "86a3e674b17fbb171648fa126bdbf4f6d71c1dc6f137b9599eafd9ea4f5121c0"
   },
-  "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility": {
+  "https://www.picturehouses.com/cinema/hackney-picturehouse/accessibility {\"selector\":\".cinimaAccessibility_div\"}": {
     "fetched_on": "2026-11-22",
     "hash": "8424c9379868b9bf1c323d264c5666d5c49a7a6ea57bad58ba3441c104a36eae"
   },
-  "https://www.picturehouses.com/cinema/picturehouse-central/accessibility": {
+  "https://www.picturehouses.com/cinema/picturehouse-central/accessibility {\"selector\":\".cinimaAccessibility_div\"}": {
     "fetched_on": "2026-11-22",
     "hash": "b359c85a700ae24cfac2ae3a70e38a89268b9ed8696540394a4cfc499128d92b"
   },
-  "https://www.picturehouses.com/cinema/the-gate/accessibility": {
+  "https://www.picturehouses.com/cinema/the-gate/accessibility {\"selector\":\".cinimaAccessibility_div\"}": {
     "fetched_on": "2026-11-22",
     "hash": "f3a3ece8c573009644a59fe2b7ef5abc0b42ab11062ba948f5b6dedcfcc47f1f"
   },
-  "https://www.picturehouses.com/cinema/the-ritzy/accessibility": {
+  "https://www.picturehouses.com/cinema/the-ritzy/accessibility {\"selector\":\".cinimaAccessibility_div\"}": {
     "fetched_on": "2026-11-22",
     "hash": "b8a5ccd7acf81e645366639eed5ee8d12595f639b381e61f5e0dfbf861715256"
   },
-  "https://www.picturehouses.com/cinema/west-norwood-picturehouse/accessibility": {
+  "https://www.picturehouses.com/cinema/west-norwood-picturehouse/accessibility {\"selector\":\".cinimaAccessibility_div\"}": {
     "fetched_on": "2026-11-22",
     "hash": "83381666246e61e64aeb5f2a9d31b67179865455b0bb87b651f5ff95ec981cb2"
+  },
+  "https://www.qmul.ac.uk/bloc/access/": {
+    "fetched_on": "2026-11-22",
+    "hash": "411a266eb3b5336f631259b4e3eab86d6132d45d7c4fd8ed921db2d64655577a"
   },
   "https://www.regentstreetcinema.com/access/": {
     "fetched_on": "2026-11-22",
@@ -358,5 +402,9 @@
   "https://www.thegardencinema.co.uk/accessibility/": {
     "fetched_on": "2026-11-22",
     "hash": "849896df0dc714febf83ac3a6011c70fb853a16b50d59b139a8f1eabb504ffb0"
+  },
+  "https://www.thehammondtheatre.co.uk/visitor-information": {
+    "fetched_on": "2026-11-22",
+    "hash": "557402e2a0f99687bf7073e48a3150d6f0a4d3afe414c8bbd6f9a15dabe951c3"
   }
 }

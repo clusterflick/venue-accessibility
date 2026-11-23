@@ -1,4 +1,8 @@
-const { fetchSources, getPageFileName } = require("../lib/fetch-sources");
+const {
+  fetchSources,
+  getHashKey,
+  getPageFileName,
+} = require("../lib/fetch-sources");
 const { hashText } = require("../lib/page-text");
 
 const A = "https://a.example/access";
@@ -92,6 +96,50 @@ describe("fetchSources", () => {
       "a.com",
       "b.com",
     ]);
+  });
+
+  it("hashes each venue's part of a shared page separately", async () => {
+    const page = "Barnes Lift to screens Selfridges Lift from Duke Street End";
+    const between = (start, end) => {
+      const from = page.indexOf(start);
+      return page.slice(from, page.indexOf(end, from));
+    };
+    const fetchPart = jest.fn(async ({ text_between: [start, end] }) =>
+      between(start, end),
+    );
+    const barnes = { url: A, tier: 1, text_between: ["Barnes", "Selfridges"] };
+    const selfridges = { url: A, tier: 1, text_between: ["Selfridges", "End"] };
+    const first = await fetchSources({
+      sources: { "barnes.com": [barnes], "selfridges.com": [selfridges] },
+      today: TODAY,
+      fetchText: fetchPart,
+    });
+    expect(fetchPart).toHaveBeenCalledTimes(2);
+    expect(first.hashes).toEqual({
+      [getHashKey(barnes)]: {
+        hash: hashText(between("Barnes", "Selfridges")),
+        fetched_on: TODAY,
+      },
+      [getHashKey(selfridges)]: {
+        hash: hashText(between("Selfridges", "End")),
+        fetched_on: TODAY,
+      },
+    });
+
+    const second = await fetchSources({
+      sources: { "barnes.com": [barnes], "selfridges.com": [selfridges] },
+      previousHashes: first.hashes,
+      today: TODAY,
+      fetchText: fetchPart,
+    });
+    expect(second.changed).toEqual([]);
+  });
+
+  it("keys a whole page's hash by its address alone", () => {
+    expect(getHashKey({ url: A, tier: 1 })).toBe(A);
+    expect(getHashKey({ url: A, tier: 1, selector: "main" })).toBe(
+      `${A} {"selector":"main"}`,
+    );
   });
 
   it("needs today's date to stamp the hashes with", async () => {

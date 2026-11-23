@@ -200,7 +200,8 @@ doesn't list is an error, not a tier. Add a host there before a record uses it.
 Tier 1 is the hosts in the venue's `domain` and `url`, plus `OWN_HOSTS` for the
 chain sites and help desks that publish for a venue from elsewhere (BFI's
 `bfi.org.uk` beside `whatson.bfi.org.uk`, Everyman's Freshdesk, Olympic
-Studios). Hosts are compared exactly, never by registrable domain, so
+Studios for its three cinemas, and the Wix file host the Arzner's access guide
+is served from). Hosts are compared exactly, never by registrable domain, so
 `www1.picturehouses.com` can't pass as the chain's site.
 
 A source may be given a lower tier than the policy allows, never a higher one.
@@ -260,6 +261,16 @@ the seed has one "Cinema" but the listings number them; and BFI IMAX ("IMAX" and
 "BFI IMAX"). Listings also name rooms that aren't screens (Rio's "Ludski", BFI's
 "Blue Room"), so a listing screen with no record is unknown, never "no".
 
+A screen entry can stand for a whole building, but only when the listings name
+nothing narrower than the building and the access page states each fact for
+every screen in it, so the entry says no more than the page does. The Cinema in
+the Power Station is the case: its listings say only "The Cinema in The Power
+Station" or "The Cinema in the Arches", both buildings number their screens
+from 1, and the page says "All screens are accessible" for each building and
+where the wheelchair spaces are. So the record has one entry per building,
+named as the page names it ("The Arches", "The Power Station"), with the
+listings' name as its alias and a note saying it stands for every screen.
+
 The first filter, "has at least one step-free screen with a wheelchair space",
 needs none of this, and is the one to build first.
 
@@ -271,6 +282,11 @@ hash with `page-hashes.json`. A new or changed page sends its venue back for
 review. A failed page is recorded and the rest carry on; the step fails
 afterwards, with the pages that did come back already written to
 `fetched-pages/`.
+
+A bot challenge that answers 200 counts as failed, so it is never hashed as
+the page: one whose title or text begins "Just a moment...", "Attention
+Required!" or "Please wait while your request is being verified..." (the
+Clapham Grand's host gives `fetch-pages` the last, though not every client).
 
 The hash is over the text, and only the access copy where a selector or
 `text_between` is given, because chain pages wrap that copy in the site
@@ -295,7 +311,14 @@ that data, a section without a name or description, an unknown placeholder or an
 unknown extractor throws. It can't be combined with a selector, or used on a
 PDF; `text_between` can narrow what it gives.
 
-`npm run validate` then checks every record's quotes against those pages.
+Venues can share a page and each read their own part of it: Olympic's access
+page has a section for each of its three cinemas, and the Selfridges and Power
+Station entries take theirs with `text_between`. So a hash is kept under the
+page's address together with the part it reads (`getHashKey` in
+`lib/fetch-sources.js`), and a whole page under its address alone.
+
+`npm run validate` then checks every record's quotes against those pages, each
+against the text fetched for that record's own venue.
 
 ## The seed
 

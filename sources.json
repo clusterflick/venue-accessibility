@@ -41,6 +41,12 @@
       "url": "https://www.bfi.org.uk/venue-hire/hiring-bfi-southbank/nft1"
     }
   ],
+  "cadoganhall.com": [
+    {
+      "tier": 1,
+      "url": "https://cadoganhall.com/your-visit/access-information/"
+    }
+  ],
   "castlesidcup.com": [
     {
       "tier": 1,
@@ -223,6 +229,22 @@
       "url": "https://www.davidleancinema.org.uk/access-guide/"
     }
   ],
+  "earthackney.co.uk": [
+    {
+      "tier": 1,
+      "url": "https://earthackney.co.uk/access/"
+    }
+  ],
+  "ebonylifeplacelondon.com": [
+    {
+      "tier": 1,
+      "url": "https://ebonylifeplacelondon.com/accessibility/"
+    },
+    {
+      "tier": 1,
+      "url": "https://ebonylifeplacelondon.com/visit/"
+    }
+  ],
   "electriccinema.co.uk-portobello": [
     {
       "tier": 1,
@@ -393,6 +415,12 @@
     {
       "tier": 1,
       "url": "https://www.lumiereromford.com/find-us-and-accessibility"
+    }
+  ],
+  "mosaicrooms.org": [
+    {
+      "tier": 1,
+      "url": "https://mosaicrooms.org/visit-us-1"
     }
   ],
   "myvue.com-bromley": [
@@ -643,6 +671,12 @@
       "url": "https://princecharlescinema.com/faq/"
     }
   ],
+  "qmul.ac.uk-bloc": [
+    {
+      "tier": 1,
+      "url": "https://www.qmul.ac.uk/bloc/access/"
+    }
+  ],
   "regentstreetcinema.com": [
     {
       "tier": 1,
@@ -675,10 +709,40 @@
       "url": "https://riversidestudios.co.uk/plan-your-visit/accessibility/"
     }
   ],
+  "thearzner.com": [
+    {
+      "tier": 1,
+      "url": "https://thearzner.com/TheArzner.dll/Page?p=1066&m=m"
+    },
+    {
+      "tier": 1,
+      "url": "https://c5cf388c-5f07-41dc-890e-cd64e84183d0.usrfiles.com/ugd/c5cf38_bae527db1c5d4287ae769b7b849afc33.pdf"
+    }
+  ],
   "thecastlecinema.com": [
     {
       "tier": 1,
       "url": "https://thecastlecinema.com/access/"
+    }
+  ],
+  "thecinemaatselfridges.com": [
+    {
+      "text_between": [
+        "THE CINEMA AT SELFRIDGES Children & Babies",
+        "A HUB OF ENTERTAINMENT"
+      ],
+      "tier": 1,
+      "url": "https://www.olympicstudios.com/pages/accessibility"
+    }
+  ],
+  "thecinemainthepowerstation.com": [
+    {
+      "text_between": [
+        "THE CINEMA IN THE POWER STATION Children & Babies",
+        "THE CINEMA AT SELFRIDGES Children & Babies"
+      ],
+      "tier": 1,
+      "url": "https://www.olympicstudios.com/pages/accessibility"
     }
   ],
   "thegardencinema.co.uk": [
@@ -695,10 +759,22 @@
       "url": "https://www.thegardencinema.co.uk/about-us/faq/"
     }
   ],
+  "thehammondtheatre.co.uk": [
+    {
+      "tier": 1,
+      "url": "https://www.thehammondtheatre.co.uk/visitor-information"
+    }
+  ],
   "thelexicinema.co.uk": [
     {
       "tier": 1,
       "url": "https://thelexicinema.co.uk/TheLexiCinema.dll/Page?p=4&m=m&sp=3"
+    }
+  ],
+  "wiltons.org.uk": [
+    {
+      "tier": 1,
+      "url": "https://wiltons.org.uk/visit-us/accessibility/"
     }
   ]
 }
