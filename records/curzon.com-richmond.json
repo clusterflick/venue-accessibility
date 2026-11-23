@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.curzon.com/venues/richmond/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
     "note": null,
-    "sources": [],
-    "status": "unknown"
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There is a wheelchair-accessible bathroom.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.curzon.com/venues/richmond/"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -51,7 +59,7 @@
     "sources": [],
     "status": "unknown"
   },
-  "notes": null,
+  "notes": "From the venue page's Information tab.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,12 +67,78 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Screen 1",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": "The venue is fully wheelchair-accessible",
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "The venue is fully wheelchair-accessible and hosts weekly captioned Hard of Hearing screenings.",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/richmond/"
+          }
+        ],
+        "status": "yes"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 1,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Screen 1 144 seats, 1 wheelchair space",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/richmond/"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,
     "note": null,
-    "sources": [],
-    "status": "unknown"
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "The venue is fully wheelchair-accessible and hosts weekly captioned Hard of Hearing screenings.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.curzon.com/venues/richmond/"
+      }
+    ],
+    "status": "yes"
   }
 }

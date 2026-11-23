@@ -1,12 +1,20 @@
 {
   "access_contact": null,
-  "access_page_url": null,
+  "access_page_url": "https://www.curzon.com/venues/kingston/",
   "accessible_toilet": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "On the 3rd floor, with the screens",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "Screens accessible toilet are situated on the 3rd floor.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.curzon.com/venues/kingston/"
+      }
+    ],
+    "status": "yes"
   },
   "alt_accessible_entrance": {
     "conflict": null,
@@ -47,11 +55,26 @@
   "lift": {
     "conflict": null,
     "last_found": null,
-    "note": null,
-    "sources": [],
-    "status": "unknown"
+    "note": "Between every floor; 900kg limit",
+    "sources": [
+      {
+        "checked_on": "2026-11-23",
+        "quote": "There's lift access between each floor.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.curzon.com/venues/kingston/"
+      },
+      {
+        "checked_on": "2026-11-23",
+        "quote": "The lift has a maximum weight limit of 900 kg.",
+        "source_last_updated": null,
+        "tier": 1,
+        "url": "https://www.curzon.com/venues/kingston/"
+      }
+    ],
+    "status": "yes"
   },
-  "notes": null,
+  "notes": "From the venue page's Information tab. It gives every screen's wheelchair spaces and lift access between floors, but doesn't say the screens or the way in are step-free.",
   "quiet_space": {
     "conflict": null,
     "last_found": null,
@@ -59,7 +82,208 @@
     "sources": [],
     "status": "unknown"
   },
-  "screens": [],
+  "screens": [
+    {
+      "aliases": ["COLISEUM"],
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Coliseum",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 4,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Coliseum (Dolby Atmos) 110 seats, 4 wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/kingston/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "aliases": ["PALACE"],
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Palace",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Palace 60 seats, 2 wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/kingston/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "aliases": ["ELECTRIC"],
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Electric",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Electric 55 seats, 2 wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/kingston/"
+          }
+        ],
+        "status": "yes"
+      }
+    },
+    {
+      "aliases": ["CENTURY"],
+      "hearing_assist": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "name": "Century",
+      "notes": null,
+      "space_position": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown",
+        "value": "unknown"
+      },
+      "step_free": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "transfer_seating": {
+        "conflict": null,
+        "last_found": null,
+        "note": null,
+        "sources": [],
+        "status": "unknown"
+      },
+      "wheelchair_spaces": {
+        "conflict": null,
+        "count": 2,
+        "last_found": null,
+        "note": null,
+        "sources": [
+          {
+            "checked_on": "2026-11-23",
+            "quote": "Century 58 seats, 2 wheelchair spaces",
+            "source_last_updated": null,
+            "tier": 1,
+            "url": "https://www.curzon.com/venues/kingston/"
+          }
+        ],
+        "status": "yes"
+      }
+    }
+  ],
   "step_free_access": {
     "conflict": null,
     "last_found": null,

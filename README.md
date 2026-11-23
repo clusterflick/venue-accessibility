@@ -224,13 +224,13 @@ November 2026.
 | Vue          | 15     | `myvue.com/cinema/<slug>/whats-on`, read with `text_from`                       | 403 from a cloud container. From home, all 15 answer 200. The access copy is in the page's script data (`__NEXT_DATA__`), not its markup, so `text_from: "vue-accessibility"` reads it from there. Most venues list every screen's wheelchair spaces and where they are; Piccadilly and Westfield Stratford City don't.                                        |
 | ODEON        | 19     | `odeon.co.uk/cinemas/<slug>/` and `accessable.co.uk/odeon/access-guides/<slug>` | Both refuse a plain fetch (Cloudflare), so both escalate (23 November 2026). ODEON's venue page gives each screen's seats and wheelchair spaces, read with `text_from`; its Accessibility tab is shared by 87 cinemas, so is left out. AccessAble has surveys for 17 of the 19 (none for Acton or West End).                                                   |
 | Everyman     | 16     | `everymanmedia.freshdesk.com/…/<id>-<venue>-accessibility-guide`                | Freshdesk answers a plain fetch. Article ids still need discovering for 13 venues.                                                                                                                                                                                                                                                                             |
-| Curzon       | 10     | `curzon.com/venues/<slug>`                                                      | 403 from both: from home, a Cloudflare "Just a moment..." challenge on all 10                                                                                                                                                                                                                                                                                  |
+| Curzon       | 10     | `curzon.com/venues/<slug>/`, its Information tab                                | Cloudflare challenges a plain fetch, so each page escalates (23 November 2026). The venue's details (each screen's seats and wheelchair spaces, and an Accessibility paragraph) only appear once the Information tab is clicked, so each source also has `click`.                                                                                              |
 | Cineworld    | 12     | `cineworld.co.uk/cinemas/<id>`                                                  | 403 from a cloud container. From home, all 12 answer 200 with the real page; each has a short "Disabled Access" answer in its FAQ, now reviewed into the records. Its access copy has no stable element (the class names are regenerated with each build of the site), so `text_between` narrows each page to its FAQ, leaving out the week's dates around it. |
 | Others       | 70     | Their own access pages; AccessAble as backup                                    | Close-Up, BFI's whatson pages (2) and the Hackney Local Offer refused a plain fetch from both: from home, a Cloudflare "Just a moment..." challenge on each. The rest of the seed's sources answered                                                                                                                                                           |
 
-So a home connection gets Cineworld and Vue with a plain fetch. ODEON's site
-and AccessAble come through with escalation (see `escalate` below). Curzon,
-Close-Up, BFI's whatson pages and the Hackney Local Offer still refuse a plain
+So a home connection gets Cineworld and Vue with a plain fetch. ODEON's site,
+AccessAble and Curzon come through with escalation (see `escalate` and `click`
+below). Close-Up, BFI's whatson pages and the Hackney Local Offer still refuse a plain
 fetch and aren't escalated yet. AccessAble's old `/venues/<slug>` addresses in
 the seed (Arthouse, the Cinema Museum, Genesis, Regent Street) now redirect to
 its home page, so they fail until their guides' current addresses are found.
@@ -343,6 +343,16 @@ challenge. Escalating is opted into per source: getting past a site's bot
 protection is a decision someone made, not something the fetch does on its own.
 Locally Camoufox opens a real window; it needs its browser fetched once with
 `npx camoufox-js fetch`.
+
+`click` is for a page whose access copy only appears once a visitor clicks
+something drawn in the browser. Curzon's venue pages keep theirs under an
+Information tab with no address of its own, so their sources click
+`[data-key="information_tab"]` and read `.cinema-page__tabs__information-tab`,
+which only exists once it's open. A source with `click` always goes through the
+browser, since a plain fetch can't click, and needs `escalate` to say what the
+clicked-open page carries. The browser waits for the thing to click (which is
+also how a challenge in front of the page clears), clicks it, and waits for
+that.
 
 Venues can share a page and each read their own part of it: Olympic's access
 page has a section for each of its three cinemas, and the Selfridges and Power
